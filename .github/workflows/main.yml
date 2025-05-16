@@ -5,7 +5,7 @@ on:
   schedule:
     # Runs, for example, every day at 3 AM UTC. Adjust as needed.
     # Use https://crontab.guru to help define your cron schedule.
-    - cron: '0 3 * * *'
+    - cron: '0 0 * * 1'
   push:
     branches:
       - main # Or your fork's default branch (e.g., master)
