@@ -5,12 +5,12 @@
       "nameList": [
         {
           "id": "0",
-          "content": "3号线 候车"
+          "content": "3號線 候車"
         },
         {
           "id": "1",
-          "content": "始发站 - 齿轮",
-          "shortName": "始发站"
+          "content": "始發站 - 齒輪",
+          "shortName": "始發站"
         },
         {
           "id": "2",
@@ -19,12 +19,12 @@
         },
         {
           "id": "3",
-          "content": "第3站 - 乡愁",
+          "content": "第3站 - 鄉愁",
           "shortName": "第3站"
         },
         {
           "id": "4",
-          "content": "第4站 - 幕间",
+          "content": "第4站 - 幕間",
           "shortName": "第4站"
         },
         {
@@ -44,7 +44,7 @@
         },
         {
           "id": "8",
-          "content": "第8站 - 幕间",
+          "content": "第8站 - 幕間",
           "shortName": "第8站"
         },
         {
@@ -54,23 +54,23 @@
         },
         {
           "id": "10",
-          "content": "第10站 - 洗脑",
+          "content": "第10站 - 洗腦",
           "shortName": "第10站"
         },
         {
           "id": "11",
-          "content": "第11站 - 汽灯",
+          "content": "第11站 - 汽燈",
           "shortName": "第11站"
         },
         {
           "id": "12",
-          "content": "第12站 - 幕间",
+          "content": "第12站 - 幕間",
           "shortName": "第12站"
         },
         {
           "id": "13",
-          "content": "终点站 - 螺旋",
-          "shortName": "终点站"
+          "content": "終點站 - 螺旋",
+          "shortName": "終點站"
         }
       ]
     }

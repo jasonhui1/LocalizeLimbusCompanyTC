@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "你怕了吗？",
-          "desc": "若自身带有[TimeAcceleration]，则使本技能的拼点威力+1\n[DefeatDuel] 若现存体力不高于75%，则消耗50层[LimitedTime]并使自身获得1层守护 (每回合最多1次)",
+          "name": "你怕了嗎？",
+          "desc": "若自身帶有[TimeAcceleration]，則使本技能的拼點威力+1\n[DefeatDuel] 若現存體力不高於75%，則消耗50層[LimitedTime]並使自身獲得1層守護 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -31,27 +31,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "杀死时间的惩罚",
-          "desc": "若自身带有[TimeAcceleration]，则使本技能的拼点威力+2\n[WhenUse] 若自身的[LimitedTime]层数不低于500层，则对目标施加1层流血 \n[WhenUse] 若自身的[LimitedTime]层数不低于300层，则消耗25层[LimitedTime]并使本技能增加的流血 强度与施加的流血 层数额外+1",
+          "name": "殺死時間的懲罰",
+          "desc": "若自身帶有[TimeAcceleration]，則使本技能的拼點威力+2\n[WhenUse] 若自身的[LimitedTime]層數不低於500層，則對目標施加1層流血 \n[WhenUse] 若自身的[LimitedTime]層數不低於300層，則消耗25層[LimitedTime]並使本技能增加的流血 強度與施加的流血 層數額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -65,33 +65,33 @@
         {
           "level": 1,
           "name": "截除",
-          "desc": "若自身带有[TimeAcceleration]，则使本技能的硬币威力+1\n[WhenUse] 若现存体力不高于75%，则消耗50层[LimitedTime]并使本技能的拼点威力+2(每回合最多1次)",
+          "desc": "若自身帶有[TimeAcceleration]，則使本技能的硬幣威力+1\n[WhenUse] 若現存體力不高於75%，則消耗50層[LimitedTime]並使本技能的拼點威力+2(每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -104,20 +104,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "碎尸万段",
-          "desc": "[WhenUse] 若现存体力不高于75%，则消耗75层[LimitedTime]并使本技能的拼点威力+2\n[BeforeAttack] 若自身带有[TimeAcceleration]，则使本技能的攻击容量+1",
+          "name": "碎屍萬段",
+          "desc": "[WhenUse] 若現存體力不高於75%，則消耗75層[LimitedTime]並使本技能的拼點威力+2\n[BeforeAttack] 若自身帶有[TimeAcceleration]，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
                 }
               ]
             }
@@ -130,8 +130,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "救援时间",
-          "desc": "[CantDuel]\n对以自身为目标使用攻击技能的单位在下回合施加[TimeKillerWatch]\n[StartBattle] 消耗200层[LimitedTime]并在下回合使自身获得[TimeAcceleration]",
+          "name": "救援時間",
+          "desc": "[CantDuel]\n對以自身爲目標使用攻擊技能的單位在下回合施加[TimeKillerWatch]\n[StartBattle] 消耗200層[LimitedTime]並在下回合使自身獲得[TimeAcceleration]",
           "coinlist": [
             {
               "coindescs": [
@@ -149,8 +149,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[WhenUse] 自身每带有100层[LimitedTime]，使本技能的基础威力+1",
+          "name": "閃避",
+          "desc": "[WhenUse] 自身每帶有100層[LimitedTime]，使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -168,20 +168,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "你怕了吗？",
-          "desc": "若自身带有[TimeAcceleration]，则使本技能的拼点威力+1\n[DefeatDuel] 若现存体力不高于75%，则消耗50层[OwnTime]并使自身获得1层守护 (每回合最多1次)",
+          "name": "你怕了嗎？",
+          "desc": "若自身帶有[TimeAcceleration]，則使本技能的拼點威力+1\n[DefeatDuel] 若現存體力不高於75%，則消耗50層[OwnTime]並使自身獲得1層守護 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -194,27 +194,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "杀死时间的惩罚",
-          "desc": "若自身带有[TimeAcceleration]，则使本技能的拼点威力+2\n[WhenUse] 若所有部位的[OwnTime]层数总计不低于500层，则对目标施加1层流血 \n[WhenUse] 若[OwnTime]层数总计不低于300层，则消耗25层[OwnTime]并使本技能增加的流血 强度与施加的流血 层数额外+1",
+          "name": "殺死時間的懲罰",
+          "desc": "若自身帶有[TimeAcceleration]，則使本技能的拼點威力+2\n[WhenUse] 若所有部位的[OwnTime]層數總計不低於500層，則對目標施加1層流血 \n[WhenUse] 若[OwnTime]層數總計不低於300層，則消耗25層[OwnTime]並使本技能增加的流血 強度與施加的流血 層數額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -228,33 +228,33 @@
         {
           "level": 1,
           "name": "截除",
-          "desc": "若自身带有[TimeAcceleration]，则使本技能的硬币威力+1\n[WhenUse] 若现存体力不高于75%，则消耗50层[OwnTime]并使本技能的拼点威力+2(每回合最多1次)",
+          "desc": "若自身帶有[TimeAcceleration]，則使本技能的硬幣威力+1\n[WhenUse] 若現存體力不高於75%，則消耗50層[OwnTime]並使本技能的拼點威力+2(每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -267,20 +267,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "碎尸万段",
-          "desc": "[WhenUse] 若现存体力不高于75%，则消耗75层[OwnTime]并使本技能的拼点威力+2\n[BeforeAttack] 若自身带有[TimeAcceleration]，则使本技能的攻击容量+1\n[BeforeAttack] 若现存体力不高于60%，则消耗10层[OwnTime]并使本技能的攻击容量+1",
+          "name": "碎屍萬段",
+          "desc": "[WhenUse] 若現存體力不高於75%，則消耗75層[OwnTime]並使本技能的拼點威力+2\n[BeforeAttack] 若自身帶有[TimeAcceleration]，則使本技能的攻擊容量+1\n[BeforeAttack] 若現存體力不高於60%，則消耗10層[OwnTime]並使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度"
                 }
               ]
             }
@@ -293,8 +293,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "救援时间",
-          "desc": "[CantDuel]\n对以自身为目标使用攻击技能的单位在下回合施加[TimeKillerWatch]\n[StartBattle] 消耗200层[OwnTime]并在下回合使自身获得[TimeAcceleration]",
+          "name": "救援時間",
+          "desc": "[CantDuel]\n對以自身爲目標使用攻擊技能的單位在下回合施加[TimeKillerWatch]\n[StartBattle] 消耗200層[OwnTime]並在下回合使自身獲得[TimeAcceleration]",
           "coinlist": [
             {
               "coindescs": [
@@ -312,8 +312,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[WhenUse] 所有部位总计每带有100层[OwnTime]，使本技能的基础威力+1",
+          "name": "閃避",
+          "desc": "[WhenUse] 所有部位總計每帶有100層[OwnTime]，使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -331,13 +331,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "时间杀人时间",
-          "desc": "[CantDuel]\n使自身的速度值固定为12点。\n本回合内无法陷入混乱。\n[WhenUse] 消耗400层[OwnTime]。",
+          "name": "時間殺人時間",
+          "desc": "[CantDuel]\n使自身的速度值固定爲12點。\n本回合內無法陷入混亂。\n[WhenUse] 消耗400層[OwnTime]。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 删除目标的时间。若目标的时间被删除，则使所有部位的[OwnTime]恢复至最大值，下回合使自身获得10层迅捷 与强壮 。"
+                  "desc": "[OnSucceedAttack] 刪除目標的時間。若目標的時間被刪除，則使所有部位的[OwnTime]恢復至最大值，下回合使自身獲得10層迅捷 與強壯 。"
                 }
               ]
             }
@@ -356,7 +356,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -370,26 +370,26 @@
         {
           "level": 1,
           "name": "滴-答",
-          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的拼点威力+1",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -403,22 +403,22 @@
         {
           "level": 1,
           "name": "滴滴答",
-          "desc": "[WhenUse]  若目标的流血 强度不低于5级，则使本技能的拼点威力+1",
+          "desc": "[WhenUse]  若目標的流血 強度不低於5級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度"
                 }
               ]
             }
@@ -451,19 +451,19 @@
         {
           "level": 1,
           "name": "哎呀…",
-          "desc": "[DefeatDuel] 对自身施加1层易损 ",
+          "desc": "[DefeatDuel] 對自身施加1層易損 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -476,34 +476,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "没时间了",
-          "desc": "[DefeatDuel] 对自身施加1层易损 ",
+          "name": "沒時間了",
+          "desc": "[DefeatDuel] 對自身施加1層易損 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -516,7 +516,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我们需要时间！",
+          "name": "我們需要時間！",
           "desc": "",
           "coinlist": [
             {}

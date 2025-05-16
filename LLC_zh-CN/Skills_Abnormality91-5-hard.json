@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "来包装吧",
-          "desc": "若自身带有[AaCeSeBa]，则使本技能的硬币效果增加“下回合对目标施加1层麻痹 ”\n优先指定速度值最低的单位\n[EndBattle] 消耗所有充能 层数",
+          "name": "來包裝吧",
+          "desc": "若自身帶有[AaCeSeBa]，則使本技能的硬幣效果增加“下回合對目標施加1層麻痹 ”\n優先指定速度值最低的單位\n[EndBattle] 消耗所有充能 層數",
           "coinlist": [
             {
               "coindescs": [
@@ -14,7 +14,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加3级呼吸法 强度。"
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度。"
                 }
               ]
             },
@@ -24,10 +24,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的呼吸法 强度，对目标追加相应的伤害"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的呼吸法 強度，對目標追加相應的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加1级呼吸法 强度并获得3层呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得3層呼吸法 "
                 }
               ]
             },
@@ -37,16 +37,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层某1种随机效果，该效果可能为守护 、强壮 、易损 或麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能爲守護 、強壯 、易損 或麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的充能 层数，使目标失去相应的理智值"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的充能 層數，使目標失去相應的理智值"
                 },
                 {
-                  "desc": "[EnemyKill] 使全体敌方单位失去10点理智值。"
+                  "desc": "[EnemyKill] 使全體敵方單位失去10點理智值。"
                 },
                 {
-                  "desc": "[EnemyKillFail] 下回合对自身施加2层麻痹 。"
+                  "desc": "[EnemyKillFail] 下回合對自身施加2層麻痹 。"
                 }
               ]
             }

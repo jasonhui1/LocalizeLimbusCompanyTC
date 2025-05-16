@@ -5,22 +5,22 @@
       "nameList": [
         {
           "id": "0",
-          "content": "5号线正在进行中"
+          "content": "5號線正在進行中"
         },
         {
           "id": "1",
-          "content": "第1区段：依恋-狩猎-源头-喷雾",
-          "shortName": "第1区段"
+          "content": "第1區段：依戀-狩獵-源頭-噴霧",
+          "shortName": "第1區段"
         },
         {
           "id": "2",
-          "content": "第2区段：击锤-狂奔-忘却",
-          "shortName": "第2区段"
+          "content": "第2區段：擊錘-狂奔-忘卻",
+          "shortName": "第2區段"
         },
         {
           "id": "3",
-          "content": "第3区段：母性-反叛-血罪-渴望",
-          "shortName": "第3区段"
+          "content": "第3區段：母性-反叛-血罪-渴望",
+          "shortName": "第3區段"
         }
       ]
     }

@@ -5,17 +5,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "提灯",
-          "abName": "精灵提灯",
+          "name": "提燈",
+          "abName": "精靈提燈",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使现存体力比例最低的2名友方单位恢复其体力上限10%的体力"
+                  "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限10%的體力"
                 }
               ]
             }
@@ -23,17 +23,17 @@
         },
         {
           "level": 3,
-          "name": "提灯",
-          "abName": "精灵提灯",
-          "desc": "[BeforeAttack] 若现存体力不高于50%，则使本技能的攻击容量+1",
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使现存体力比例最低的2名友方单位恢复其体力上限12%的体力"
+                  "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限12%的體力"
                 }
               ]
             }
@@ -41,17 +41,17 @@
         },
         {
           "level": 4,
-          "name": "提灯",
-          "abName": "精灵提灯",
-          "desc": "[BeforeAttack] 若现存体力不高于50%，则使本技能的攻击容量+2",
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使现存体力比例最低的2名友方单位恢复其体力上限15%的体力"
+                  "desc": "[OnSucceedAttack] 使現存體力比例最低的2名友方單位恢復其體力上限15%的體力"
                 }
               ]
             }
@@ -64,17 +64,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "提灯",
-          "abName": "精灵提灯",
-          "desc": "[CantIdentify] \n指定体力最高的单位",
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[CantIdentify] \n指定體力最高的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量30%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
                 }
               ]
             }
@@ -82,20 +82,20 @@
         },
         {
           "level": 3,
-          "name": "提灯",
-          "abName": "精灵提灯",
-          "desc": "[CantIdentify]\n指定体力最高的单位\n[BeforeAttack] 若现存体力不高于50%，则使本技能的攻击容量+1",
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttackTail] 對目標施加3層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
                 }
               ]
             }
@@ -103,20 +103,20 @@
         },
         {
           "level": 4,
-          "name": "提灯",
-          "abName": "精灵提灯",
-          "desc": "[CantIdentify]\n指定体力最高的单位\n[BeforeAttack] 若现存体力不高于50%，则使本技能的攻击容量+2",
+          "name": "提燈",
+          "abName": "精靈提燈",
+          "desc": "[CantIdentify]\n指定體力最高的單位\n[BeforeAttack] 若現存體力不高於50%，則使本技能的攻擊容量+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
                 }
               ]
             }
@@ -129,17 +129,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "9章2节",
-          "abName": "人皮预言者",
+          "name": "9章2節",
+          "abName": "人皮預言者",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未带有烧伤 ，则使其增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 }
               ]
             }
@@ -147,17 +147,17 @@
         },
         {
           "level": 3,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[BeforeAttack] 若色欲共鸣数不低于4，则使本技能的攻击容量+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未带有烧伤 ，则使其增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 }
               ]
             }
@@ -165,20 +165,20 @@
         },
         {
           "level": 4,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[BeforeAttack] 若色欲共鸣数不低于4，则使本技能的攻击容量+1\n[BeforeAttack] 若最大色欲完全共鸣数不低于4，则使本技能的攻击容量额外+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未带有烧伤 ，则使其增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 若目标的烧伤 强度不低于10级，则下回合对其施加1层虚弱 与1层破绽 "
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加1層虛弱 與1層破綻 "
                 }
               ]
             }
@@ -191,17 +191,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[CantIdentify]\n随机指定目标",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未带有烧伤 ，则使其增加6级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 }
               ]
             }
@@ -209,20 +209,20 @@
         },
         {
           "level": 3,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若色欲共鸣数不低于4，则使本技能的攻击容量+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未带有烧伤 ，则使其增加6级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 若目标的烧伤 强度不低于10级，则下回合对其施加1层色欲易损 "
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加1層色慾易損 "
                 }
               ]
             }
@@ -230,20 +230,20 @@
         },
         {
           "level": 4,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若色欲共鸣数不低于4，则使本技能的攻击容量+1\n[BeforeAttack] 若最大色欲完全共鸣数不低于4，则使本技能的攻击容量额外+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若色慾共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未带有烧伤 ，则使其增加6级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 若目标的烧伤 强度不低于10级，则下回合对其施加2层色欲易损 "
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加2層色慾易損 "
                 }
               ]
             }
@@ -258,21 +258,21 @@
           "level": 1,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1",
+          "desc": "[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使自身与现存体力最低的1名友方单位获得自身体力上限10%的护盾与2层泪珠 "
+                  "desc": "[EndSkill] 使自身與現存體力最低的1名友方單位獲得自身體力上限10%的護盾與2層淚珠 "
                 },
                 {
-                  "desc": "- 若最大共鸣数不低于4，则额外使1名友方单位获得以上效果"
+                  "desc": "- 若最大共鳴數不低於4，則額外使1名友方單位獲得以上效果"
                 },
                 {
-                  "desc": "- 若以上友方单位带有泪珠 ，则使其泪珠 层数变为2层"
+                  "desc": "- 若以上友方單位帶有淚珠 ，則使其淚珠 層數變爲2層"
                 },
                 {
-                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能以上效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改爲“獲得3層淚珠 ”與“使其淚珠 層數變爲3層”"
                 }
               ]
             }
@@ -282,18 +282,18 @@
           "level": 3,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "<style=\"highlight\">[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使自身与现存体力最低的<style=\"highlight\">(1+(最大共鸣数-2))</style>名友方单位获得自身体力上限<style=\"highlight\">14%</style>的护盾与2层泪珠 <style=\"highlight\">(除自身以外最大友方单位获取数：3名)</style>"
+                  "desc": "[EndSkill] 使自身與現存體力最低的<style=\"highlight\">(1+(最大共鳴數-2))</style>名友方單位獲得自身體力上限<style=\"highlight\">14%</style>的護盾與2層淚珠 <style=\"highlight\">(除自身以外最大友方單位獲取數：3名)</style>"
                 },
                 {
-                  "desc": "- 若以上友方单位带有泪珠 ，则使其泪珠 层数变为2层<style=\"highlight\"></style>"
+                  "desc": "- 若以上友方單位帶有淚珠 ，則使其淚珠 層數變爲2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能以上效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改爲“獲得3層淚珠 ”與“使其淚珠 層數變爲3層”<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -303,18 +303,18 @@
           "level": 4,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使自身与现存体力最低的(1+(最大共鸣数-2))名友方单位获得自身体力上限<style=\"highlight\">20%</style>的护盾与2层泪珠 (除自身以外最大友方单位获取数：3名)"
+                  "desc": "[EndSkill] 使自身與現存體力最低的(1+(最大共鳴數-2))名友方單位獲得自身體力上限<style=\"highlight\">20%</style>的護盾與2層淚珠 (除自身以外最大友方單位獲取數：3名)"
                 },
                 {
-                  "desc": "- 若以上友方单位带有泪珠 ，则使其泪珠 层数变为2层<style=\"highlight\"></style>"
+                  "desc": "- 若以上友方單位帶有淚珠 ，則使其淚珠 層數變爲2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能以上效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改爲“獲得3層淚珠 ”與“使其淚珠 層數變爲3層”<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -329,21 +329,21 @@
           "level": 1,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n[BeforeAttack] 下回合使本技能对应行动槽的挑衅值 +5",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 下回合使本技能對應行動槽的挑釁值 +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 },
                 {
-                  "desc": "[EndSkill] 使自身获得自身体力上限(15+2.5×(最大共鸣数))%的护盾与2层泪珠 (最多+25%)"
+                  "desc": "[EndSkill] 使自身獲得自身體力上限(15+2.5×(最大共鳴數))%的護盾與2層淚珠 (最多+25%)"
                 },
                 {
-                  "desc": "- 若自身带有泪珠 ，则使自身的泪珠层数变为2层"
+                  "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變爲2層"
                 },
                 {
-                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能以上效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改爲“獲得3層淚珠 ”與“使其淚珠 層數變爲3層”"
                 }
               ]
             }
@@ -353,21 +353,21 @@
           "level": 3,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[CantIdentify]\n随机指定目标\n<style=\"highlight\">[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)</style>\n[BeforeAttack] 下回合使本技能对应行动槽的<style=\"highlight\">挑衅值 +10</style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)</style>\n[BeforeAttack] 下回合使本技能對應行動槽的<style=\"highlight\">挑釁值 +10</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] 使自身获得自身体力上限(<style=\"highlight\">18</style>+<style=\"highlight\">3</style>×(最大共鸣数))%的护盾与2层泪珠 (最多+<style=\"highlight\">30%</style>)"
+                  "desc": "[EndSkill] 使自身獲得自身體力上限(<style=\"highlight\">18</style>+<style=\"highlight\">3</style>×(最大共鳴數))%的護盾與2層淚珠 (最多+<style=\"highlight\">30%</style>)"
                 },
                 {
-                  "desc": "- 若自身带有泪珠 ，则使自身的泪珠层数变为2层<style=\"highlight\"></style>"
+                  "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變爲2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能以上效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改爲“獲得3層淚珠 ”與“使其淚珠 層數變爲3層”<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -377,24 +377,24 @@
           "level": 4,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)\n[BeforeAttack] 下回合使本技能对应行动槽的挑衅值 +10<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)\n[BeforeAttack] 下回合使本技能對應行動槽的挑釁值 +10<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度<style=\"highlight\">并对其施加3层沉沦 </style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度<style=\"highlight\">並對其施加3層沉淪 </style>"
                 },
                 {
-                  "desc": "[EndSkill] 使自身获得自身体力上限(<style=\"highlight\">20</style>+<style=\"highlight\">5</style>×(最大共鸣数))%的护盾与2层泪珠 (最多+<style=\"highlight\">40%</style>)"
+                  "desc": "[EndSkill] 使自身獲得自身體力上限(<style=\"highlight\">20</style>+<style=\"highlight\">5</style>×(最大共鳴數))%的護盾與2層淚珠 (最多+<style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "- 若自身带有泪珠 ，则使自身的泪珠层数变为2层<style=\"highlight\"></style>"
+                  "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變爲2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能以上效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改爲“獲得3層淚珠 ”與“使其淚珠 層數變爲3層”<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- 若忧郁共鸣数不低于4，则使自身额外获得自身体力上限10%的护盾</style>"
+                  "desc": "<style=\"highlight\">- 若憂鬱共鳴數不低於4，則使自身額外獲得自身體力上限10%的護盾</style>"
                 }
               ]
             }
@@ -407,24 +407,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "诅咒之钉",
+          "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[EndSkill] 若目标带有诅咒 ，则立即触发目标的诅咒 2次并使其诅咒 层数减少2层",
+          "desc": "[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 \n- 目标每带有3种除诅咒 与尖钉 以外的负面状态，额外对其施加1层诅咒 (最多2层)"
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 \n- 目標每帶有3種除詛咒 與尖釘 以外的負面狀態，額外對其施加1層詛咒 (最多2層)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層尖釘 "
                 }
               ]
             }
@@ -432,27 +432,27 @@
         },
         {
           "level": 3,
-          "name": "诅咒之钉",
+          "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "<style=\"highlight\">[BeforeAttack] 若包括本技能在内嫉妒共鸣数不低于4，则使本技能的攻击容量+1</style>\n[EndSkill] 若目标带有诅咒 ，则立即触发目标的诅咒 2次并使其诅咒 层数减少2层",
+          "desc": "<style=\"highlight\">[BeforeAttack] 若包括本技能在內嫉妒共鳴數不低於4，則使本技能的攻擊容量+1</style>\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 \n- 目标每带有3种除诅咒 与尖钉 以外的负面状态，额外对其施加1层诅咒 (最多2层)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 \n- 目標每帶有3種除詛咒 與尖釘 以外的負面狀態，額外對其施加1層詛咒 (最多2層)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層尖釘 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 下回合对目标施加2层束缚 (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 下回合對目標施加2層束縛 (每回合最多1次)</style>"
                 }
               ]
             }
@@ -460,30 +460,30 @@
         },
         {
           "level": 4,
-          "name": "诅咒之钉",
+          "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "<style=\"highlight\">[BeforeAttack] 包括本技能在内每有3点嫉妒共鸣数，使本技能的攻击容量+1(最多+2)</style>\n[EndSkill] 若目标带有诅咒 ，则立即触发目标的诅咒 2次并使其诅咒 层数减少2层",
+          "desc": "<style=\"highlight\">[BeforeAttack] 包括本技能在內每有3點嫉妒共鳴數，使本技能的攻擊容量+1(最多+2)</style>\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 \n- 目标每带有<style=\"highlight\">2</style>种除诅咒 与尖钉 以外的负面状态，额外对其施加1层诅咒 (最多2层)"
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 \n- 目標每帶有<style=\"highlight\">2</style>種除詛咒 與尖釘 以外的負面狀態，額外對其施加1層詛咒 (最多2層)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层尖钉 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加3層尖釘 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目标的诅咒 层数不低于4层，则对其施加1层拼点威力降低 (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標的詛咒 層數不低於4層，則對其施加1層拼點威力降低 (每回合最多1次)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加2层束缚 (每回合最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層束縛 (每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -496,24 +496,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "诅咒之钉",
+          "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 若目标带有诅咒 ，则立即触发目标的诅咒 2次并使其诅咒 层数减少2层",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加4层诅咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加4層詛咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層尖釘 "
                 }
               ]
             }
@@ -521,27 +521,27 @@
         },
         {
           "level": 3,
-          "name": "诅咒之钉",
+          "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 若目标带有诅咒 ，则立即触发目标的诅咒 2次并使其诅咒 层数减少2层<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加<style=\"highlight\">3</style>级流血 强度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加<style=\"highlight\">3</style>級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加4层诅咒 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加4層詛咒 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層尖釘 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合对目标施加2层束缚 (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合對目標施加2層束縛 (每回合最多1次)</style>"
                 }
               ]
             }
@@ -549,33 +549,33 @@
         },
         {
           "level": 4,
-          "name": "诅咒之钉",
+          "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 若目标带有诅咒 ，则立即触发目标的诅咒 2次并使其诅咒 层数减少2层<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加3级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 使目標增加3級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加4层诅咒 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加4層詛咒 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层尖钉 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加3層尖釘 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若包括本技能在内嫉妒共鸣数不低于4，则对目标施加1层拼点威力降低 (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若包括本技能在內嫉妒共鳴數不低於4，則對目標施加1層拼點威力降低 (每回合最多1次)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合对目标施加2层束缚 (每回合最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 下回合對目標施加2層束縛 (每回合最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合对目标施加2层防御等级降低 (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合對目標施加2層防禦等級降低 (每回合最多1次)</style>"
                 }
               ]
             }

@@ -2,25 +2,25 @@
   "dataList": [
     {
       "id": 1,
-      "name": "1号线"
+      "name": "1號線"
     },
     {
       "id": 2,
-      "name": "2号线"
+      "name": "2號線"
     },
     {
       "id": 3,
-      "name": "3号线"
+      "name": "3號線"
     },
     {
       "id": 4,
-      "name": "4号线",
-      "longName": "4号线"
+      "name": "4號線",
+      "longName": "4號線"
     },
     {
       "id": 5,
-      "name": "5号线",
-      "longName": "5号线"
+      "name": "5號線",
+      "longName": "5號線"
     }
   ]
 }

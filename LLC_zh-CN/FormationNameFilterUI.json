@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "change_formation_name_title",
-      "content": "修改编队名称"
+      "content": "修改編隊名稱"
     },
     {
       "id": "formation_name_filter_contents_title",
@@ -10,31 +10,31 @@
     },
     {
       "id": "formation_name_filter_contents_story",
-      "content": "剧情关卡"
+      "content": "劇情關卡"
     },
     {
       "id": "formation_name_filter_contents_mirrordungeon",
-      "content": "镜像迷宫"
+      "content": "鏡像迷宮"
     },
     {
       "id": "formation_name_filter_contents_railwaydungeon",
-      "content": "折射轨道"
+      "content": "折射軌道"
     },
     {
       "id": "formation_name_filter_contents_exp_mining",
-      "content": "经验采光"
+      "content": "經驗採光"
     },
     {
       "id": "formation_name_filter_contents_thread_mining",
-      "content": "纺锤采光"
+      "content": "紡錘採光"
     },
     {
       "id": "formation_name_filter_contents_practice",
-      "content": "测试"
+      "content": "測試"
     },
     {
       "id": "formation_name_total_tag_count_limitation",
-      "content": "※ 最多可以选择10个标签。"
+      "content": "※ 最多可以選擇10個標籤。"
     }
   ]
 }

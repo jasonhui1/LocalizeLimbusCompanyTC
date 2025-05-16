@@ -5,14 +5,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "9章2节",
-          "abName": "人皮预言者",
+          "name": "9章2節",
+          "abName": "人皮預言者",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有2级烧伤 强度，将其转化为1层防御等级降低 (最多转化10层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化爲1層防禦等級降低 (最多轉化10層)"
                 }
               ]
             }
@@ -20,17 +20,17 @@
         },
         {
           "level": 3,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[BeforeAttack] 若最大色欲完全共鸣数不低于4，则使本技能的攻击容量+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级烧伤 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有2级烧伤 强度，将其转化为1层防御等级降低 (最多转化10层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化爲1層防禦等級降低 (最多轉化10層)"
                 }
               ]
             }
@@ -38,17 +38,17 @@
         },
         {
           "level": 4,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[BeforeAttack] 若最大色欲完全共鸣数不低于4，则使本技能的攻击容量+1\n若最大色欲完全共鸣数不低于6，则使本技能的攻击容量额外+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量+1\n若最大色慾完全共鳴數不低於6，則使本技能的攻擊容量額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有2级烧伤 强度，将其转化为1层防御等级降低 (最多转化10层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化爲1層防禦等級降低 (最多轉化10層)"
                 }
               ]
             }
@@ -61,17 +61,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[CantIdentify]\n随机指定目标",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有2级烧伤 强度，将其转化为1层防御等级降低 (最多转化10层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化爲1層防禦等級降低 (最多轉化10層)"
                 }
               ]
             }
@@ -79,20 +79,20 @@
         },
         {
           "level": 3,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若最大色欲完全共鸣数不低于4，则使本技能的攻击容量+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttackTail] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有2级烧伤 强度，将其转化为1层防御等级降低 (最多转化10层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化爲1層防禦等級降低 (最多轉化10層)"
                 }
               ]
             }
@@ -100,20 +100,20 @@
         },
         {
           "level": 4,
-          "name": "9章2节",
-          "abName": "人皮预言者",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若最大色欲完全共鸣数不低于4，则使本技能的攻击容量+1\n若最大色欲完全共鸣数不低于6，则使本技能的攻击容量额外+1",
+          "name": "9章2節",
+          "abName": "人皮預言者",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若最大色慾完全共鳴數不低於4，則使本技能的攻擊容量+1\n若最大色慾完全共鳴數不低於6，則使本技能的攻擊容量額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttackTail] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有2级烧伤 强度，将其转化为1层防御等级降低 (最多转化10层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有2級燒傷 強度，將其轉化爲1層防禦等級降低 (最多轉化10層)"
                 }
               ]
             }
@@ -126,41 +126,41 @@
       "levelList": [
         {
           "level": 1,
-          "name": "永恒",
-          "abName": "时间鸭",
-          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(2.5×速度值之差)%(最多+25%)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数)级震颤 强度(最多5级)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "name": "永恆",
+          "abName": "時間鴨",
+          "desc": "若目標的速度值低於自身，則使本技能造成的傷害+(2.5×速度值之差)%(最多+25%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數)級震顫 強度(最多5級)\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加5层震颤 "
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加5層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 "
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恆 振幅糾纏 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半"
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
                 }
               ]
             }
@@ -168,41 +168,41 @@
         },
         {
           "level": 3,
-          "name": "永恒",
-          "abName": "时间鸭",
-          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(<style=\"highlight\">3.5</style>×速度值之差)%(最多+<style=\"highlight\">35%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数×2)级震颤 强度(最多5级)\n<style=\"highlight\">- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)</style>\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "name": "永恆",
+          "abName": "時間鴨",
+          "desc": "若目標的速度值低於自身，則使本技能造成的傷害+(<style=\"highlight\">3.5</style>×速度值之差)%(最多+<style=\"highlight\">35%</style>)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數×2)級震顫 強度(最多5級)\n<style=\"highlight\">- 若該最大共鳴爲怠惰完全共鳴，則根據增加的震顫 強度，對目標施加相應層數的震顫 (最多5層)</style>\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加5层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加5層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恆 振幅糾纏 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -210,44 +210,44 @@
         },
         {
           "level": 4,
-          "name": "永恒",
-          "abName": "时间鸭",
-          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(速度值之差×<style=\"highlight\">5</style>)%(最多<style=\"highlight\">+50%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数<style=\"highlight\">×2</style>)级震颤 强度(最多<style=\"highlight\">10</style>级)\n- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多<style=\"highlight\">10</style>层)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "name": "永恆",
+          "abName": "時間鴨",
+          "desc": "若目標的速度值低於自身，則使本技能造成的傷害+(速度值之差×<style=\"highlight\">5</style>)%(最多<style=\"highlight\">+50%</style>)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數<style=\"highlight\">×2</style>)級震顫 強度(最多<style=\"highlight\">10</style>級)\n- 若該最大共鳴爲怠惰完全共鳴，則根據增加的震顫 強度，對目標施加相應層數的震顫 (最多<style=\"highlight\">10</style>層)\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">10</style>级震颤 强度并对其施加<style=\"highlight\">10</style>层震颤 "
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">10</style>級震顫 強度並對其施加<style=\"highlight\">10</style>層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恆 振幅糾纏 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -260,26 +260,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "永恒",
-          "abName": "时间鸭",
-          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身，则使本技能造成的伤害+(1.5×速度值之差)%(最多+12%)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加3级震颤 强度",
+          "name": "永恆",
+          "abName": "時間鴨",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標的速度值低於自身，則使本技能造成的傷害+(1.5×速度值之差)%(最多+12%)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加3級震顫 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度并对其施加3层震颤 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加3層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 "
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恆 振幅糾纏 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半"
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半"
                 }
               ]
             }
@@ -287,26 +287,26 @@
         },
         {
           "level": 3,
-          "name": "永恒",
-          "abName": "时间鸭",
-          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身，则使本技能造成的伤害+(速度值之差×<style=\"highlight\">2</style>)%(最多<style=\"highlight\">+16%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数)级震颤 强度(最多4级)\n<style=\"highlight\">- [BeforeAttack] 若最大共鸣为怠惰完全共鸣，则对目标施加2层震颤 </style>",
+          "name": "永恆",
+          "abName": "時間鴨",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標的速度值低於自身，則使本技能造成的傷害+(速度值之差×<style=\"highlight\">2</style>)%(最多<style=\"highlight\">+16%</style>)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數)級震顫 強度(最多4級)\n<style=\"highlight\">- [BeforeAttack] 若最大共鳴爲怠惰完全共鳴，則對目標施加2層震顫 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度并对其施加3层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度並對其施加3層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恆 振幅糾纏 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -314,29 +314,29 @@
         },
         {
           "level": 4,
-          "name": "永恒",
-          "abName": "时间鸭",
-          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身，则使本技能造成的伤害+(速度值之差×<style=\"highlight\">2.5</style>)%(最多<style=\"highlight\">+20%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数)级震颤 强度(最多<style=\"highlight\">5</style>级)\n- [BeforeAttack] 若最大共鸣为怠惰完全共鸣，<style=\"highlight\">则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)</style>",
+          "name": "永恆",
+          "abName": "時間鴨",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標的速度值低於自身，則使本技能造成的傷害+(速度值之差×<style=\"highlight\">2.5</style>)%(最多<style=\"highlight\">+20%</style>)\n[BeforeAttack] 若最大共鳴數不低於3，則使目標增加(最大共鳴數)級震顫 強度(最多<style=\"highlight\">5</style>級)\n- [BeforeAttack] 若最大共鳴爲怠惰完全共鳴，<style=\"highlight\">則根據增加的震顫 強度，對目標施加相應層數的震顫 (最多5層)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">5</style>级震颤 强度并对其施加<style=\"highlight\">5</style>层震颤 "
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">5</style>級震顫 強度並對其施加<style=\"highlight\">5</style>層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標以震顫-永恆 振幅糾纏 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 下回合使目標的最大速度值減半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -350,27 +350,27 @@
         {
           "level": 1,
           "name": "套索",
-          "abName": "玫瑰猎人",
-          "desc": "目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)",
+          "abName": "玫瑰獵人",
+          "desc": "目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             }
@@ -379,27 +379,27 @@
         {
           "level": 3,
           "name": "套索",
-          "abName": "玫瑰猎人",
-          "desc": "<style=\"highlight\">若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1</style>\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n<style=\"highlight\">[BeforeAttack] 下回合使自身获得2层迅捷 \n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1</style>",
+          "abName": "玫瑰獵人",
+          "desc": "<style=\"highlight\">若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1</style>\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n<style=\"highlight\">[BeforeAttack] 下回合使自身獲得2層迅捷 \n[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -408,27 +408,27 @@
         {
           "level": 4,
           "name": "套索",
-          "abName": "玫瑰猎人",
-          "desc": "若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 \n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n<style=\"highlight\">- 若该共鸣为暴食共鸣，则使本技能的攻击容量+1</style>",
+          "abName": "玫瑰獵人",
+          "desc": "若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 \n[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n<style=\"highlight\">- 若該共鳴爲暴食共鳴，則使本技能的攻擊容量+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -442,27 +442,27 @@
         {
           "level": 1,
           "name": "套索",
-          "abName": "玫瑰猎人",
-          "desc": "[CantIdentify]\n随机指定目标\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)",
+          "abName": "玫瑰獵人",
+          "desc": "[CantIdentify]\n隨機指定目標\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Snare]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Snare]"
                 }
               ]
             }
@@ -471,30 +471,30 @@
         {
           "level": 3,
           "name": "套索",
-          "abName": "玫瑰猎人",
-          "desc": "[CantIdentify]\n随机指定目标\n<style=\"highlight\">若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1</style>\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n<style=\"highlight\">[BeforeAttack] 下回合使自身获得2层迅捷 </style>",
+          "abName": "玫瑰獵人",
+          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1</style>\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n<style=\"highlight\">[BeforeAttack] 下回合使自身獲得2層迅捷 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Snare]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有1级破裂 强度，使本硬币造成的伤害+2%(最多+30%)"
+                  "desc": "[OnSucceedAttack] 目標每帶有1級破裂 強度，使本硬幣造成的傷害+2%(最多+30%)"
                 }
               ]
             }
@@ -503,30 +503,30 @@
         {
           "level": 4,
           "name": "套索",
-          "abName": "玫瑰猎人",
-          "desc": "[CantIdentify]\n随机指定目标\n若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 \n<style=\"highlight\">[EndSkill] 若目标陷入混乱或击杀目标，则下回合使自身获得1层暴食威力提升 </style>",
+          "abName": "玫瑰獵人",
+          "desc": "[CantIdentify]\n隨機指定目標\n若自身與目標的速度值之和不低於6，則使本技能的硬幣威力+1\n目標每帶有7級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 下回合使自身獲得2層迅捷 \n<style=\"highlight\">[EndSkill] 若目標陷入混亂或擊殺目標，則下回合使自身獲得1層暴食威力提升 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Snare]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有1级破裂 强度，使本硬币造成的伤害+2%(最多+60%)"
+                  "desc": "[OnSucceedAttack] 目標每帶有1級破裂 強度，使本硬幣造成的傷害+2%(最多+60%)"
                 }
               ]
             }
@@ -541,7 +541,7 @@
           "level": 1,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[BeforeAttack] 使全体友方单位增加(最大共鸣数)级呼吸法 强度(最多4级)\n- 若傲慢共鸣数不低于3，则额外使其获得1层呼吸法 ，并在下回合获得1层[ReleaseBreath]",
+          "desc": "[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多4級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]",
           "coinlist": [
             {
               "coindescs": [
@@ -563,19 +563,19 @@
           "level": 3,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[BeforeAttack] 使全体友方单位增加(最大共鸣数)级呼吸法 强度(最多<style=\"highlight\">6</style>级)\n- 若傲慢共鸣数不低于3，则额外使其获得1层呼吸法 ，并在下回合获得1层[ReleaseBreath]",
+          "desc": "[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多<style=\"highlight\">6</style>級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身获得1层呼吸法 </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身獲得1層呼吸法 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+20%)</style>"
+                  "desc": "<style=\"highlight\">使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)</style>"
                 }
               ]
             }
@@ -585,19 +585,19 @@
           "level": 4,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[BeforeAttack] 使全体友方单位增加(最大共鸣数)级呼吸法 强度(最多6级)\n- 若傲慢共鸣数不低于3，则额外使其获得1层呼吸法 ，并在下回合获得1层[ReleaseBreath]<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+<style=\"highlight\">40%</style>)"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+<style=\"highlight\">40%</style>)"
                 }
               ]
             }
@@ -612,7 +612,7 @@
           "level": 1,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若自身的呼吸法 强度不高于20级，则使自身增加至20级呼吸法 强度并消耗自身体力上限(获得的呼吸法 强度×2)%的体力\n- 自身不会因该效果而陷入混乱或阵亡\n[BeforeAttack] 使全体友方单位增加(最大共鸣数)级呼吸法 强度(最多4级)\n- 若傲慢共鸣数不低于3，则额外使其获得1层呼吸法 ，并在下回合获得1层[ReleaseBreath]与1层傲慢伤害强化 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身的呼吸法 強度不高於20級，則使自身增加至20級呼吸法 強度並消耗自身體力上限(獲得的呼吸法 強度×2)%的體力\n- 自身不會因該效果而陷入混亂或陣亡\n[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多4級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]與1層傲慢傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -634,19 +634,19 @@
           "level": 3,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若自身的呼吸法 强度不高于20级，则使自身增加至20级呼吸法 强度并消耗自身体力上限(获得的呼吸法 强度×2)%的体力\n- 自身不会因该效果而陷入混乱或阵亡\n[BeforeAttack] 使全体友方单位增加(最大共鸣数)级呼吸法 强度(最多<style=\"highlight\">6</style>级)\n- 若傲慢共鸣数不低于3，则额外使其获得1层呼吸法 ，并在下回合获得1层[ReleaseBreath]与1层傲慢伤害强化 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身的呼吸法 強度不高於20級，則使自身增加至20級呼吸法 強度並消耗自身體力上限(獲得的呼吸法 強度×2)%的體力\n- 自身不會因該效果而陷入混亂或陣亡\n[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多<style=\"highlight\">6</style>級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]與1層傲慢傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身获得1层呼吸法 </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身獲得1層呼吸法 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+20%)</style>"
+                  "desc": "<style=\"highlight\">使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)</style>"
                 }
               ]
             }
@@ -656,19 +656,19 @@
           "level": 4,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若自身的呼吸法 强度不高于20级，则使自身增加至20级呼吸法 强度并消耗自身体力上限(获得的呼吸法 强度×2)%的体力\n- 自身不会因该效果而陷入混乱或阵亡\n[BeforeAttack] 使全体友方单位增加(最大共鸣数)级呼吸法 强度(最多6级)\n- 若傲慢共鸣数不低于3，则额外使其获得1层呼吸法 ，并在下回合获得1层[ReleaseBreath]与1层傲慢伤害强化 <style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身的呼吸法 強度不高於20級，則使自身增加至20級呼吸法 強度並消耗自身體力上限(獲得的呼吸法 強度×2)%的體力\n- 自身不會因該效果而陷入混亂或陣亡\n[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]與1層傲慢傷害強化 <style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+<style=\"highlight\">40%</style>)"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+<style=\"highlight\">40%</style>)"
                 }
               ]
             }

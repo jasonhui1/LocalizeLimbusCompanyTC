@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": "LoseRatioHpOnly",
-      "content": "<color=#ebcaa2>{conditions}{targets}</color><color=#ebcaa2>失去</color><color=#e30000>{amount}%的体力！</color>"
+      "content": "<color=#ebcaa2>{conditions}{targets}</color><color=#ebcaa2>失去</color><color=#e30000>{amount}%的體力！</color>"
     },
     {
       "id": "Choice_901070401",
-      "content": "<color=#f8c200>获得2个暴怒属性罪孽碎片</color>\n<color=#f8c200>获得2个傲慢属性罪孽碎片</color>"
+      "content": "<color=#f8c200>獲得2個暴怒屬性罪孽碎片</color>\n<color=#f8c200>獲得2個傲慢屬性罪孽碎片</color>"
     },
     {
       "id": "Choice_901070402",
-      "content": "<color=#f8c200>获得2个色欲属性罪孽碎片</color>\n<color=#f8c200>获得2个暴食属性罪孽碎片</color>"
+      "content": "<color=#f8c200>獲得2個色慾屬性罪孽碎片</color>\n<color=#f8c200>獲得2個暴食屬性罪孽碎片</color>"
     },
     {
       "id": "Choice_901070403",
-      "content": "<color=#f8c200>获得2个忧郁属性罪孽碎片</color>\n<color=#f8c200>获得2个嫉妒属性罪孽碎片</color>"
+      "content": "<color=#f8c200>獲得2個憂鬱屬性罪孽碎片</color>\n<color=#f8c200>獲得2個嫉妒屬性罪孽碎片</color>"
     },
     {
       "id": "Choice_901070404",
-      "content": "下回合战斗开始时，对所有罪人施加<color=#e30000>4层破裂 </color>"
+      "content": "下回合戰鬥開始時，對所有罪人施加<color=#e30000>4層破裂 </color>"
     },
     {
       "id": "Choice_901070405",
-      "content": "下回合战斗开始时，对所有罪人施加<color=#e30000>4层破裂 并增加4级破裂 强度</color>"
+      "content": "下回合戰鬥開始時，對所有罪人施加<color=#e30000>4層破裂 並增加4級破裂 強度</color>"
     }
   ]
 }

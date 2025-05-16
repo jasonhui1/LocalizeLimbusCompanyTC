@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "night_clean_up_stage_button_default",
-      "content": "关卡"
+      "content": "關卡"
     },
     {
       "id": "night_clean_up_stage_button_locked",
-      "content": "通过7.5-14后解锁"
+      "content": "通過7.5-14後解鎖"
     },
     {
       "id": "night_clean_up_storybutton_default",
-      "content": "跳转至放映室"
+      "content": "跳轉至放映室"
     },
     {
       "id": "night_clean_up_storybutton_start",
-      "content": "<size=75%>观看活动剧情第1关后\n开放</size>"
+      "content": "<size=75%>觀看活動劇情第1關後\n開放</size>"
     },
     {
       "id": "night_clean_up_stage_button_end_event",
-      "content": "活动结束"
+      "content": "活動結束"
     },
     {
       "id": "night_clean_up_bonus_popup_title",
-      "content": "活动加成角色"
+      "content": "活動加成角色"
     },
     {
       "id": "night_clean_up_bonusUIDesc",
-      "content": "活动期间，当编队中包含以下人格时，<color=#625aff>[清道夫液态燃料罐]</color>的获取量提升。\n获取量提升合计最大值为<color=#625aff>100%</color>。"
+      "content": "活動期間，當編隊中包含以下人格時，<color=#625aff>[清道夫液態燃料罐]</color>的獲取量提升。\n獲取量提升合計最大值爲<color=#625aff>100%</color>。"
     },
     {
       "id": "night_clean_up_scrap_guide_title",
-      "content": "活动道具介绍"
+      "content": "活動道具介紹"
     },
     {
       "id": "night_clean_up_scrap_guide_desc",
-      "content": "首次通关活动关卡与主线剧情，\n以及通关镜像迷宫时，可获得<color=#625aff>[清道夫液态燃料罐]</color>，\n并有低概率额外获得<color=#625aff>[特大型液态燃料罐]</color>。\n\n<color=#625aff>[特大型液态燃料罐]</color>获得后，将立即转化为20个<color=#625aff>[清道夫液态燃料罐]</color>。"
+      "content": "首次通關活動關卡與主線劇情，\n以及通關鏡像迷宮時，可獲得<color=#625aff>[清道夫液態燃料罐]</color>，\n並有低概率額外獲得<color=#625aff>[特大型液態燃料罐]</color>。\n\n<color=#625aff>[特大型液態燃料罐]</color>獲得後，將立即轉化爲20個<color=#625aff>[清道夫液態燃料罐]</color>。"
     },
     {
       "id": "nightcleanup_reward_popup_desc",
-      "content": "首次通关活动关卡与主线剧情、以及通关镜像迷宫时，可获得<color=#e50000>[清道夫液态燃料罐]</color>。\n\n可在<color=#e50000>[奖励兑换]</color>窗口中花费<color=#e50000>[清道夫液态燃料罐]</color>，以获得各种各样的奖励。"
+      "content": "首次通關活動關卡與主線劇情、以及通關鏡像迷宮時，可獲得<color=#e50000>[清道夫液態燃料罐]</color>。\n\n可在<color=#e50000>[獎勵兌換]</color>窗口中花費<color=#e50000>[清道夫液態燃料罐]</color>，以獲得各種各樣的獎勵。"
     },
     {
       "id": "nightCleanUp_reward_popup_num_of_owned_items",
-      "content": "持有道具数"
+      "content": "持有道具數"
     },
     {
       "id": "night_clean_up_rewardShopButton",
-      "content": "奖励兑换"
+      "content": "獎勵兌換"
     }
   ]
 }

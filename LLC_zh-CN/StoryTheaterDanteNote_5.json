@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "MemoryDelete",
-      "content": "记忆消除"
+      "content": "記憶消除"
     },
     {
       "id": "NestT",
@@ -14,15 +14,15 @@
     },
     {
       "id": "Library",
-      "content": "图书馆"
+      "content": "圖書館"
     },
     {
       "id": "SevenAsso",
-      "content": "Seven协会"
+      "content": "Seven協會"
     },
     {
       "id": "DebatyAsso",
-      "content": "Девять协会"
+      "content": "Девять協會"
     },
     {
       "id": "Armory",
@@ -30,7 +30,7 @@
     },
     {
       "id": "Outside",
-      "content": "郊区"
+      "content": "郊區"
     },
     {
       "id": "GreatPond",
@@ -42,11 +42,11 @@
     },
     {
       "id": "Misc",
-      "content": "目前难以分类"
+      "content": "目前難以分類"
     },
     {
       "id": "Walpurgis",
-      "content": "瓦尔普吉斯之夜"
+      "content": "瓦爾普吉斯之夜"
     }
   ]
 }

@@ -6,16 +6,16 @@
         {
           "level": 1,
           "name": "盲目",
-          "abName": "噬梦的浊流",
-          "desc": "[EndSkill] 使理智值最低的4名友方单位恢复15点理智值",
+          "abName": "噬夢的濁流",
+          "desc": "[EndSkill] 使理智值最低的4名友方單位恢復15點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身获得3层充能 "
+                  "desc": "[OnSucceedAttackHead] 使自身獲得3層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 随机使1名友方单位获得1层呼吸法 "
+                  "desc": "[OnSucceedAttack] 隨機使1名友方單位獲得1層呼吸法 "
                 }
               ]
             }
@@ -24,19 +24,19 @@
         {
           "level": 3,
           "name": "盲目",
-          "abName": "噬梦的浊流",
-          "desc": "[EndSkill] 使理智值最低的4名友方单位恢复20点理智值",
+          "abName": "噬夢的濁流",
+          "desc": "[EndSkill] 使理智值最低的4名友方單位恢復20點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身获得4层充能 "
+                  "desc": "[OnSucceedAttackHead] 使自身獲得4層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 随机使1名友方单位获得1层呼吸法 "
+                  "desc": "[OnSucceedAttack] 隨機使1名友方單位獲得1層呼吸法 "
                 },
                 {
-                  "desc": "[EndSkillHead] 使理智值最高的4名友方单位获得1层突刺威力提升 与1层伤害强化 "
+                  "desc": "[EndSkillHead] 使理智值最高的4名友方單位獲得1層突刺威力提升 與1層傷害強化 "
                 }
               ]
             }
@@ -45,19 +45,19 @@
         {
           "level": 4,
           "name": "盲目",
-          "abName": "噬梦的浊流",
-          "desc": "[EndSkill] 使理智值最低的4名友方单位恢复25点理智值",
+          "abName": "噬夢的濁流",
+          "desc": "[EndSkill] 使理智值最低的4名友方單位恢復25點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得6层充能 "
+                  "desc": "[OnSucceedAttack] 使自身獲得6層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 随机使1名友方单位获得2层呼吸法 "
+                  "desc": "[OnSucceedAttack] 隨機使1名友方單位獲得2層呼吸法 "
                 },
                 {
-                  "desc": "[EndSkill] 使理智值最高的4名友方单位获得2层突刺威力提升 与2层伤害强化 "
+                  "desc": "[EndSkill] 使理智值最高的4名友方單位獲得2層突刺威力提升 與2層傷害強化 "
                 }
               ]
             }
@@ -71,16 +71,16 @@
         {
           "level": 1,
           "name": "盲目",
-          "abName": "噬梦的浊流",
-          "desc": "[CantIdentify]\n随机指定目标",
+          "abName": "噬夢的濁流",
+          "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加1级呼吸法 强度并获得1层呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 本回合与下回合中，对目标施加2层傲慢易损 "
+                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加2層傲慢易損 "
                 }
               ]
             }
@@ -89,22 +89,22 @@
         {
           "level": 3,
           "name": "盲目",
-          "abName": "噬梦的浊流",
-          "desc": "[CantIdentify]\n随机指定目标",
+          "abName": "噬夢的濁流",
+          "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复体力上限3%的体力"
+                  "desc": "[OnSucceedAttackTail] 使自身恢復體力上限3%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加1级呼吸法 强度并获得1层呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 本回合与下回合中，对目标施加2层傲慢易损 "
+                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加2層傲慢易損 "
                 },
                 {
-                  "desc": "[EndSkillTail] 本回合与下回合中，使理智值最低的4名友方单位获得2层伤害强化 "
+                  "desc": "[EndSkillTail] 本回合與下回閤中，使理智值最低的4名友方單位獲得2層傷害強化 "
                 }
               ]
             }
@@ -113,22 +113,22 @@
         {
           "level": 4,
           "name": "盲目",
-          "abName": "噬梦的浊流",
-          "desc": "[CantIdentify]\n随机指定目标",
+          "abName": "噬夢的濁流",
+          "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限3%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限3%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加1级呼吸法 强度并获得1层呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身增加1級呼吸法 強度並獲得1層呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 本回合与下回合中，对目标施加3层傲慢易损 "
+                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加3層傲慢易損 "
                 },
                 {
-                  "desc": "[EndSkill] 本回合与下回合中，使理智值最低的4名友方单位获得2层伤害强化 "
+                  "desc": "[EndSkill] 本回合與下回閤中，使理智值最低的4名友方單位獲得2層傷害強化 "
                 }
               ]
             }
@@ -142,32 +142,32 @@
         {
           "level": 1,
           "name": "翅振",
-          "abName": "精灵盛宴",
+          "abName": "精靈盛宴",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限15%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限15%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身失去1~2点理智值"
+                  "desc": "[OnSucceedAttackHead] 使自身失去1~2點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 重复使用本硬币(每个技能最多5次)"
+                  "desc": "[OnSucceedAttackHead] 重複使用本硬幣(每個技能最多5次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量4~8%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量4~8%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层暴食易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層暴食易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1~3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1~3級流血 強度"
                 }
               ]
             }
@@ -176,32 +176,32 @@
         {
           "level": 3,
           "name": "翅振",
-          "abName": "精灵盛宴",
-          "desc": "若本技能恢复的体力超过自身体力上限，则使现存体力比例最低的1名友方单位恢复相当于溢出恢复量的体力",
+          "abName": "精靈盛宴",
+          "desc": "若本技能恢復的體力超過自身體力上限，則使現存體力比例最低的1名友方單位恢復相當於溢出恢復量的體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限<style=\"highlight\">18</style>%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限<style=\"highlight\">18</style>%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身失去1~2点理智值"
+                  "desc": "[OnSucceedAttackHead] 使自身失去1~2點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 重复使用本硬币(每个技能最多5次)"
+                  "desc": "[OnSucceedAttackHead] 重複使用本硬幣(每個技能最多5次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量<style=\"highlight\">6~10</style>%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量<style=\"highlight\">6~10</style>%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层暴食易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層暴食易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1~3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1~3級流血 強度"
                 }
               ]
             }
@@ -210,32 +210,32 @@
         {
           "level": 4,
           "name": "翅振",
-          "abName": "精灵盛宴",
-          "desc": "若本技能恢复的体力超过自身体力上限，则使现存体力比例最低的1名友方单位恢复相当于溢出恢复量的体力",
+          "abName": "精靈盛宴",
+          "desc": "若本技能恢復的體力超過自身體力上限，則使現存體力比例最低的1名友方單位恢復相當於溢出恢復量的體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限<style=\"highlight\">20</style>%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限<style=\"highlight\">20</style>%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身失去1~2点理智值"
+                  "desc": "[OnSucceedAttackHead] 使自身失去1~2點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 重复使用本硬币(每个技能最多5次)"
+                  "desc": "[OnSucceedAttackHead] 重複使用本硬幣(每個技能最多5次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量<style=\"highlight\">8~12</style>%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量<style=\"highlight\">8~12</style>%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层暴食易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層暴食易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1~<style=\"highlight\">4</style>级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1~<style=\"highlight\">4</style>級流血 強度"
                 }
               ]
             }
@@ -249,16 +249,16 @@
         {
           "level": 1,
           "name": "翅振",
-          "abName": "精灵盛宴",
-          "desc": "[CantIdentify]\n指定本体体力最低的单位\n[BeforeAttack] 随机对除自身以外的至多5名友方单位造成体力上限5%的体力伤害\n- 使自身恢复相当于对友方单位造成伤害量的体力\n- 若自身对友方单位造成了伤害，则本回合使自身获得2层强壮 并在下回合使自身获得2层迅捷 \n(每回合最多1次。造成伤害包括对护盾造成伤害。本效果造成的伤害能够击杀友方单位)",
+          "abName": "精靈盛宴",
+          "desc": "[CantIdentify]\n指定本體體力最低的單位\n[BeforeAttack] 隨機對除自身以外的至多5名友方單位造成體力上限5%的體力傷害\n- 使自身恢復相當於對友方單位造成傷害量的體力\n- 若自身對友方單位造成了傷害，則本回合使自身獲得2層強壯 並在下回合使自身獲得2層迅捷 \n(每回合最多1次。造成傷害包括對護盾造成傷害。本效果造成的傷害能夠擊殺友方單位)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量10%的体力"
+                  "desc": "[OnSucceedAttackTail] 使自身恢復本硬幣傷害量10%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加1~4级流血 强度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加1~4級流血 強度"
                 }
               ]
             }
@@ -267,16 +267,16 @@
         {
           "level": 3,
           "name": "翅振",
-          "abName": "精灵盛宴",
-          "desc": "[CantIdentify]\n指定本体体力最低的单位\n<style=\"highlight\">[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+1)</style>\n[BeforeAttack] 随机对除自身以外的至多5名友方单位造成体力上限5%的体力伤害\n- 使自身恢复相当于对友方单位造成伤害量的体力\n- 若自身对友方单位造成了伤害，则本回合使自身获得2层强壮 并在下回合使自身获得2层迅捷 \n(每回合最多1次。造成伤害包括对护盾造成伤害。本效果造成的伤害能够击杀友方单位)\n<style=\"highlight\">[EndSkill] 若本技能恢复的体力超过自身体力上限，则下回合使自身获得(溢出恢复量/体力上限)×10层攻击等级提升 (每回合最多3层)</style>",
+          "abName": "精靈盛宴",
+          "desc": "[CantIdentify]\n指定本體體力最低的單位\n<style=\"highlight\">[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+1)</style>\n[BeforeAttack] 隨機對除自身以外的至多5名友方單位造成體力上限5%的體力傷害\n- 使自身恢復相當於對友方單位造成傷害量的體力\n- 若自身對友方單位造成了傷害，則本回合使自身獲得2層強壯 並在下回合使自身獲得2層迅捷 \n(每回合最多1次。造成傷害包括對護盾造成傷害。本效果造成的傷害能夠擊殺友方單位)\n<style=\"highlight\">[EndSkill] 若本技能恢復的體力超過自身體力上限，則下回合使自身獲得(溢出恢復量/體力上限)×10層攻擊等級提升 (每回合最多3層)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量<style=\"highlight\">15</style>%的体力"
+                  "desc": "[OnSucceedAttackTail] 使自身恢復本硬幣傷害量<style=\"highlight\">15</style>%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加<style=\"highlight\">2~5</style>级流血 强度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加<style=\"highlight\">2~5</style>級流血 強度"
                 }
               ]
             }
@@ -285,19 +285,19 @@
         {
           "level": 4,
           "name": "翅振",
-          "abName": "精灵盛宴",
-          "desc": "[CantIdentify]\n指定本体体力最低的单位\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+<style=\"highlight\">2</style>)\n[BeforeAttack] 随机对除自身以外的至多5名友方单位造成体力上限5%的体力伤害\n- 使自身恢复相当于对友方单位造成伤害量的体力\n- 若自身对友方单位造成了伤害，则本回合使自身获得2层强壮 并在下回合使自身获得2层迅捷 \n(每回合最多1次。造成伤害包括对护盾造成伤害。本效果造成的伤害能够击杀友方单位)\n[EndSkill] 若本技能恢复的体力超过自身体力上限，则下回合使自身获得(溢出恢复量/体力上限)×10层攻击等级提升 (每回合最多<style=\"highlight\">6</style>层)",
+          "abName": "精靈盛宴",
+          "desc": "[CantIdentify]\n指定本體體力最低的單位\n[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+<style=\"highlight\">2</style>)\n[BeforeAttack] 隨機對除自身以外的至多5名友方單位造成體力上限5%的體力傷害\n- 使自身恢復相當於對友方單位造成傷害量的體力\n- 若自身對友方單位造成了傷害，則本回合使自身獲得2層強壯 並在下回合使自身獲得2層迅捷 \n(每回合最多1次。造成傷害包括對護盾造成傷害。本效果造成的傷害能夠擊殺友方單位)\n[EndSkill] 若本技能恢復的體力超過自身體力上限，則下回合使自身獲得(溢出恢復量/體力上限)×10層攻擊等級提升 (每回合最多<style=\"highlight\">6</style>層)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量<style=\"highlight\">20</style>%的体力"
+                  "desc": "[OnSucceedAttackTail] 使自身恢復本硬幣傷害量<style=\"highlight\">20</style>%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加<style=\"highlight\">3~6</style>级流血 强度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加<style=\"highlight\">3~6</style>級流血 強度"
                 },
                 {
-                  "desc": "[EnemyKill] 下回合使自身获得1层强壮 (最多3层)"
+                  "desc": "[EnemyKill] 下回合使自身獲得1層強壯 (最多3層)"
                 }
               ]
             }
@@ -312,18 +312,18 @@
           "level": 1,
           "name": "往昔",
           "abName": "某日的肖像",
-          "desc": "[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限(5+(主要目标的沉沦 强度与层数之和)/3)%的体力(最多15%)",
+          "desc": "[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n[EndSkill] 使現存體力比例最低的2名友方單位恢復其體力上限(5+(主要目標的沉淪 強度與層數之和)/3)%的體力(最多15%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层诅咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層詛咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[UninvitedGuestPersonality]"
                 }
               ]
             }
@@ -333,21 +333,21 @@
           "level": 3,
           "name": "往昔",
           "abName": "某日的肖像",
-          "desc": "[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n<style=\"highlight\">- 若该共鸣为忧郁共鸣，则使本技能的攻击容量+1</style>\n[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限(<style=\"highlight\">10</style>+(主要目标的沉沦 强度与层数之和)/3)%的体力(最多15%)",
+          "desc": "[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n<style=\"highlight\">- 若該共鳴爲憂鬱共鳴，則使本技能的攻擊容量+1</style>\n[EndSkill] 使現存體力比例最低的2名友方單位恢復其體力上限(<style=\"highlight\">10</style>+(主要目標的沉淪 強度與層數之和)/3)%的體力(最多15%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层诅咒 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層詛咒 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若忧郁共鸣数不低于4，则对目标施加1层忧郁易损 </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若憂鬱共鳴數不低於4，則對目標施加1層憂鬱易損 </style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -357,21 +357,21 @@
           "level": 4,
           "name": "往昔",
           "abName": "某日的肖像",
-          "desc": "[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n- 若该共鸣为忧郁共鸣，则使本技能的攻击容量+1\n[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限(10+(主要目标的沉沦 强度与层数之和)/3)%的体力(最多<style=\"highlight\">20</style>%)\n<style=\"highlight\">- 若最大共鸣为共鸣数不低于4的忧郁共鸣，则使其额外恢复体力上限10%的体力</style>",
+          "desc": "[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n- 若該共鳴爲憂鬱共鳴，則使本技能的攻擊容量+1\n[EndSkill] 使現存體力比例最低的2名友方單位恢復其體力上限(10+(主要目標的沉淪 強度與層數之和)/3)%的體力(最多<style=\"highlight\">20</style>%)\n<style=\"highlight\">- 若最大共鳴爲共鳴數不低於4的憂鬱共鳴，則使其額外恢復體力上限10%的體力</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层诅咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層詛咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若忧郁共鸣数不低于4，则对目标施加1层忧郁易损 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若憂鬱共鳴數不低於4，則對目標施加1層憂鬱易損 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -386,21 +386,21 @@
           "level": 1,
           "name": "往昔",
           "abName": "某日的肖像",
-          "desc": "[CantIdentify]\n优先指定沉沦 最多的目标\n[BeforeAttack] 使自身失去体力上限10%的体力(不会因该效果而陷入混乱)\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复其体力上限(5+(主要目标的沉沦 强度与层数之和)/3)%的体力(最多10%)\n- 若最大共鸣数不低于4，则额外使1名友方单位恢复体力",
+          "desc": "[CantIdentify]\n優先指定沉淪 最多的目標\n[BeforeAttack] 使自身失去體力上限10%的體力(不會因該效果而陷入混亂)\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢復其體力上限(5+(主要目標的沉淪 強度與層數之和)/3)%的體力(最多10%)\n- 若最大共鳴數不低於4，則額外使1名友方單位恢復體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层诅咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層詛咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若忧郁共鸣数不低于3，则对目标施加1层忧郁易损 "
+                  "desc": "[OnSucceedAttack] 若憂鬱共鳴數不低於3，則對目標施加1層憂鬱易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[UninvitedGuestPersonality]"
                 }
               ]
             }
@@ -410,24 +410,24 @@
           "level": 3,
           "name": "往昔",
           "abName": "某日的肖像",
-          "desc": "[CantIdentify]\n优先指定沉沦 最多的目标\n[BeforeAttack] 使自身失去体力上限10%的体力(不会因该效果而陷入混乱)\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复其体力上限(<style=\"highlight\">10</style>+(主要目标的沉沦 强度与层数之和)/3)%的体力(最多<style=\"highlight\">15</style>%)\n- 若最大共鸣数不低于4，则额外使1名友方单位恢复体力",
+          "desc": "[CantIdentify]\n優先指定沉淪 最多的目標\n[BeforeAttack] 使自身失去體力上限10%的體力(不會因該效果而陷入混亂)\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢復其體力上限(<style=\"highlight\">10</style>+(主要目標的沉淪 強度與層數之和)/3)%的體力(最多<style=\"highlight\">15</style>%)\n- 若最大共鳴數不低於4，則額外使1名友方單位恢復體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若忧郁共鸣数不低于3，则对目标施加1层忧郁易损 "
+                  "desc": "[OnSucceedAttack] 若憂鬱共鳴數不低於3，則對目標施加1層憂鬱易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[UninvitedGuestPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[EchoOfMansion]"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[EchoOfMansion]"
                 }
               ]
             }
@@ -437,24 +437,24 @@
           "level": 4,
           "name": "往昔",
           "abName": "某日的肖像",
-          "desc": "[CantIdentify]\n优先指定沉沦 最多的目标\n[BeforeAttack] 使自身失去体力上限10%的体力(不会因该效果而陷入混乱)\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复其体力上限(10+(主要目标的沉沦 强度与层数之和)/3)%的体力(最多15%)\n- 若最大共鸣数不低于4，则额外使1名友方单位恢复体力\n<style=\"highlight\">- 若该共鸣为忧郁共鸣，则使其额外恢复体力上限5%的体力</style>",
+          "desc": "[CantIdentify]\n優先指定沉淪 最多的目標\n[BeforeAttack] 使自身失去體力上限10%的體力(不會因該效果而陷入混亂)\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢復其體力上限(10+(主要目標的沉淪 強度與層數之和)/3)%的體力(最多15%)\n- 若最大共鳴數不低於4，則額外使1名友方單位恢復體力\n<style=\"highlight\">- 若該共鳴爲憂鬱共鳴，則使其額外恢復體力上限5%的體力</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">每有3点</style>忧郁共鸣数，对目标施加1层忧郁易损 <style=\"highlight\">(最多2层)</style>"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">每有3點</style>憂鬱共鳴數，對目標施加1層憂鬱易損 <style=\"highlight\">(最多2層)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[UninvitedGuestPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[EchoOfMansion]"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[EchoOfMansion]"
                 }
               ]
             }
@@ -467,21 +467,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "圣诞梦魇",
-          "abName": "舒适卧床",
-          "desc": "[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[EndSkill] 若有目标陷入混乱、士气低落或陷入恐慌，则使自身恢复10点理智值",
+          "name": "聖誕夢魘",
+          "abName": "舒適臥牀",
+          "desc": "[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[EndSkill] 若有目標陷入混亂、士氣低落或陷入恐慌，則使自身恢復10點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }
@@ -489,27 +489,27 @@
         },
         {
           "level": 3,
-          "name": "圣诞梦魇",
-          "abName": "舒适卧床",
-          "desc": "<style=\"highlight\">若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)</style>\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[EndSkill] 若有目标陷入混乱、士气低落或陷入恐慌，则使自身恢复10点理智值",
+          "name": "聖誕夢魘",
+          "abName": "舒適臥牀",
+          "desc": "<style=\"highlight\">若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)</style>\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[EndSkill] 若有目標陷入混亂、士氣低落或陷入恐慌，則使自身恢復10點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少2层"
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少2層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -517,27 +517,27 @@
         },
         {
           "level": 4,
-          "name": "圣诞梦魇",
-          "abName": "舒适卧床",
-          "desc": "若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[EndSkill] 若有目标陷入混乱、士气低落或陷入恐慌，则使自身恢复10点理智值<style=\"highlight\"></style>",
+          "name": "聖誕夢魘",
+          "abName": "舒適臥牀",
+          "desc": "若目標的理智值低於0點，則每相差1點，使本技能造成的傷害+1%(最多+45%)\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[EndSkill] 若有目標陷入混亂、士氣低落或陷入恐慌，則使自身恢復10點理智值<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 <style=\"highlight\">2次</style>，并使其震颤 层数减少2层"
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 <style=\"highlight\">2次</style>，並使其震顫 層數減少2層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -550,28 +550,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "圣诞梦魇",
-          "abName": "舒适卧床",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[BeforeAttack] 使自身恢复10点体力",
+          "name": "聖誕夢魘",
+          "abName": "舒適臥牀",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[BeforeAttack] 使自身恢復10點體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             }
@@ -579,34 +579,34 @@
         },
         {
           "level": 3,
-          "name": "圣诞梦魇",
-          "abName": "舒适卧床",
-          "desc": "[CantIdentify]\n随机指定目标\n<style=\"highlight\">若主要目标陷入混乱、士气低落或陷入恐慌，则使本技能的基础威力+1</style>\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[BeforeAttack] 使自身恢复10点体力\n<style=\"highlight\">[EndSkill] 每有1名敌方单位陷入混乱、士气低落或陷入恐慌，使自身恢复5点理智值</style>",
+          "name": "聖誕夢魘",
+          "abName": "舒適臥牀",
+          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">若主要目標陷入混亂、士氣低落或陷入恐慌，則使本技能的基礎威力+1</style>\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[BeforeAttack] 使自身恢復10點體力\n<style=\"highlight\">[EndSkill] 每有1名敵方單位陷入混亂、士氣低落或陷入恐慌，使自身恢復5點理智值</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度并对其施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度並對其施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -614,37 +614,37 @@
         },
         {
           "level": 4,
-          "name": "圣诞梦魇",
-          "abName": "舒适卧床",
-          "desc": "[CantIdentify]\n随机指定目标\n若主要目标陷入混乱、士气低落或陷入恐慌，则使本技能的基础威力+<style=\"highlight\">2</style>\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[BeforeAttack] 使自身恢复10点体力\n[EndSkill] 每有1名敌方单位陷入混乱、士气低落或陷入恐慌，使自身恢复5点理智值<style=\"highlight\"></style>",
+          "name": "聖誕夢魘",
+          "abName": "舒適臥牀",
+          "desc": "[CantIdentify]\n隨機指定目標\n若主要目標陷入混亂、士氣低落或陷入恐慌，則使本技能的基礎威力+<style=\"highlight\">2</style>\n[BeforeAttack] 對自身施加(最大共鳴數+5)層震顫 (最多10層)\n[BeforeAttack] 使自身恢復10點體力\n[EndSkill] 每有1名敵方單位陷入混亂、士氣低落或陷入恐慌，使自身恢復5點理智值<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度并对其施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其增加5級沉淪 強度並對其施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目標未陷入混亂、士氣低落或陷入恐慌，則使其震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             }

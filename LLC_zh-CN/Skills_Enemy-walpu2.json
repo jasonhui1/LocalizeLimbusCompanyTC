@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度。若目标带有流血 ，则额外对其施加1层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度。若目標帶有流血 ，則額外對其施加1層流血 "
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "钉刺",
+          "name": "釘刺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -51,26 +51,26 @@
         {
           "level": 1,
           "name": "痛苦",
-          "desc": "优先指定带有流血 的单位",
+          "desc": "優先指定帶有流血 的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量10%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量10%的傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量10%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量10%的傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，相應增加流血 強度"
                 }
               ]
             }
@@ -83,8 +83,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
-          "desc": "若自身带有护盾时受到攻击，则下回合使攻击者增加2级流血 强度",
+          "name": "防禦",
+          "desc": "若自身帶有護盾時受到攻擊，則下回合使攻擊者增加2級流血 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -108,7 +108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度。若目标带有流血 ，则额外对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度。若目標帶有流血 ，則額外對其施加2層流血 "
                 }
               ]
             }
@@ -121,20 +121,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "钉刺",
+          "name": "釘刺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 }
               ]
             }
@@ -148,32 +148,32 @@
         {
           "level": 1,
           "name": "痛苦",
-          "desc": "优先指定带有流血 的单位\n自身击杀目标时，使理智值最低的敌方单位失去10点理智值。",
+          "desc": "優先指定帶有流血 的單位\n自身擊殺目標時，使理智值最低的敵方單位失去10點理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量10%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量10%的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttackHead] 根據目標帶有的流血 強度，相應使其失去理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量10%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量10%的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttackHead] 根據目標帶有的流血 強度，相應使其失去理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，相應增加流血 強度"
                 }
               ]
             }
@@ -186,7 +186,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
+          "name": "閃避",
           "desc": "",
           "coinlist": [
             {
@@ -211,7 +211,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度。若目标带有流血 ，则额外对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度。若目標帶有流血 ，則額外對其施加2層流血 "
                 }
               ]
             }
@@ -224,20 +224,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "钉刺",
+          "name": "釘刺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 }
               ]
             }
@@ -251,35 +251,35 @@
         {
           "level": 1,
           "name": "痛苦",
-          "desc": "优先指定带有流血 的单位\n自身击杀目标时，使理智值最低的敌方单位失去10点理智值。\n自身击杀目标时，对另一名目标重复使用本技能。",
+          "desc": "優先指定帶有流血 的單位\n自身擊殺目標時，使理智值最低的敵方單位失去10點理智值。\n自身擊殺目標時，對另一名目標重複使用本技能。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量20%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量20%的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，相應使其失去理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量20%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量20%的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，相應使其失去理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，相應增加流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则重复使用本硬币(最多1次)"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則重複使用本硬幣(最多1次)"
                 }
               ]
             }
@@ -292,7 +292,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击",
+          "name": "反擊",
           "desc": "",
           "coinlist": [
             {
@@ -317,20 +317,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度。若目标带有流血 ，则额外对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度。若目標帶有流血 ，則額外對其施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
                 }
               ]
             }
@@ -343,27 +343,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "钉刺",
+          "name": "釘刺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 }
               ]
             }
@@ -377,45 +377,45 @@
         {
           "level": 1,
           "name": "痛苦",
-          "desc": "优先指定带有流血 的单位\n自身击杀目标时，使理智值最低的敌方单位失去15点理智值。\n自身击杀目标时，对另一名目标重复使用本技能。",
+          "desc": "優先指定帶有流血 的單位\n自身擊殺目標時，使理智值最低的敵方單位失去15點理智值。\n自身擊殺目標時，對另一名目標重複使用本技能。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量20%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量20%的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去(目标的流血 强度/2)点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去(目標的流血 強度/2)點理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量20%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量20%的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去(目标的流血 强度/2)点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去(目標的流血 強度/2)點理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其追加本硬币伤害量20%的伤害"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其追加本硬幣傷害量20%的傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去(目标的流血 强度/2)点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去(目標的流血 強度/2)點理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，相應增加流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于7级，则重复使用本硬币(最多1次)"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於7級，則重複使用本硬幣(最多1次)"
                 }
               ]
             }
@@ -428,7 +428,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击",
+          "name": "反擊",
           "desc": "",
           "coinlist": [
             {}

@@ -6,7 +6,7 @@
     },
     {
       "id": "SCARLET",
-      "name": "色欲"
+      "name": "色慾"
     },
     {
       "id": "AMBER",
@@ -18,7 +18,7 @@
     },
     {
       "id": "AZURE",
-      "name": "忧郁"
+      "name": "憂鬱"
     },
     {
       "id": "INDIGO",
@@ -30,11 +30,11 @@
     },
     {
       "id": "WHITE",
-      "name": "疯狂"
+      "name": "瘋狂"
     },
     {
       "id": "BLACK",
-      "name": "哀叹"
+      "name": "哀嘆"
     }
   ]
 }

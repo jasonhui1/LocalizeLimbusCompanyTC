@@ -3,8 +3,8 @@
     {
       "id": 0,
       "model": "다친에고동랑",
-      "teller": "东朗",
-      "title": "绽放E.G.O::司田",
+      "teller": "東朗",
+      "title": "綻放E.G.O::司田",
       "content": "李……箱……"
     },
     {
@@ -15,12 +15,12 @@
     {
       "id": 2,
       "model": "이상",
-      "content": "<color=#d4e1e8>我忆起那个春日。</color>"
+      "content": "<color=#d4e1e8>我憶起那個春日。</color>"
     },
     {
       "id": 3,
       "model": "이상",
-      "content": "<color=#d4e1e8>星，自我们眼中升起。</color>"
+      "content": "<color=#d4e1e8>星，自我們眼中升起。</color>"
     },
     {
       "id": 4,
@@ -30,44 +30,44 @@
     {
       "id": 5,
       "model": "다친에고동랑",
-      "teller": "东朗",
-      "title": "绽放E.G.O::司田",
+      "teller": "東朗",
+      "title": "綻放E.G.O::司田",
       "content": "……"
     },
     {
       "id": 6,
       "model": "다친에고동랑",
-      "teller": "东朗",
-      "title": "绽放E.G.O::司田",
-      "content": "熠熠生辉。"
+      "teller": "東朗",
+      "title": "綻放E.G.O::司田",
+      "content": "熠熠生輝。"
     },
     {
       "id": 7,
       "model": "다친에고동랑",
-      "teller": "东朗",
-      "title": "绽放E.G.O::司田",
-      "content": "就像你的翅膀一样……闪耀着光芒。"
+      "teller": "東朗",
+      "title": "綻放E.G.O::司田",
+      "content": "就像你的翅膀一樣……閃耀着光芒。"
     },
     {
       "id": 8,
       "model": "다친에고동랑",
-      "teller": "东朗",
-      "title": "绽放E.G.O::司田",
-      "content": "我……被九人会的阴影所笼罩……"
+      "teller": "東朗",
+      "title": "綻放E.G.O::司田",
+      "content": "我……被九人會的陰影所籠罩……"
     },
     {
       "id": 9,
       "model": "다친에고동랑",
-      "teller": "东朗",
-      "title": "绽放E.G.O::司田",
-      "content": "虽然一直想逃离……"
+      "teller": "東朗",
+      "title": "綻放E.G.O::司田",
+      "content": "雖然一直想逃離……"
     },
     {
       "id": 10,
       "model": "다친에고동랑",
-      "teller": "东朗",
-      "title": "绽放E.G.O::司田",
-      "content": "但终究……在最后的最后拥抱我的……还是这片阴影。"
+      "teller": "東朗",
+      "title": "綻放E.G.O::司田",
+      "content": "但終究……在最後的最後擁抱我的……還是這片陰影。"
     }
   ]
 }

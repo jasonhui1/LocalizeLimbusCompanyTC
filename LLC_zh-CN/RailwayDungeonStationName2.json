@@ -5,12 +5,12 @@
       "nameList": [
         {
           "id": "0",
-          "content": "进入2号线"
+          "content": "進入2號線"
         },
         {
           "id": "1",
-          "content": "起点站 - 诅咒",
-          "shortName": "起点站"
+          "content": "起點站 - 詛咒",
+          "shortName": "起點站"
         },
         {
           "id": "2",
@@ -24,12 +24,12 @@
         },
         {
           "id": "4",
-          "content": "第4站 - 滞纳",
+          "content": "第4站 - 滯納",
           "shortName": "第4站"
         },
         {
           "id": "5",
-          "content": "第5站 - 引诱",
+          "content": "第5站 - 引誘",
           "shortName": "第5站"
         },
         {
@@ -39,18 +39,18 @@
         },
         {
           "id": "7",
-          "content": "第7站 - 异味",
+          "content": "第7站 - 異味",
           "shortName": "第7站"
         },
         {
           "id": "8",
-          "content": "第8站 - 循环",
+          "content": "第8站 - 循環",
           "shortName": "第8站"
         },
         {
           "id": "9",
-          "content": "终点站 - 庭院",
-          "shortName": "终点站"
+          "content": "終點站 - 庭院",
+          "shortName": "終點站"
         }
       ]
     }

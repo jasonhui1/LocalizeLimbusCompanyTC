@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 827701,
-      "name": "救赎时间",
-      "desc": "战斗开始时，带有1000层[LimitedTime]"
+      "name": "救贖時間",
+      "desc": "戰鬥開始時，帶有1000層[LimitedTime]"
     },
     {
       "id": 827702,
-      "name": "加速再生修复",
-      "desc": "回合结束时，若有部位被破坏，则消耗该部位带有的100时间并在下回合解除该部位的破坏。"
+      "name": "加速再生修復",
+      "desc": "回合結束時，若有部位被破壞，則消耗該部位帶有的100時間並在下回合解除該部位的破壞。"
     },
     {
       "id": 827801,
-      "name": "所有人的时间",
-      "desc": "体力降为75%时进入第二阶段。阶段变换时，使自身理智值恢复至30点，并使[LimitedTime]变为[OwnTime]并均等分配至所有部位。"
+      "name": "所有人的時間",
+      "desc": "體力降爲75%時進入第二階段。階段變換時，使自身理智值恢復至30點，並使[LimitedTime]變爲[OwnTime]並均等分配至所有部位。"
     },
     {
       "id": 827802,
       "name": "公平的支出",
-      "desc": "每回合对自身施加[EquitableDistribution]。"
+      "desc": "每回合對自身施加[EquitableDistribution]。"
     },
     {
       "id": 827803,
-      "name": "为了时间共同体",
-      "desc": "回合开始时，使所有部位获得5层守护 。"
+      "name": "爲了時間共同體",
+      "desc": "回合開始時，使所有部位獲得5層守護 。"
     },
     {
       "id": 827804,
-      "name": "拿走那家伙的时间！",
-      "desc": "体力不高于60%时，使[EquitableDistribution]变为[UnfairDistribution]。"
+      "name": "拿走那傢伙的時間！",
+      "desc": "體力不高於60%時，使[EquitableDistribution]變爲[UnfairDistribution]。"
     }
   ]
 }

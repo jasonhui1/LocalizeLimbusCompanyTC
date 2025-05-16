@@ -2,43 +2,43 @@
   "dataList": [
     {
       "id": "battle_battleunit_guard",
-      "content": "防御"
+      "content": "防禦"
     },
     {
       "id": "popup_message_ego_seat_lack",
-      "content": "行动槽已被占用，无法使用E.G.O。"
+      "content": "行動槽已被佔用，無法使用E.G.O。"
     },
     {
       "id": "popup_message_ego_resources_lack",
-      "content": "罪孽碎片不足，无法使用E.G.O。"
+      "content": "罪孽碎片不足，無法使用E.G.O。"
     },
     {
       "id": "option_title",
-      "content": "设置"
+      "content": "設置"
     },
     {
       "id": "option_btn_exit",
-      "content": "退出关卡"
+      "content": "退出關卡"
     },
     {
       "id": "option_btn_statistical",
-      "content": "战斗数据"
+      "content": "戰鬥數據"
     },
     {
       "id": "creature_destroy_notice",
-      "content": "部位破坏"
+      "content": "部位破壞"
     },
     {
       "id": "oneside_attack",
-      "content": "单方面攻击"
+      "content": "單方面攻擊"
     },
     {
       "id": "guard",
-      "content": "防御"
+      "content": "防禦"
     },
     {
       "id": "power",
-      "content": "强度"
+      "content": "強度"
     },
     {
       "id": "require",
@@ -46,43 +46,43 @@
     },
     {
       "id": "battle_log_atk_hp",
-      "content": "{0}对{1}造成了{2}点伤害！"
+      "content": "{0}對{1}造成了{2}點傷害！"
     },
     {
       "id": "battle_log_atk_mp",
-      "content": "{0}对{1}造成了{2}点理智伤害！"
+      "content": "{0}對{1}造成了{2}點理智傷害！"
     },
     {
       "id": "battle_log_recover_hp",
-      "content": "{0}为{1}恢复了{2}点体力。"
+      "content": "{0}爲{1}恢復了{2}點體力。"
     },
     {
       "id": "battle_log_guard",
-      "content": "{0}进入了防御状态。"
+      "content": "{0}進入了防禦狀態。"
     },
     {
       "id": "battle_log_buf_to_other",
-      "content": "{0}对{1}施加了{3}层{2}。"
+      "content": "{0}對{1}施加了{3}層{2}。"
     },
     {
       "id": "battle_log_buf_to_self",
-      "content": "{0}对自身施加了{2}层{1}。"
+      "content": "{0}對自身施加了{2}層{1}。"
     },
     {
       "id": "battle_log_use_ego",
-      "content": "{0}觉醒了{1}！！"
+      "content": "{0}覺醒了{1}！！"
     },
     {
       "id": "battle_log_use_ego_corrosion",
-      "content": "{1}侵蚀了{0}！！"
+      "content": "{1}侵蝕了{0}！！"
     },
     {
       "id": "battle_log_personality_corrosion",
-      "content": "{0}精神崩溃了！！"
+      "content": "{0}精神崩潰了！！"
     },
     {
       "id": "battle_log_low_morale",
-      "content": "{0}的士气低落！"
+      "content": "{0}的士氣低落！"
     },
     {
       "id": "battle_log_panic",
@@ -94,15 +94,15 @@
     },
     {
       "id": "choice_result_fail",
-      "content": "判定失败"
+      "content": "判定失敗"
     },
     {
       "id": "choice_result_skip",
-      "content": "跳过判定"
+      "content": "跳過判定"
     },
     {
       "id": "info_button_detailinfo",
-      "content": "详情"
+      "content": "詳情"
     },
     {
       "id": "info_button_skill",
@@ -110,31 +110,31 @@
     },
     {
       "id": "info_button_awakenskill",
-      "content": "觉醒技能"
+      "content": "覺醒技能"
     },
     {
       "id": "info_button_erosionskill",
-      "content": "侵蚀技能"
+      "content": "侵蝕技能"
     },
     {
       "id": "resonance",
-      "content": "共鸣"
+      "content": "共鳴"
     },
     {
       "id": "perfect_resonance",
-      "content": "完全共鸣"
+      "content": "完全共鳴"
     },
     {
       "id": "break",
-      "content": "陷入混乱"
+      "content": "陷入混亂"
     },
     {
       "id": "mental_break",
-      "content": "精神崩溃"
+      "content": "精神崩潰"
     },
     {
       "id": "low_morale",
-      "content": "士气低落"
+      "content": "士氣低落"
     },
     {
       "id": "panic",
@@ -146,7 +146,7 @@
     },
     {
       "id": "status_abnormal",
-      "content": "状态效果"
+      "content": "狀態效果"
     },
     {
       "id": "immunity_information",
@@ -154,23 +154,23 @@
     },
     {
       "id": "awaken_ego_skill",
-      "content": "觉醒技能"
+      "content": "覺醒技能"
     },
     {
       "id": "erosion_ego_skill",
-      "content": "侵蚀技能"
+      "content": "侵蝕技能"
     },
     {
       "id": "turnplace_test_name",
-      "content": "废弃的脑叶公司支部"
+      "content": "廢棄的腦葉公司支部"
     },
     {
       "id": "death",
-      "content": "阵亡"
+      "content": "陣亡"
     },
     {
       "id": "slash",
-      "content": "斩击"
+      "content": "斬擊"
     },
     {
       "id": "penetrate",
@@ -178,19 +178,19 @@
     },
     {
       "id": "hit",
-      "content": "打击"
+      "content": "打擊"
     },
     {
       "id": "action_disable",
-      "content": "无法行动"
+      "content": "無法行動"
     },
     {
       "id": "ab_event_select_character",
-      "content": "选择罪人"
+      "content": "選擇罪人"
     },
     {
       "id": "ab_event_select_desc",
-      "content": "所选内容"
+      "content": "所選內容"
     },
     {
       "id": "ab_event_rate",
@@ -202,7 +202,7 @@
     },
     {
       "id": "ab_event_decision",
-      "content": "进行判定"
+      "content": "進行判定"
     },
     {
       "id": "ab_event_need",
@@ -210,11 +210,11 @@
     },
     {
       "id": "ab_battle_resume",
-      "content": "回到战斗"
+      "content": "回到戰鬥"
     },
     {
       "id": "info_button_choice_log",
-      "content": "选项记录"
+      "content": "選項記錄"
     },
     {
       "id": "info_button_story",
@@ -226,19 +226,19 @@
     },
     {
       "id": "dungeon_encounter_start",
-      "content": "起始点"
+      "content": "起始點"
     },
     {
       "id": "dungeon_encounter_battle",
-      "content": "常规遭遇战"
+      "content": "常規遭遇戰"
     },
     {
       "id": "dungeon_encounter_ab_battle",
-      "content": "集中遭遇战"
+      "content": "集中遭遇戰"
     },
     {
       "id": "dungeon_encounter_hard_battle",
-      "content": "危险遭遇战"
+      "content": "危險遭遇戰"
     },
     {
       "id": "dungeon_encounter_event",
@@ -246,67 +246,67 @@
     },
     {
       "id": "dungeon_encounter_save",
-      "content": "检查点"
+      "content": "檢查點"
     },
     {
       "id": "dungeon_encounter_boss",
-      "content": "阶层头目"
+      "content": "階層頭目"
     },
     {
       "id": "bottom_winrate",
-      "content": "胜率"
+      "content": "勝率"
     },
     {
       "id": "bottom_dmg",
-      "content": "伤害"
+      "content": "傷害"
     },
     {
       "id": "ab_event_next",
-      "content": "继续"
+      "content": "繼續"
     },
     {
       "id": "explanatory",
-      "content": "图例"
+      "content": "圖例"
     },
     {
       "id": "get_ego_gift",
-      "content": "获得E.G.O饰品"
+      "content": "獲得E.G.O飾品"
     },
     {
       "id": "get_ego_gift_desc",
-      "content": "获得E.G.O饰品！"
+      "content": "獲得E.G.O飾品！"
     },
     {
       "id": "selection",
-      "content": "选项"
+      "content": "選項"
     },
     {
       "id": "result",
-      "content": "结果"
+      "content": "結果"
     },
     {
       "id": "choice_total_rate",
-      "content": "总成功率"
+      "content": "總成功率"
     },
     {
       "id": "enter",
-      "content": "进入"
+      "content": "進入"
     },
     {
       "id": "recommend_level",
-      "content": "推荐等级"
+      "content": "推薦等級"
     },
     {
       "id": "enemy_info",
-      "content": "敌方信息"
+      "content": "敵方信息"
     },
     {
       "id": "enter_clear_requirement",
-      "content": "EX 通关条件"
+      "content": "EX 通關條件"
     },
     {
       "id": "choice_event_resume",
-      "content": "继续"
+      "content": "繼續"
     },
     {
       "id": "crime_state_judgment",
@@ -314,19 +314,19 @@
     },
     {
       "id": "choice_personality",
-      "content": "选择一位罪人来进行判定："
+      "content": "選擇一位罪人來進行判定："
     },
     {
       "id": "success_result",
-      "content": "判定阈值"
+      "content": "判定閾值"
     },
     {
       "id": "expectation_result",
-      "content": "预计数值"
+      "content": "預計數值"
     },
     {
       "id": "outcome_result",
-      "content": "结果"
+      "content": "結果"
     },
     {
       "id": "choice_event_percent",
@@ -334,23 +334,23 @@
     },
     {
       "id": "skill_expectition_value",
-      "content": "预计数值：{0}-{1}"
+      "content": "預計數值：{0}-{1}"
     },
     {
       "id": "skill_expectition_or_value",
-      "content": "预计数值：{0}或{1}"
+      "content": "預計數值：{0}或{1}"
     },
     {
       "id": "skill_correction_value",
-      "content": "{0}变动值：{1}"
+      "content": "{0}變動值：{1}"
     },
     {
       "id": "correction_based_on_association",
-      "content": "{0} 所属变动值 {1}(, )"
+      "content": "{0} 所屬變動值 {1}(, )"
     },
     {
       "id": "action_choice_event_result_example_battle",
-      "content": "触发遭遇战"
+      "content": "觸發遭遇戰"
     },
     {
       "id": "action_choice_event_result_example_event",
@@ -358,15 +358,15 @@
     },
     {
       "id": "action_choice_event_result_example_resume",
-      "content": "继续"
+      "content": "繼續"
     },
     {
       "id": "areaatk_attack",
-      "content": "群体技能"
+      "content": "羣體技能"
     },
     {
       "id": "enter_battle",
-      "content": "开始战斗"
+      "content": "開始戰鬥"
     },
     {
       "id": "choice_event_five_percent",
@@ -378,7 +378,7 @@
     },
     {
       "id": "skillinfo_passivetitle",
-      "content": "被动技能"
+      "content": "被動技能"
     },
     {
       "id": "skillinfo_coinabilitytitle",
@@ -386,19 +386,19 @@
     },
     {
       "id": "dungeon_save_desc",
-      "content": "已到达检查点。\n探索进度已保存。\n所有罪人都已被治疗。"
+      "content": "已到達檢查點。\n探索進度已保存。\n所有罪人都已被治療。"
     },
     {
       "id": "battle_battleunit_evade",
-      "content": "闪避"
+      "content": "閃避"
     },
     {
       "id": "battle_battleunit_counter",
-      "content": "反击"
+      "content": "反擊"
     },
     {
       "id": "battle_operation_defence",
-      "content": "守备"
+      "content": "守備"
     },
     {
       "id": "battle_increase_mp",
@@ -410,19 +410,19 @@
     },
     {
       "id": "dungeon_encounter_type_start",
-      "content": "开始"
+      "content": "開始"
     },
     {
       "id": "dungeon_encounter_type_battle",
-      "content": "常规遭遇战"
+      "content": "常規遭遇戰"
     },
     {
       "id": "dungeon_encounter_type_ab_battle",
-      "content": "集中遭遇战"
+      "content": "集中遭遇戰"
     },
     {
       "id": "dungeon_encounter_type_hard_battle",
-      "content": "危险遭遇战"
+      "content": "危險遭遇戰"
     },
     {
       "id": "dungeon_encounter_type_event",
@@ -434,7 +434,7 @@
     },
     {
       "id": "dungeon_encounter_type_boss",
-      "content": "头目遭遇战"
+      "content": "頭目遭遇戰"
     },
     {
       "id": "battle_mp",
@@ -442,47 +442,47 @@
     },
     {
       "id": "abnormality_part_hp",
-      "content": "部位体力"
+      "content": "部位體力"
     },
     {
       "id": "abnormality_research_level",
-      "content": "观察等级"
+      "content": "觀察等級"
     },
     {
       "id": "abnormality_no_research_level",
-      "content": "缺少数据"
+      "content": "缺少數據"
     },
     {
       "id": "Insufficient_conditions",
-      "content": "未满足条件"
+      "content": "未滿足條件"
     },
     {
       "id": "skillinfo_keyword",
-      "content": "关键词"
+      "content": "關鍵詞"
     },
     {
       "id": "ability_turn",
-      "content": "层数"
+      "content": "層數"
     },
     {
       "id": "ego_erosion",
-      "content": "E.G.O侵蚀"
+      "content": "E.G.O侵蝕"
     },
     {
       "id": "continuous_turn",
-      "content": "持续时长"
+      "content": "持續時長"
     },
     {
       "id": "status_buff_list",
-      "content": "状态效果"
+      "content": "狀態效果"
     },
     {
       "id": "stack",
-      "content": "层数"
+      "content": "層數"
     },
     {
       "id": "slash_resistance",
-      "content": "斩击抗性"
+      "content": "斬擊抗性"
     },
     {
       "id": "penetrate_resistance",
@@ -490,7 +490,7 @@
     },
     {
       "id": "hit_resistance",
-      "content": "打击抗性"
+      "content": "打擊抗性"
     },
     {
       "id": "Lack_Buff",
@@ -502,51 +502,51 @@
     },
     {
       "id": "destroyable",
-      "content": "可破坏"
+      "content": "可破壞"
     },
     {
       "id": "resumption",
-      "content": "继续游戏"
+      "content": "繼續遊戲"
     },
     {
       "id": "stage_GiveUp",
-      "content": "放弃关卡"
+      "content": "放棄關卡"
     },
     {
       "id": "show_skillTool",
-      "content": "展示技能工具栏"
+      "content": "展示技能工具欄"
     },
     {
       "id": "auto_coinToss",
-      "content": "自动投掷硬币"
+      "content": "自動投擲硬幣"
     },
     {
       "id": "babayaga_alert",
-      "content": "剩余{0}次机会。"
+      "content": "剩餘{0}次機會。"
     },
     {
       "id": "battle_operation_offset",
-      "content": "偏转"
+      "content": "偏轉"
     },
     {
       "id": "oneside_defense",
-      "content": "单方面防御"
+      "content": "單方面防禦"
     },
     {
       "id": "cantIdentify",
-      "content": "<color=#ff0000>[无差别攻击]</color>"
+      "content": "<color=#ff0000>[無差別攻擊]</color>"
     },
     {
       "id": "popup_message_ego_irrevocable",
-      "content": "无法取消在先前回合生成的E.G.O技能。"
+      "content": "無法取消在先前回合生成的E.G.O技能。"
     },
     {
       "id": "stock",
-      "content": "持有时"
+      "content": "持有時"
     },
     {
       "id": "stable",
-      "content": "稳定"
+      "content": "穩定"
     },
     {
       "id": "un_stable",
@@ -554,23 +554,23 @@
     },
     {
       "id": "vibration_explosion",
-      "content": "震颤引爆！"
+      "content": "震顫引爆！"
     },
     {
       "id": "sinking_surge",
-      "content": "沉沦泛滥！"
+      "content": "沉淪氾濫！"
     },
     {
       "id": "targetSlotWeight",
-      "content": "攻击容量"
+      "content": "攻擊容量"
     },
     {
       "id": "EGO_ErodeProbability",
-      "content": "侵蚀概率"
+      "content": "侵蝕概率"
     },
     {
       "id": "EGOSelectUI_resources_lack",
-      "content": "资源不足。\n请确认罪孽碎片。"
+      "content": "資源不足。\n請確認罪孽碎片。"
     },
     {
       "id": "EGOSelectUI_DetailInfo",
@@ -578,35 +578,35 @@
     },
     {
       "id": "ab_part_destroyable",
-      "content": "可破坏"
+      "content": "可破壞"
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "可破坏和截除"
+      "content": "可破壞和截除"
     },
     {
       "id": "ab_guidebook_view",
-      "content": "浏览图鉴"
+      "content": "瀏覽圖鑑"
     },
     {
       "id": "show_BattleAblityUI",
-      "content": "战斗中显示详细信息UI"
+      "content": "戰鬥中顯示詳細信息UI"
     },
     {
       "id": "Ahab_NotTarget_Onece",
-      "content": "我真正该瞄准的是……"
+      "content": "我真正該瞄準的是……"
     },
     {
       "id": "Ahab_NotTarget_Twice",
-      "content": "不必总是漫无目的地目视前方……"
+      "content": "不必總是漫無目的地目視前方……"
     },
     {
       "id": "Ahab_NotTarget_Thrice",
-      "content": "有时，想要前进\n必须先看清身边的事物……"
+      "content": "有時，想要前進\n必須先看清身邊的事物……"
     },
     {
       "id": "show_BattleUnitAblityUI",
-      "content": "战斗中显示效果UI"
+      "content": "戰鬥中顯示效果UI"
     },
     {
       "id": "LobotomyStartTypo_Title_1",
@@ -614,15 +614,15 @@
     },
     {
       "id": "LobotomyStartTypo_Name_1",
-      "content": "疑问"
+      "content": "疑問"
     },
     {
       "id": "LobotomyStartTypo_Desc_1",
-      "content": "有一天，我想到一个问题：我们从何而来？我们被给予了生命，却又被不负责任地抛弃。"
+      "content": "有一天，我想到一個問題：我們從何而來？我們被給予了生命，卻又被不負責任地拋棄。"
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_1",
-      "content": "镇压情况"
+      "content": "鎮壓情況"
     },
     {
       "id": "LobotomyClearTypo_Title_1",
@@ -630,19 +630,19 @@
     },
     {
       "id": "LobotomyClearTypo_Name_1",
-      "content": "疑问"
+      "content": "疑問"
     },
     {
       "id": "LobotomyClearTypo_Desc_1",
-      "content": "生命，充满了痛苦。"
+      "content": "生命，充滿了痛苦。"
     },
     {
       "id": "LobotomyEndTypo_Title",
-      "content": "达到镇压时间限制"
+      "content": "達到鎮壓時間限制"
     },
     {
       "id": "LobotomyEndTypo_Desc",
-      "content": "剩余的考验实体： {0}"
+      "content": "剩餘的考驗實體： {0}"
     },
     {
       "id": "abnormality_all_part",
@@ -666,7 +666,7 @@
     },
     {
       "id": "vibration_fusion",
-      "content": "振幅纠缠！"
+      "content": "振幅糾纏！"
     },
     {
       "id": "BatonPassUIText",
@@ -678,35 +678,35 @@
     },
     {
       "id": "ab_part_destroyed",
-      "content": "已破坏"
+      "content": "已破壞"
     },
     {
       "id": "ab_part_vanished",
-      "content": "已破坏并截除"
+      "content": "已破壞並截除"
     },
     {
       "id": "ab_part_cannot_destroy_and_vanish",
-      "content": "不可破坏和截除"
+      "content": "不可破壞和截除"
     },
     {
       "id": "current_hp",
-      "content": "现存体力"
+      "content": "現存體力"
     },
     {
       "id": "break_section_format",
-      "content": "混乱阈值[{0}]"
+      "content": "混亂閾值[{0}]"
     },
     {
       "id": "no_break_section",
-      "content": "无混乱阈值"
+      "content": "無混亂閾值"
     },
     {
       "id": "correction_based_on_unit_keyword",
-      "content": "{0} 人格变动值{1}(, )"
+      "content": "{0} 人格變動值{1}(, )"
     },
     {
       "id": "battle_operation_counter",
-      "content": "强化反击"
+      "content": "強化反擊"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
@@ -718,7 +718,7 @@
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
-      "content": "黄昏"
+      "content": "黃昏"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
@@ -726,7 +726,7 @@
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "逆卡巴拉熔毁 - 等级{0}"
+      "content": "逆卡巴拉熔燬 - 等級{0}"
     },
     {
       "id": "SinkingWhite_stack",
@@ -738,11 +738,11 @@
     },
     {
       "id": "BulletLament_stack",
-      "content": "生蝶（弹药）"
+      "content": "生蝶（彈藥）"
     },
     {
       "id": "BulletLament_turn",
-      "content": "亡蝶（弹药）"
+      "content": "亡蝶（彈藥）"
     },
     {
       "id": "Retreat_Textalram",
@@ -754,7 +754,7 @@
     },
     {
       "id": "battle_operation_defense",
-      "content": "强化防御"
+      "content": "強化防禦"
     },
     {
       "id": "battle_operation_defense_TextTypo",
@@ -762,19 +762,19 @@
     },
     {
       "id": "battle_StageBuffUI_Stackdesc",
-      "content": "(当前值：{0})"
+      "content": "(當前值：{0})"
     },
     {
       "id": "EGOSelectUI_not_allow",
-      "content": "目前无法装备此E.G.O。"
+      "content": "目前無法裝備此E.G.O。"
     },
     {
       "id": "laceration_surge",
-      "content": "流血泛滥！"
+      "content": "流血氾濫！"
     },
     {
       "id": "QTE_Notice",
-      "content": "一同驰骋吧！"
+      "content": "一同馳騁吧！"
     },
     {
       "id": "septempeccata_classification",

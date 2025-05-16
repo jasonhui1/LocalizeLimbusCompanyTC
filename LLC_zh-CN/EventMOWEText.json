@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "mowe_stagebutton_not_clear",
-      "content": "通过6.5-15后解锁"
+      "content": "通過6.5-15後解鎖"
     },
     {
       "id": "mowe_stagebutton_normal",
-      "content": "关卡"
+      "content": "關卡"
     },
     {
       "id": "mowe_stagebutton_end_event",
-      "content": "活动结束"
+      "content": "活動結束"
     },
     {
       "id": "mowe_storybutton_before_start",
-      "content": "<size=75%>观看活动剧情第1关后开放</size>"
+      "content": "<size=75%>觀看活動劇情第1關後開放</size>"
     },
     {
       "id": "mowe_storybutton_normal",
-      "content": "跳转至放映室"
+      "content": "跳轉至放映室"
     },
     {
       "id": "mowe_rewardShopButton",
-      "content": "奖励兑换"
+      "content": "獎勵兌換"
     },
     {
       "id": "mowe_scrap_guide_title",
-      "content": "活动道具介绍"
+      "content": "活動道具介紹"
     },
     {
       "id": "mowe_scrap_guide_desc",
-      "content": "在活动及主线关卡、迷宫及镜像迷宫中有小概率可以获得<color=#ff99e6>[收尾人乘客复原包]</color>。\n\n<color=#ff99e6>[收尾人乘客复原包]</color>将会自动转换为20个<color=#ff99e6>[普通乘客复原包]</color>。"
+      "content": "在活動及主線關卡、迷宮及鏡像迷宮中有小概率可以獲得<color=#ff99e6>[收尾人乘客復原包]</color>。\n\n<color=#ff99e6>[收尾人乘客復原包]</color>將會自動轉換爲20個<color=#ff99e6>[普通乘客復原包]</color>。"
     },
     {
       "id": "mowe_rewardpage_desc",
-      "content": "通关活动关卡及迷宫后，将获得<color=#ff99e6>[普通乘客复原包]</color>。\n在首次通关活动关卡以外的主线关卡及清剿镜像迷宫时，也可获得<color=#ff99e6>[普通乘客复原包]</color>。\n\n在活动、主线关卡及镜像迷宫中有小概率可以获得<color=#ff99e6>[收尾人乘客复原包]</color>，获得时，<color=#ff99e6>[收尾人乘客复原包]</color>将会自动转换为20个<color=#ff99e6>[普通乘客复原包]</color>。\n\n您可以在<color=#ff99e6>[奖励兑换]</color>处根据所持有的<color=#ff99e6>[普通乘客复原包]</color>数量兑换多样化奖励。"
+      "content": "通關活動關卡及迷宮後，將獲得<color=#ff99e6>[普通乘客復原包]</color>。\n在首次通關活動關卡以外的主線關卡及清剿鏡像迷宮時，也可獲得<color=#ff99e6>[普通乘客復原包]</color>。\n\n在活動、主線關卡及鏡像迷宮中有小概率可以獲得<color=#ff99e6>[收尾人乘客復原包]</color>，獲得時，<color=#ff99e6>[收尾人乘客復原包]</color>將會自動轉換爲20個<color=#ff99e6>[普通乘客復原包]</color>。\n\n您可以在<color=#ff99e6>[獎勵兌換]</color>處根據所持有的<color=#ff99e6>[普通乘客復原包]</color>數量兌換多樣化獎勵。"
     },
     {
       "id": "mowe_reward_popup_desc",
-      "content": "活动关卡与主线关卡首次通关\n以及镜像迷宫通关后\n可以获得<color=#ff99e6>[普通乘客复原包]</color>。\n\n您可以在<color=#ff99e6>[奖励兑换]</color>处\n根据所持有的<color=#ff99e6>[普通乘客复原包]</color>数量兑换不同奖励。"
+      "content": "活動關卡與主線關卡首次通關\n以及鏡像迷宮通關後\n可以獲得<color=#ff99e6>[普通乘客復原包]</color>。\n\n您可以在<color=#ff99e6>[獎勵兌換]</color>處\n根據所持有的<color=#ff99e6>[普通乘客復原包]</color>數量兌換不同獎勵。"
     },
     {
       "id": "mowe_reward_popup_num_of_owned_items",
-      "content": "持有道具数"
+      "content": "持有道具數"
     },
     {
       "id": "mowe_bonusUI_Title",
@@ -50,19 +50,19 @@
     },
     {
       "id": "mowe_bonusUI_Title_contain_false",
-      "content": "未拥有"
+      "content": "未擁有"
     },
     {
       "id": "mowe_bonusUI_Desc",
-      "content": "活动期间，当编队中包含活动人格及E.G.O时，<color=#ff99e6>[普通乘客复原包]</color>的获取量将提升。\n获取量提升合计最大值为<color=#ff99e6>120%</color>。"
+      "content": "活動期間，當編隊中包含活動人格及E.G.O時，<color=#ff99e6>[普通乘客復原包]</color>的獲取量將提升。\n獲取量提升合計最大值爲<color=#ff99e6>120%</color>。"
     },
     {
       "id": "mowe_bonus_popup_title",
-      "content": "活动加成对象"
+      "content": "活動加成對象"
     },
     {
       "id": "mowe_bonus_preview",
-      "content": "活动加成对象"
+      "content": "活動加成對象"
     }
   ]
 }

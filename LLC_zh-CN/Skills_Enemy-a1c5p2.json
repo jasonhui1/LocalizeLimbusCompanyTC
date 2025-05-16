@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "播种恐惧",
+          "name": "播種恐懼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标造成2点理智伤害"
+                  "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标造成2点理智伤害"
+                  "desc": "[OnSucceedAttackTail] 對目標造成2點理智傷害"
                 }
               ]
             }
@@ -31,13 +31,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "铭记恐惧",
-          "desc": "[WinDuel] 对目标造成5点理智伤害，并使自身恢复10点体力",
+          "name": "銘記恐懼",
+          "desc": "[WinDuel] 對目標造成5點理智傷害，並使自身恢復10點體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 }
               ]
             }
@@ -50,26 +50,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "收获恐惧",
-          "desc": "若目标的理智值不高于20点，则使本技能体力恢复量 +20%",
+          "name": "收穫恐懼",
+          "desc": "若目標的理智值不高於20點，則使本技能體力恢復量 +20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标造成3点理智伤害"
+                  "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量30%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标造成3点理智伤害"
+                  "desc": "[OnSucceedAttackTail] 對目標造成3點理智傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量30%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
                 }
               ]
             }
@@ -83,19 +83,19 @@
         {
           "level": 1,
           "name": "麻痹精神",
-          "desc": "若目标的理智值不高于-15点，则使本技能造成的伤害+50%",
+          "desc": "若目標的理智值不高於-15點，則使本技能造成的傷害+50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 }
               ]
             }
@@ -114,14 +114,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -135,15 +135,15 @@
         {
           "level": 1,
           "name": "-- ... -.-",
-          "desc": "[WinDuel] 对目标施加1层苍白的噪音 ",
+          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加3层沉沦 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層沉淪 "
                 }
               ]
             }
@@ -157,22 +157,22 @@
         {
           "level": 1,
           "name": "...- .",
-          "desc": "除自身以外每有1名白化的友方单位存活，使本技能的最终威力+1",
+          "desc": "除自身以外每有1名白化的友方單位存活，使本技能的最終威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量40%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得1项目标带有的状态\n(仅限强壮 、迅捷 、伤害强化 与守护 )"
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1項目標帶有的狀態\n(僅限強壯 、迅捷 、傷害強化 與守護 )"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量40%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
                 }
               ]
             }
@@ -191,14 +191,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             }
@@ -212,15 +212,15 @@
         {
           "level": 1,
           "name": "..-. . --",
-          "desc": "[WinDuel] 对目标施加1层苍白的噪音 ",
+          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -234,22 +234,22 @@
         {
           "level": 1,
           "name": ".-.. -",
-          "desc": "[WinDuel] 除自身以外每有1名白化的友方单位存活，对目标造成1点理智伤害",
+          "desc": "[WinDuel] 除自身以外每有1名白化的友方單位存活，對目標造成1點理智傷害",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量40%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
                 },
                 {
-                  "desc": "下回合使自身获得1项目标带有的状态\n(仅限强壮 、迅捷 、伤害强化 与守护 )"
+                  "desc": "下回合使自身獲得1項目標帶有的狀態\n(僅限強壯 、迅捷 、傷害強化 與守護 )"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量40%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量40%的體力"
                 }
               ]
             }
@@ -263,25 +263,25 @@
         {
           "level": 1,
           "name": "-... ....",
-          "desc": "若目标带有沉沦 ，则使本技能的体力恢复效果同时对现存体力最低的1名白化的友方单位生效",
+          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對現存體力最低的1名白化的友方單位生效",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量30%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加1级沉沦 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量30%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量30%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加1级沉沦 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加1級沉淪 強度"
                 }
               ]
             }
@@ -295,15 +295,15 @@
         {
           "level": 1,
           "name": ".--- .",
-          "desc": "若目标带有沉沦 ，则使本技能的体力恢复效果同时对除自身以外现存体力最低的1名白化的友方单位生效",
+          "desc": "若目標帶有沉淪 ，則使本技能的體力恢復效果同時對除自身以外現存體力最低的1名白化的友方單位生效",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层苍白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層蒼白的噪音 "
                 }
               ]
             }
@@ -317,19 +317,19 @@
         {
           "level": 1,
           "name": "-. ....",
-          "desc": "[WhenUse] 若目标带有苍白的噪音 ，则使除自身以外现存体力最低的1名白化的友方单位恢复30点体力",
+          "desc": "[WhenUse] 若目標帶有蒼白的噪音 ，則使除自身以外現存體力最低的1名白化的友方單位恢復30點體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "下回合使自身获得1项目标带有的状态\n(仅限强壮 、迅捷 、伤害强化 与守护 )"
+                  "desc": "下回合使自身獲得1項目標帶有的狀態\n(僅限強壯 、迅捷 、傷害強化 與守護 )"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复20点体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復20點體力"
                 }
               ]
             }
@@ -348,14 +348,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
                 }
               ]
             }
@@ -369,12 +369,12 @@
         {
           "level": 1,
           "name": "-... .-",
-          "desc": "[WhenUse] 下回合随机使除自身以外的1名友方单位获得1层守护 。若该单位为白化的单位，则使其额外获得1层守护 ",
+          "desc": "[WhenUse] 下回合隨機使除自身以外的1名友方單位獲得1層守護 。若該單位爲白化的單位，則使其額外獲得1層守護 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加4层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加4層震顫 "
                 }
               ]
             }
@@ -393,20 +393,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标的震颤 层数减少2层"
+                  "desc": "[OnSucceedAttack] 使目標的震顫 層數減少2層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层苍白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级破裂 强度并对其施加4层破裂 "
+                  "desc": "[OnSucceedAttack] 使目標增加10級破裂 強度並對其施加4層破裂 "
                 }
               ]
             }
@@ -420,7 +420,7 @@
         {
           "level": 1,
           "name": ".--. .",
-          "desc": "[StartBattle] 除自身以外每有2名白化的友方单位，下回合使自身获得1层守护 \n若自身带有护盾时受到攻击，则使攻击者增加1级震颤 强度",
+          "desc": "[StartBattle] 除自身以外每有2名白化的友方單位，下回合使自身獲得1層守護 \n若自身帶有護盾時受到攻擊，則使攻擊者增加1級震顫 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -444,7 +444,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
                 }
               ]
             }
@@ -458,15 +458,15 @@
         {
           "level": 1,
           "name": ".-.. .",
-          "desc": "[WhenUse] 下回合随机使1名其他白化的友方单位获得1层伤害强化 ",
+          "desc": "[WhenUse] 下回合隨機使1名其他白化的友方單位獲得1層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加1层苍白的噪音 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
                 }
               ]
             }
@@ -480,22 +480,22 @@
         {
           "level": 1,
           "name": ".-.. .-",
-          "desc": "[WhenUse] 下回合随机使1名白化的友方单位获得1层伤害强化 ",
+          "desc": "[WhenUse] 下回合隨機使1名白化的友方單位獲得1層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层苍白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
                 }
               ]
             }
@@ -509,15 +509,15 @@
         {
           "level": 1,
           "name": "--. . ...-",
-          "desc": "若目标带有苍白的噪音 ，除自身以外每有1名友方单位存活，对目标造成1点理智伤害",
+          "desc": "若目標帶有蒼白的噪音 ，除自身以外每有1名友方單位存活，對目標造成1點理智傷害",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -536,17 +536,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层苍白的噪音 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層蒼白的噪音 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -560,19 +560,19 @@
         {
           "level": 1,
           "name": ".--. .... -",
-          "desc": "[WinDuel] 对目标施加1层苍白的噪音 ",
+          "desc": "[WinDuel] 對目標施加1層蒼白的噪音 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
                 }
               ]
             }
@@ -586,7 +586,7 @@
         {
           "level": 1,
           "name": "-.- -",
-          "desc": "若自身带有护盾时受到攻击，则对攻击者施加1层苍白的噪音 \n[EndBattle] 若自身带有护盾，则下回合使自身增加3级呼吸法 强度",
+          "desc": "若自身帶有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音 \n[EndBattle] 若自身帶有護盾，則下回合使自身增加3級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -610,10 +610,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -632,20 +632,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层伤害弱化 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -659,25 +659,25 @@
         {
           "level": 1,
           "name": "-- .... -",
-          "desc": "[WhenUse] 每有1名友方单位存活，使自身获得1层守护 (最多3层)",
+          "desc": "[WhenUse] 每有1名友方單位存活，使自身獲得1層守護 (最多3層)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层守护 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層守護 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加1层苍白的噪音 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層蒼白的噪音 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得2层守护 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層守護 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加4級流血 強度"
                 }
               ]
             }
@@ -691,7 +691,7 @@
         {
           "level": 1,
           "name": "-.- ..",
-          "desc": "[WhenUse] 使自身获得2层守护 \n若自身带有护盾时受到攻击，则对攻击者施加1层苍白的噪音 \n[EndBattle] 使自身恢复剩余护盾值×2点体力。",
+          "desc": "[WhenUse] 使自身獲得2層守護 \n若自身帶有護盾時受到攻擊，則對攻擊者施加1層蒼白的噪音 \n[EndBattle] 使自身恢復剩餘護盾值×2點體力。",
           "coinlist": [
             {
               "coindescs": [
@@ -709,13 +709,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "直击心窝",
+          "name": "直擊心窩",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -728,20 +728,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "铭记！",
-          "desc": "[DefeatDuel] 下回合使自身获得1层伤害强化 ",
+          "name": "銘記！",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据本波次中属于中指的友方单位的阵亡数，对目标额外造成相应的固定伤害"
+                  "desc": "[OnSucceedAttack] 根據本波次中屬於中指的友方單位的陣亡數，對目標額外造成相應的固定傷害"
                 }
               ]
             }
@@ -754,20 +754,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "粉碎颅骨",
+          "name": "粉碎顱骨",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层虚弱 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層虛弱 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 }
               ]
             }
@@ -780,8 +780,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "铭刻准备",
-          "desc": "[EndBattle] 若自身带有护盾，则下回合使自身获得1层强壮 ",
+          "name": "銘刻準備",
+          "desc": "[EndBattle] 若自身帶有護盾，則下回合使自身獲得1層強壯 ",
           "coinlist": [
             {
               "coindescs": [
@@ -799,17 +799,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "报复",
-          "desc": "[DefeatDuel] 下回合使自身获得1层伤害强化 ",
+          "name": "報復",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标的混乱阈值前移8"
+                  "desc": "[OnSucceedAttackTail] 使目標的混亂閾值前移8"
                 }
               ]
             }
@@ -822,19 +822,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "加倍奉还",
+          "name": "加倍奉還",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移30"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成20点固定伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成20點固定傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -847,13 +847,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "直击心窝",
+          "name": "直擊心窩",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -866,20 +866,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "铭刻！",
-          "desc": "[DefeatDuel] 下回合使自身获得1层伤害强化 ",
+          "name": "銘刻！",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层伤害弱化 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層傷害弱化 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据本波次中属于中指的友方单位的阵亡数，对目标额外造成相应的固定伤害"
+                  "desc": "[OnSucceedAttack] 根據本波次中屬於中指的友方單位的陣亡數，對目標額外造成相應的固定傷害"
                 }
               ]
             }
@@ -892,20 +892,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "破坏颅骨",
+          "name": "破壞顱骨",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层加算硬币弱化 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層加算硬幣弱化 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层加算硬币弱化 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層加算硬幣弱化 "
                 }
               ]
             }
@@ -918,8 +918,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "铭刻准备",
-          "desc": "消耗自身全部护盾，下回合使自身获得1层强壮 ",
+          "name": "銘刻準備",
+          "desc": "消耗自身全部護盾，下回合使自身獲得1層強壯 ",
           "coinlist": [
             {
               "coindescs": [
@@ -937,17 +937,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "报复",
-          "desc": "[DefeatDuel] 下回合使自身获得1层伤害强化 ",
+          "name": "報復",
+          "desc": "[DefeatDuel] 下回合使自身獲得1層傷害強化 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标的混乱阈值前移8"
+                  "desc": "[OnSucceedAttackTail] 使目標的混亂閾值前移8"
                 }
               ]
             }
@@ -960,19 +960,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "加倍奉还",
+          "name": "加倍奉還",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移30"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成20点固定伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成20點固定傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }

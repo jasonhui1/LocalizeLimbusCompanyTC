@@ -5,15 +5,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "启明无知",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的3%)点护盾",
+          "name": "啓明無知",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的3%)點護盾",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混乱阈值后移5"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移5"
                 }
               ]
             }
@@ -21,15 +21,15 @@
         },
         {
           "level": 2,
-          "name": "启明无知",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的4%)点护盾\n[WhenUse] 若自身的所解真知 层数不低于2层，则使本技能的硬币威力+(自身的所解真知 层数-1)",
+          "name": "啓明無知",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的4%)點護盾\n[WhenUse] 若自身的所解真知 層數不低於2層，則使本技能的硬幣威力+(自身的所解真知 層數-1)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混乱阈值后移8"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移8"
                 }
               ]
             }
@@ -37,15 +37,15 @@
         },
         {
           "level": 4,
-          "name": "启明无知",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的5%)点护盾\n[WhenUse] 若自身的所解真知 层数不低于2层，则使本技能的硬币威力+(自身的所解真知 层数-1)",
+          "name": "啓明無知",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的5%)點護盾\n[WhenUse] 若自身的所解真知 層數不低於2層，則使本技能的硬幣威力+(自身的所解真知 層數-1)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的混乱阈值后移10"
+                  "desc": "[OnSucceedAttack] 使自身的混亂閾值後移10"
                 }
               ]
             }
@@ -58,8 +58,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "知识的重量",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的5%)点护盾\n[WhenUse] 丢弃 自身所有行动槽中级别最低的1个技能\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +2",
+          "name": "知識的重量",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的5%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
           "coinlist": [
             {},
             {},
@@ -67,7 +67,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -75,8 +75,8 @@
         },
         {
           "level": 2,
-          "name": "知识的重量",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的8%)点护盾\n[WhenUse] 丢弃 自身所有行动槽中级别最低的1个技能\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3",
+          "name": "知識的重量",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的8%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {},
             {},
@@ -84,7 +84,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -92,8 +92,8 @@
         },
         {
           "level": 4,
-          "name": "知识的重量",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的10%)点护盾\n[WhenUse] 丢弃 自身所有行动槽中级别最低的1个技能\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +5\n[WhenUse] 若目标的沉沦 强度不低于5级，则使本技能的拼点威力+2",
+          "name": "知識的重量",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的10%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的拼點威力+2",
           "coinlist": [
             {},
             {},
@@ -101,7 +101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
                 }
               ]
             }
@@ -114,13 +114,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "苦痛的启蒙",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的15%)点护盾\n[WhenUse] 丢弃 自身所有行动槽中级别最低的2个技能\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3",
+          "name": "苦痛的啓蒙",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的15%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的2個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加4层沉沦 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加4層沉淪 "
                 }
               ]
             },
@@ -129,7 +129,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             }
@@ -137,13 +137,13 @@
         },
         {
           "level": 4,
-          "name": "苦痛的启蒙",
-          "desc": "若本技能被丢弃，则使自身获得(自身的所解真知 层数×体力上限的20%)点护盾\n[WhenUse] 丢弃 自身所有行动槽中级别最低的2个技能\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +5\n[WhenUse] 若目标的沉沦 强度不低于7级，则使本技能的硬币威力+1",
+          "name": "苦痛的啓蒙",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的20%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的2個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 若目標的沉淪 強度不低於7級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加4层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加4層沉淪 "
                 }
               ]
             },
@@ -152,7 +152,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             }
@@ -166,7 +166,7 @@
         {
           "level": 3,
           "name": "求索",
-          "desc": "[WhenUse] 丢弃 自身所有行动槽中级别最高的1个技能\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +2",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2",
           "coinlist": [
             {}
           ]
@@ -174,7 +174,7 @@
         {
           "level": 4,
           "name": "求索",
-          "desc": "[WhenUse] 丢弃 自身所有行动槽中级别最高的1个技能\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +5",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
           "coinlist": [
             {}
           ]
@@ -186,20 +186,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "炽焰拳击",
+          "name": "熾焰拳擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             }
@@ -207,20 +207,20 @@
         },
         {
           "level": 2,
-          "name": "炽焰拳击",
-          "desc": "若目标的烧伤 强度不低于3级，则使本技能的硬币威力+1",
+          "name": "熾焰拳擊",
+          "desc": "若目標的燒傷 強度不低於3級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             }
@@ -228,20 +228,20 @@
         },
         {
           "level": 4,
-          "name": "炽焰拳击",
-          "desc": "目标每带有3级烧伤 强度，使本技能的硬币威力+1(最多+2)",
+          "name": "熾焰拳擊",
+          "desc": "目標每帶有3級燒傷 強度，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             }
@@ -254,27 +254,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "炽焰手刀-燃",
+          "name": "熾焰手刀-燃",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的烧伤 层数不低于6层，则使未带有烧伤 或烧伤 层数最低的2名敌方单位增加3级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 層數不低於6層，則使未帶有燒傷 或燒傷 層數最低的2名敵方單位增加3級燒傷 強度"
                 }
               ]
             }
@@ -282,30 +282,30 @@
         },
         {
           "level": 2,
-          "name": "炽焰手刀-燃",
-          "desc": "若目标的烧伤 强度不低于6级，则使本技能的硬币威力+1",
+          "name": "熾焰手刀-燃",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層燒傷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的烧伤 层数不低于6层，则使未带有烧伤 或烧伤 层数最低的2名敌方单位增加3级烧伤 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 層數不低於6層，則使未帶有燒傷 或燒傷 層數最低的2名敵方單位增加3級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -313,30 +313,30 @@
         },
         {
           "level": 4,
-          "name": "炽焰手刀-燃",
-          "desc": "目标每带有6级烧伤 强度，使本技能的硬币威力+1(最多+2)",
+          "name": "熾焰手刀-燃",
+          "desc": "目標每帶有6級燒傷 強度，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層燒傷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的烧伤 层数不低于6层，则使未带有烧伤 或烧伤 层数最低的2名敌方单位增加3级烧伤 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 層數不低於6層，則使未帶有燒傷 或燒傷 層數最低的2名敵方單位增加3級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -349,34 +349,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "一点突破",
-          "desc": "若目标的烧伤 强度与烧伤 层数均不低于6，则使本技能造成的伤害+30%",
+          "name": "一點突破",
+          "desc": "若目標的燒傷 強度與燒傷 層數均不低於6，則使本技能造成的傷害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成相当于其烧伤 强度一半的暴怒伤害(最多20点)，并使其烧伤 层数减少2层"
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其燒傷 強度一半的暴怒傷害(最多20點)，並使其燒傷 層數減少2層"
                 }
               ]
             }
@@ -384,34 +384,34 @@
         },
         {
           "level": 4,
-          "name": "一点突破",
-          "desc": "<style=\"highlight\">若目标的烧伤 强度不低于6级，则使本技能的硬币威力+1</style>\n若目标的烧伤 强度与烧伤 层数均不低于6，则使本技能造成的伤害+30%",
+          "name": "一點突破",
+          "desc": "<style=\"highlight\">若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1</style>\n若目標的燒傷 強度與燒傷 層數均不低於6，則使本技能造成的傷害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成相当于其烧伤 强度的暴怒伤害(最多30点)，并使其烧伤 层数减少2层"
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其燒傷 強度的暴怒傷害(最多30點)，並使其燒傷 層數減少2層"
                 }
               ]
             }
@@ -424,13 +424,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击",
+          "name": "反擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             }
@@ -438,13 +438,13 @@
         },
         {
           "level": 4,
-          "name": "反击",
+          "name": "反擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             }
@@ -457,23 +457,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "征收准备",
-          "desc": "[WhenUse] 对自身施加2层震颤 ",
+          "name": "徵收準備",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身施加1层震颤 "
+                  "desc": "[OnSucceedAttack] 對自身施加1層震顫 "
                 },
                 {
-                  "desc": "[WinDuelAttack] 对目标施加1层震颤 "
+                  "desc": "[WinDuelAttack] 對目標施加1層震顫 "
                 }
               ]
             }
@@ -481,23 +481,23 @@
         },
         {
           "level": 2,
-          "name": "征收准备",
-          "desc": "[WhenUse] 对自身施加2层震颤 \n<style=\"highlight\">[WhenUse] 若目标的震颤 强度不低于6级，则使本技能的拼点威力+1</style>",
+          "name": "徵收準備",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n<style=\"highlight\">[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級震顫 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身施加1层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對自身施加1層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] 对目标施加1层震颤 <style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] 對目標施加1層震顫 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -505,23 +505,23 @@
         },
         {
           "level": 4,
-          "name": "征收准备",
-          "desc": "[WhenUse] 对自身施加2层震颤 \n[WhenUse] 目标<style=\"highlight\">每带有6级震颤 强度，使本技能的拼点威力+1(最多+2)</style>",
+          "name": "徵收準備",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 目標<style=\"highlight\">每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级震颤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身施加1层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對自身施加1層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] 对目标施加1层震颤 <style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] 對目標施加1層震顫 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -534,13 +534,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T公司式镇压格斗",
-          "desc": "[WhenUse] 对自身施加2层震颤 ",
+          "name": "T公司式鎮壓格鬥",
+          "desc": "[WhenUse] 對自身施加2層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 "
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
                 }
               ]
             },
@@ -549,16 +549,16 @@
         },
         {
           "level": 2,
-          "name": "T公司式镇压格斗",
-          "desc": "[WhenUse] 对自身施加2层震颤 \n<style=\"highlight\">[WhenUse] 若目标的震颤 强度不低于6级，则使本技能的拼点威力+1</style>",
+          "name": "T公司式鎮壓格鬥",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n<style=\"highlight\">[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[WinDuelAttack] 对目标施加2层震颤 </style>"
+                  "desc": "<style=\"highlight\">[WinDuelAttack] 對目標施加2層震顫 </style>"
                 }
               ]
             },
@@ -567,26 +567,26 @@
         },
         {
           "level": 4,
-          "name": "T公司式镇压格斗",
-          "desc": "<style=\"highlight\">目标每带有1层束缚 ，使本技能造成的伤害+5%(最多+15%)</style>\n[WhenUse] 对自身施加2层震颤 \n[WhenUse] 目标<style=\"highlight\">每带有6级震颤 强度，使本技能的拼点威力+1(最多+2)</style>",
+          "name": "T公司式鎮壓格鬥",
+          "desc": "<style=\"highlight\">目標每帶有1層束縛 ，使本技能造成的傷害+5%(最多+15%)</style>\n[WhenUse] 對自身施加2層震顫 \n[WhenUse] 目標<style=\"highlight\">每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對自身施加2層震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] 对目标施加<style=\"highlight\">3</style>层震颤 "
+                  "desc": "[WinDuelAttack] 對目標施加<style=\"highlight\">3</style>層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 下回合对目标施加1层束缚 </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 下回合對目標施加1層束縛 </style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目标的震颤 强度不低于6级，则下回合对其施加1层束缚 </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標的震顫 強度不低於6級，則下回合對其施加1層束縛 </style>"
                 }
               ]
             }
@@ -599,37 +599,37 @@
       "levelList": [
         {
           "level": 3,
-          "name": "征收执行",
-          "desc": "[WhenUse] 若目标的震颤 强度不低于8级，则使本技能的拼点威力+1\n[WhenUse] 消耗自身的8层震颤 并使本技能的硬币威力+1",
+          "name": "徵收執行",
+          "desc": "[WhenUse] 若目標的震顫 強度不低於8級，則使本技能的拼點威力+1\n[WhenUse] 消耗自身的8層震顫 並使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身带有[TimeRentalTwoPersonality]，则对目标施加2层[TimeSuspend]"
+                  "desc": "[OnSucceedAttack] 若自身帶有[TimeRentalTwoPersonality]，則對目標施加2層[TimeSuspend]"
                 }
               ]
             }
@@ -637,43 +637,43 @@
         },
         {
           "level": 4,
-          "name": "征收执行",
-          "desc": "<style=\"highlight\">目标每带有1层束缚 ，使本技能造成的伤害+5%(最多+20%)</style>\n[WhenUse] 若目标的震颤 强度不低于8级，则使本技能的拼点威力+<style=\"highlight\">2</style>\n[WhenUse] 消耗自身的8层震颤 并使本技能的硬币威力+1",
+          "name": "徵收執行",
+          "desc": "<style=\"highlight\">目標每帶有1層束縛 ，使本技能造成的傷害+5%(最多+20%)</style>\n[WhenUse] 若目標的震顫 強度不低於8級，則使本技能的拼點威力+<style=\"highlight\">2</style>\n[WhenUse] 消耗自身的8層震顫 並使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級震顫 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身使用技能时消耗了震颤 层数，则下回合对目标施加2层束缚 </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身使用技能時消耗了震顫 層數，則下回合對目標施加2層束縛 </style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身带有[TimeRentalTwoPersonality]，则对目标施加2层[TimeSuspend]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若自身帶有[TimeRentalTwoPersonality]，則對目標施加2層[TimeSuspend]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層</style>"
                 }
               ]
             }
@@ -686,13 +686,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "时间租赁",
+          "name": "時間租賃",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[StartBattle] 若自身未带有[TimeRentalTwoPersonality]，则回合结束时使自身获得3层[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合内受到敌方单位攻击时，使目标增加2级震颤 强度(每回合最多2次)"
+                  "desc": "[StartBattle] 若自身未帶有[TimeRentalTwoPersonality]，則回合結束時使自身獲得3層[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合內受到敵方單位攻擊時，使目標增加2級震顫 強度(每回合最多2次)"
                 }
               ]
             }
@@ -700,13 +700,13 @@
         },
         {
           "level": 4,
-          "name": "时间租赁",
+          "name": "時間租賃",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[StartBattle] 若自身未带有[TimeRentalTwoPersonality]，则回合结束时使自身获得3层[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合内受到敌方单位攻击时，使目标增加2级震颤 强度(每回合最多<style=\"highlight\">6</style>次)"
+                  "desc": "[StartBattle] 若自身未帶有[TimeRentalTwoPersonality]，則回合結束時使自身獲得3層[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合內受到敵方單位攻擊時，使目標增加2級震顫 強度(每回合最多<style=\"highlight\">6</style>次)"
                 }
               ]
             }
@@ -720,19 +720,19 @@
         {
           "level": 1,
           "name": "派送箱-崩解刀",
-          "desc": "[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数，且本技能的命中时效果不会增加破裂 强度",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數，且本技能的命中時效果不會增加破裂 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-羅佳 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -741,19 +741,19 @@
         {
           "level": 2,
           "name": "派送箱-崩解刀",
-          "desc": "<style=\"highlight\">若自身的派送箱-罗佳 层数不低于10层或目标的破裂 强度不低于6级，则使本技能的硬币威力+1</style>\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数，且本技能的命中时效果不会增加破裂 强度",
+          "desc": "<style=\"highlight\">若自身的派送箱-羅佳 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數，且本技能的命中時效果不會增加破裂 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n<style=\"highlight\">- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 </style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-羅佳 \n<style=\"highlight\">- 若自身的派送箱-羅佳 層數低於15層，則使自身額外獲得1層派送箱-羅佳 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -762,19 +762,19 @@
         {
           "level": 4,
           "name": "派送箱-崩解刀",
-          "desc": "<style=\"highlight\">自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)</style>\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数，且本技能的命中时效果不会增加破裂 强度",
+          "desc": "<style=\"highlight\">自身每帶有10層派送箱-羅佳 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數，且本技能的命中時效果不會增加破裂 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-羅佳 \n- 若自身的派送箱-羅佳 層數低於15層，則使自身額外獲得1層派送箱-羅佳 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級破裂 強度"
                 }
               ]
             }
@@ -788,26 +788,26 @@
         {
           "level": 1,
           "name": "派送箱-工具射出",
-          "desc": "若自身的派送箱-罗佳 层数不低于10层或目标的破裂 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数",
+          "desc": "若自身的派送箱-羅佳 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-羅佳 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层迅捷 (每回合最多1次)"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層迅捷 (每回合最多1次)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有10层派送箱-罗佳 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多2层，每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 自身每帶有10層派送箱-羅佳 或目標每帶有5級破裂 強度，對目標施加1層防禦等級降低 (最多2層，每回合最多1次)"
                 }
               ]
             }
@@ -816,26 +816,26 @@
         {
           "level": 2,
           "name": "派送箱-工具射出",
-          "desc": "<style=\"highlight\">自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)</style>\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数",
+          "desc": "<style=\"highlight\">自身每帶有10層派送箱-羅佳 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n<style=\"highlight\">- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 </style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-羅佳 \n<style=\"highlight\">- 若自身的派送箱-羅佳 層數低於15層，則使自身額外獲得1層派送箱-羅佳 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层迅捷 (每回合最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層迅捷 (每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有5层派送箱-罗佳 或目标每带有<style=\"highlight\">5</style>级破裂 强度，对目标施加1层防御等级降低 (最多<style=\"highlight\">4</style>层，每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 自身每帶有5層派送箱-羅佳 或目標每帶有<style=\"highlight\">5</style>級破裂 強度，對目標施加1層防禦等級降低 (最多<style=\"highlight\">4</style>層，每回合最多1次)"
                 }
               ]
             }
@@ -844,26 +844,26 @@
         {
           "level": 4,
           "name": "派送箱-工具射出",
-          "desc": "<style=\"highlight\">自身每带有1层派送箱-罗佳 ，使本技能造成的伤害+2%(最多+40%)</style>\n自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数",
+          "desc": "<style=\"highlight\">自身每帶有1層派送箱-羅佳 ，使本技能造成的傷害+2%(最多+40%)</style>\n自身每帶有10層派送箱-羅佳 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得<style=\"highlight\">2</style>层派送箱-罗佳 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-羅佳 \n- 若自身的派送箱-羅佳 層數低於15層，則使自身額外獲得<style=\"highlight\">2</style>層派送箱-羅佳 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层迅捷 (每回合最多1次)\n<style=\"highlight\">- 若自身的派送箱-罗佳 层数不低于15层，则使自身额外获得1层迅捷 </style>"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層迅捷 (每回合最多1次)\n<style=\"highlight\">- 若自身的派送箱-羅佳 層數不低於15層，則使自身額外獲得1層迅捷 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有5层派送箱-罗佳 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多<style=\"highlight\">6</style>层，每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 自身每帶有5層派送箱-羅佳 或目標每帶有5級破裂 強度，對目標施加1層防禦等級降低 (最多<style=\"highlight\">6</style>層，每回合最多1次)"
                 }
               ]
             }
@@ -876,24 +876,24 @@
       "levelList": [
         {
           "level": 3,
-          "name": "波鲁！加把劲！",
-          "desc": "自身每带有1层派送箱-罗佳 ，使本技能造成的伤害+2%(最多+40%)\n若自身的派送箱-罗佳 层数不低于10层或目标的破裂 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能的命中时效果不会施加破裂 层数，而改为重复使用最后一枚硬币",
+          "name": "波魯！加把勁！",
+          "desc": "自身每帶有1層派送箱-羅佳 ，使本技能造成的傷害+2%(最多+40%)\n若自身的派送箱-羅佳 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能的命中時效果不會施加破裂 層數，而改爲重複使用最後一枚硬幣",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 (每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 (每回合最多1次)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的派送箱-罗佳 层数不低于15层，则使本硬币造成的伤害+15%"
+                  "desc": "[OnSucceedAttack] 若自身的派送箱-羅佳 層數不低於15層，則使本硬幣造成的傷害+15%"
                 },
                 {
-                  "desc": "[EndSkill] 若目标陷入混乱或击杀目标，则下回合使自身获得1层迅捷 (每回合最多1次)"
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則下回合使自身獲得1層迅捷 (每回合最多1次)"
                 }
               ]
             }
@@ -901,24 +901,24 @@
         },
         {
           "level": 4,
-          "name": "波鲁！加把劲！",
-          "desc": "自身每带有1层派送箱-罗佳 ，使本技能造成的伤害<style=\"highlight\">+4%</style>(最多+<style=\"highlight\">80%</style>)\n<style=\"highlight\">自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)</style>\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能的命中时效果不会施加破裂 层数，而改为重复使用最后一枚硬币",
+          "name": "波魯！加把勁！",
+          "desc": "自身每帶有1層派送箱-羅佳 ，使本技能造成的傷害<style=\"highlight\">+4%</style>(最多+<style=\"highlight\">80%</style>)\n<style=\"highlight\">自身每帶有10層派送箱-羅佳 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能的命中時效果不會施加破裂 層數，而改爲重複使用最後一枚硬幣",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 (每回合最多1次)\n<style=\"highlight\">- 自身每带有10层派送箱-罗佳 ，对目标额外施加1层破裂 (最多额外施加2层)</style>"
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 (每回合最多1次)\n<style=\"highlight\">- 自身每帶有10層派送箱-羅佳 ，對目標額外施加1層破裂 (最多額外施加2層)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的派送箱-罗佳 层数不低于15层，则使本硬币造成的伤害<style=\"highlight\">+25%</style>"
+                  "desc": "[OnSucceedAttack] 若自身的派送箱-羅佳 層數不低於15層，則使本硬幣造成的傷害<style=\"highlight\">+25%</style>"
                 },
                 {
-                  "desc": "[EndSkill] 若目标陷入混乱或击杀目标，则下回合使自身获得<style=\"highlight\">2</style>层迅捷 (每回合最多1次)"
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則下回合使自身獲得<style=\"highlight\">2</style>層迅捷 (每回合最多1次)"
                 }
               ]
             }
@@ -931,16 +931,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "派送辅助及管理流程",
-          "desc": "[StartBattle] 若自身的派送箱-罗佳 不低于15层，则改为使用“只是…战略性休息而已！”(每回合最多1次)\n[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱-罗佳 层数/2)%的护盾(最多15%，每回合最多1次)\n[WhenUse] 使自身获得2层派送箱-罗佳 (每回合最多1次)\n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 ",
+          "name": "派送輔助及管理流程",
+          "desc": "[StartBattle] 若自身的派送箱-羅佳 不低於15層，則改爲使用“只是…戰略性休息而已！”(每回合最多1次)\n[StartBattle] 若使用的爲本技能，則使自身獲得體力上限(自身的派送箱-羅佳 層數/2)%的護盾(最多15%，每回合最多1次)\n[WhenUse] 使自身獲得2層派送箱-羅佳 (每回合最多1次)\n- 若自身的派送箱-羅佳 層數低於15層，則使自身額外獲得1層派送箱-羅佳 ",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "派送辅助及管理流程",
-          "desc": "[StartBattle] 若自身的派送箱-罗佳 不低于15层，则改为使用“只是…战略性休息而已！”(每回合最多1次)\n[StartBattle] 若使用的为本技能，则使自身获得体力上限<style=\"highlight\">(自身的派送箱-罗佳 层数)%</style>的护盾(最多<style=\"highlight\">25%</style>，每回合最多1次)\n[WhenUse] 使自身获得2层派送箱-罗佳 (每回合最多1次)\n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 ",
+          "name": "派送輔助及管理流程",
+          "desc": "[StartBattle] 若自身的派送箱-羅佳 不低於15層，則改爲使用“只是…戰略性休息而已！”(每回合最多1次)\n[StartBattle] 若使用的爲本技能，則使自身獲得體力上限<style=\"highlight\">(自身的派送箱-羅佳 層數)%</style>的護盾(最多<style=\"highlight\">25%</style>，每回合最多1次)\n[WhenUse] 使自身獲得2層派送箱-羅佳 (每回合最多1次)\n- 若自身的派送箱-羅佳 層數低於15層，則使自身額外獲得1層派送箱-羅佳 ",
           "coinlist": [
             {}
           ]
@@ -952,16 +952,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "只是…战略性休息而已！",
-          "desc": "[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱-罗佳 层数/2)%的护盾(最多15%，每回合最多1次)\n[EndBattle] 激活战略性休息福利模式 ",
+          "name": "只是…戰略性休息而已！",
+          "desc": "[StartBattle] 若使用的爲本技能，則使自身獲得體力上限(自身的派送箱-羅佳 層數/2)%的護盾(最多15%，每回合最多1次)\n[EndBattle] 激活戰略性休息福利模式 ",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "只是…战略性休息而已！",
-          "desc": "[StartBattle] 若使用的为本技能，则使自身获得体力上限<style=\"highlight\">(自身的派送箱-罗佳 层数)%</style>的护盾(最多<style=\"highlight\">25%</style>，每回合最多1次)\n[EndBattle] 激活战略性休息福利模式 ",
+          "name": "只是…戰略性休息而已！",
+          "desc": "[StartBattle] 若使用的爲本技能，則使自身獲得體力上限<style=\"highlight\">(自身的派送箱-羅佳 層數)%</style>的護盾(最多<style=\"highlight\">25%</style>，每回合最多1次)\n[EndBattle] 激活戰略性休息福利模式 ",
           "coinlist": [
             {}
           ]
@@ -974,16 +974,16 @@
         {
           "level": 1,
           "name": "退下…",
-          "desc": "[StartBattle] 消耗至多20层血宴 ，每消耗10层血宴 ，使自身与体力上限最高的1名友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度",
+          "desc": "[StartBattle] 消耗至多20層血宴 ，每消耗10層血宴 ，使自身與體力上限最高的1名友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             }
@@ -992,16 +992,16 @@
         {
           "level": 2,
           "name": "退下…",
-          "desc": "[StartBattle] 消耗至多20层血宴 ，每消耗10层血宴 ，使自身与体力上限最高的1名友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n<style=\"highlight\">[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1</style>",
+          "desc": "[StartBattle] 消耗至多20層血宴 ，每消耗10層血宴 ，使自身與體力上限最高的1名友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1010,16 +1010,16 @@
         {
           "level": 4,
           "name": "退下…",
-          "desc": "[StartBattle] 消耗至多20层血宴 ，每消耗10层血宴 ，使自身与体力上限最高的1名友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n<style=\"highlight\">[WhenUse] 目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)</style>",
+          "desc": "[StartBattle] 消耗至多20層血宴 ，每消耗10層血宴 ，使自身與體力上限最高的1名友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n<style=\"highlight\">[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1033,15 +1033,15 @@
         {
           "level": 1,
           "name": "四散，消亡吧",
-          "desc": "[StartBattle] 使自身与体力上限最低的1名友方单位获得1层强壮 。消耗至多30层血宴 ，每消耗10层血宴 ，使自身与该友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层强壮 与2层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度",
+          "desc": "[StartBattle] 使自身與體力上限最低的1名友方單位獲得1層強壯 。消耗至多30層血宴 ，每消耗10層血宴 ，使自身與該友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層強壯 與2層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
@@ -1049,10 +1049,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             }
@@ -1061,15 +1061,15 @@
         {
           "level": 2,
           "name": "四散，消亡吧",
-          "desc": "[StartBattle] 使自身与体力上限最低的1名友方单位获得1层强壮 。消耗至多30层血宴 ，每消耗10层血宴 ，使自身与该友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层强壮 与2层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n<style=\"highlight\">[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1</style>",
+          "desc": "[StartBattle] 使自身與體力上限最低的1名友方單位獲得1層強壯 。消耗至多30層血宴 ，每消耗10層血宴 ，使自身與該友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層強壯 與2層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層流血 "
                 }
               ]
             },
@@ -1077,10 +1077,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1089,15 +1089,15 @@
         {
           "level": 4,
           "name": "四散，消亡吧",
-          "desc": "[StartBattle] 使自身与体力上限最低的1名友方单位获得1层强壮 。消耗至多30层血宴 ，每消耗10层血宴 ，使自身与该友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层强壮 与2层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n<style=\"highlight\">[WhenUse] 目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)</style>",
+          "desc": "[StartBattle] 使自身與體力上限最低的1名友方單位獲得1層強壯 。消耗至多30層血宴 ，每消耗10層血宴 ，使自身與該友方單位獲得1層[BloomingThornsRodionFirst](每回合最多2次)\n- 優先指定屬於<血魔>的友方單位\n- 若獲得狀態的友方單位屬於<血魔>，則使其額外獲得1層強壯 與2層[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n<style=\"highlight\">[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1105,10 +1105,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1121,36 +1121,36 @@
       "levelList": [
         {
           "level": 3,
-          "name": "庆典总会结束",
-          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]层数不低于25层，则改为使用“堂吉诃德派硬血[TabExplain]奥义 落幕”\n[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得3层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得3层[BloomingThornsRodionFirst]",
+          "name": "慶典總會結束",
+          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]層數不低於25層，則改爲使用“堂吉訶德派硬血[TabExplain]奧義 落幕”\n[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得3層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得3層[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             }
@@ -1158,36 +1158,36 @@
         },
         {
           "level": 4,
-          "name": "庆典总会结束",
-          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]层数不低于25层，则改为使用“堂吉诃德派硬血[TabExplain]奥义 落幕”\n<style=\"highlight\">[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1</style>\n[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得3层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得3层[BloomingThornsRodionFirst]",
+          "name": "慶典總會結束",
+          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]層數不低於25層，則改爲使用“堂吉訶德派硬血[TabExplain]奧義 落幕”\n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得3層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得3層[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1200,20 +1200,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "堂吉诃德派硬血15式 阳伞",
-          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 强度与流血 层数之积)最高的2名友方单位的流血 层数减少3层，并获得(减少前的流血 强度×减少的流血 层数)层血宴 \n - 若该效果使其流血 层数降至0层，则解除其流血 \n[WinDuel] 使自身获得4层[BloomingThornsRodionFirst]",
+          "name": "堂吉訶德派硬血15式 陽傘",
+          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 強度與流血 層數之積)最高的2名友方單位的流血 層數減少3層，並獲得(減少前的流血 強度×減少的流血 層數)層血宴 \n - 若該效果使其流血 層數降至0層，則解除其流血 \n[WinDuel] 使自身獲得4層[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             }
@@ -1221,20 +1221,20 @@
         },
         {
           "level": 4,
-          "name": "堂吉诃德派硬血15式 阳伞",
-          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 强度与流血 层数之积)最高的2名友方单位的流血 层数减少3层，并获得(减少前的流血 强度×减少的流血 层数)层血宴 \n - 若该效果使其流血 层数降至0层，则解除其流血 \n <style=\"highlight\">- 若该友方单位属于<血魔>，则使其流血 层数额外减少2层</style>\n[WinDuel] 使自身获得4层[BloomingThornsRodionFirst]",
+          "name": "堂吉訶德派硬血15式 陽傘",
+          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 強度與流血 層數之積)最高的2名友方單位的流血 層數減少3層，並獲得(減少前的流血 強度×減少的流血 層數)層血宴 \n - 若該效果使其流血 層數降至0層，則解除其流血 \n <style=\"highlight\">- 若該友方單位屬於<血魔>，則使其流血 層數額外減少2層</style>\n[WinDuel] 使自身獲得4層[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1247,36 +1247,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "堂吉诃德派硬血奥义 落幕",
-          "desc": "[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得5层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得5层[BloomingThornsRodionFirst]\n[WhenUse] 自身每带有5层[BloodDinner_Accumulation]，使本技能造成的伤害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
+          "name": "堂吉訶德派硬血奧義 落幕",
+          "desc": "[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得5層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得5層[BloomingThornsRodionFirst]\n[WhenUse] 自身每帶有5層[BloodDinner_Accumulation]，使本技能造成的傷害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -1284,36 +1284,36 @@
         },
         {
           "level": 4,
-          "name": "堂吉诃德派硬血奥义 落幕",
-          "desc": "<style=\"highlight\">[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1</style>\n[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得5层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得5层[BloomingThornsRodionFirst]\n[WhenUse] 自身每带有5层[BloodDinner_Accumulation]，使本技能造成的伤害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
+          "name": "堂吉訶德派硬血奧義 落幕",
+          "desc": "<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 本回合與下回合使自身與(最大共鳴數)名友方單位獲得5層[FestivalFeverRodion]，自身每帶有50層[BloodDinner_Accumulation]，額外獲得1層[FestivalFeverRodion](最多10層)\n[WhenUse] 使自身與(最大共鳴數)名友方單位獲得5層[BloomingThornsRodionFirst]\n[WhenUse] 自身每帶有5層[BloodDinner_Accumulation]，使本技能造成的傷害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1326,20 +1326,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "巳闪",
-          "desc": "[WhenUse] 使自身获得1层呼吸法 ",
+          "name": "巳閃",
+          "desc": "[WhenUse] 使自身獲得1層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             }
@@ -1347,23 +1347,23 @@
         },
         {
           "level": 2,
-          "name": "巳闪",
-          "desc": "<style=\"highlight\">[WhenUse] 若自身的[Breath]强度与目标的[Burst]强度之和不低于10级，则使本技能的硬币威力+1</style>\n[WhenUse] 使自身获得<style=\"highlight\">2</style>层[Breath]",
+          "name": "巳閃",
+          "desc": "<style=\"highlight\">[WhenUse] 若自身的[Breath]強度與目標的[Burst]強度之和不低於10級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得<style=\"highlight\">2</style>層[Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 若自身带有[SnakeStance]，则使目标增加1级[Burst]强度</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 若自身帶有[SnakeStance]，則使目標增加1級[Burst]強度</style>"
                 }
               ]
             }
@@ -1371,23 +1371,23 @@
         },
         {
           "level": 4,
-          "name": "巳闪",
-          "desc": "<style=\"highlight\">[WhenUse] 自身的[Breath]强度与目标的[Burst]强度之和每有10级，使本技能的硬币威力+1(最多+2)</style>\n[WhenUse] 使自身获得2层[Breath]",
+          "name": "巳閃",
+          "desc": "<style=\"highlight\">[WhenUse] 自身的[Breath]強度與目標的[Burst]強度之和每有10級，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 使自身獲得2層[Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 若自身带有[SnakeStance]，则使目标增加<style=\"highlight\">2</style>级[Burst]强度"
+                  "desc": "[CriticalOnSucceedAttack] 若自身帶有[SnakeStance]，則使目標增加<style=\"highlight\">2</style>級[Burst]強度"
                 }
               ]
             }
@@ -1401,20 +1401,20 @@
         {
           "level": 1,
           "name": "蛇牙",
-          "desc": "[WinDuel] 对目标施加2层[Burst]\n[WinDuel] 使自身获得1层[Breath]",
+          "desc": "[WinDuel] 對目標施加2層[Burst]\n[WinDuel] 使自身獲得1層[Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加[BurstPoison]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstPoison]"
                 }
               ]
             }
@@ -1423,23 +1423,23 @@
         {
           "level": 2,
           "name": "蛇牙",
-          "desc": "<style=\"highlight\">[WhenUse] 若自身的[Breath]强度与目标的[Burst]强度之和不低于10级，则使本技能的硬币威力+1</style>\n[WinDuel] 对目标施加2层[Burst]\n[WinDuel] 使自身获得<style=\"highlight\">2</style>层[Breath]",
+          "desc": "<style=\"highlight\">[WhenUse] 若自身的[Breath]強度與目標的[Burst]強度之和不低於10級，則使本技能的硬幣威力+1</style>\n[WinDuel] 對目標施加2層[Burst]\n[WinDuel] 使自身獲得<style=\"highlight\">2</style>層[Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的[Breath]强度不低于30级，则消耗自身的10级[Breath]强度并重复使用本硬币1次(最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的[Breath]強度不低於30級，則消耗自身的10級[Breath]強度並重複使用本硬幣1次(最多1次)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加[BurstPoison]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstPoison]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1448,32 +1448,32 @@
         {
           "level": 4,
           "name": "蛇牙",
-          "desc": "<style=\"highlight\">[WhenUse] 自身的[Breath]强度与目标的[Burst]强度之和每有10级，使本技能的硬币威力+1(最多+2)</style>\n[WinDuel] 对目标施加2层[Burst]\n[WinDuel] 使自身获得2层[Breath]",
+          "desc": "<style=\"highlight\">[WhenUse] 自身的[Breath]強度與目標的[Burst]強度之和每有10級，使本技能的硬幣威力+1(最多+2)</style>\n[WinDuel] 對目標施加2層[Burst]\n[WinDuel] 使自身獲得2層[Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目标增加1级[Burst]强度</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標增加1級[Burst]強度</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的[Breath]强度不低于30级，则消耗自身的10级[Breath]强度并重复使用本硬币1次(最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若自身的[Breath]強度不低於30級，則消耗自身的10級[Breath]強度並重複使用本硬幣1次(最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加[BurstPoison]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstPoison]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 使自身获得1层[SnakeStance]</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 使自身獲得1層[SnakeStance]</style>"
                 }
               ]
             }
@@ -1486,33 +1486,33 @@
       "levelList": [
         {
           "level": 3,
-          "name": "绝命巳乱",
-          "desc": "[WideAreaRampage]\n[WhenUse] 若自身的[Breath]强度与主要目标的[Burst]强度之和不低于10级，则使本技能的硬币威力+1\n[WhenUse] 使本技能增加相当于自身[SnakeStance]层数的拼点威力\n[WhenUse] 使自身获得3层[SnakeStance]\n[WinDuel] 对全体目标施加1层[Burst]",
+          "name": "絕命巳亂",
+          "desc": "[WideAreaRampage]\n[WhenUse] 若自身的[Breath]強度與主要目標的[Burst]強度之和不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 使本技能增加相當於自身[SnakeStance]層數的拼點威力\n[WhenUse] 使自身獲得3層[SnakeStance]\n[WinDuel] 對全體目標施加1層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层[Breath]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使目标的[BurstPoison]层数减少1层"
+                  "desc": "[CriticalOnSucceedAttack] 使目標的[BurstPoison]層數減少1層"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 重复使用本硬币1次(每个技能最多2次)"
+                  "desc": "[CriticalOnSucceedAttack] 重複使用本硬幣1次(每個技能最多2次)"
                 }
               ]
             }
@@ -1520,33 +1520,33 @@
         },
         {
           "level": 4,
-          "name": "绝命巳乱",
-          "desc": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] 自身的[Breath]强度与主要目标的[Burst]强度之和每有10级，使本技能的硬币威力+1(最多+2)</style>\n[WhenUse] 使本技能增加相当于自身[SnakeStance]层数的拼点威力\n[WhenUse] 使自身获得3层[SnakeStance]\n[WinDuel] 对全体目标施加1层[Burst]",
+          "name": "絕命巳亂",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] 自身的[Breath]強度與主要目標的[Burst]強度之和每有10級，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 使本技能增加相當於自身[SnakeStance]層數的拼點威力\n[WhenUse] 使自身獲得3層[SnakeStance]\n[WinDuel] 對全體目標施加1層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层呼吸法 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使目标的[BurstPoison]层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 使目標的[BurstPoison]層數減少1層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 重复使用本硬币1次(每个技能最多2次)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 重複使用本硬幣1次(每個技能最多2次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1560,7 +1560,7 @@
         {
           "level": 1,
           "name": "反蹴",
-          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使自身获得3层[SnakeStance]",
+          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使自身獲得3層[SnakeStance]",
           "coinlist": [
             {
               "coindescs": [
@@ -1574,7 +1574,7 @@
         {
           "level": 4,
           "name": "反蹴",
-          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使自身获得3层[SnakeStance]\n<style=\"highlight\">[WhenUse] 若自身的呼吸法 强度不低于10级，则使本技能的硬币威力+1</style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使自身獲得3層[SnakeStance]\n<style=\"highlight\">[WhenUse] 若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [

@@ -5,30 +5,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "斩破长空",
-          "desc": "[StartBattle] 若目标的流血 强度不低于5级，则使本技能的攻击容量+1\n[StartBattle] 若本回合自身使用的攻击技能不低于4个，则使本技能的最终威力+5\n[WinDuel] 使全体友方单位恢复15点理智值\n若目标的流血 强度不低于7级，则使本技能造成的伤害+30%",
+          "name": "斬破長空",
+          "desc": "[StartBattle] 若目標的流血 強度不低於5級，則使本技能的攻擊容量+1\n[StartBattle] 若本回合自身使用的攻擊技能不低於4個，則使本技能的最終威力+5\n[WinDuel] 使全體友方單位恢復15點理智值\n若目標的流血 強度不低於7級，則使本技能造成的傷害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若目标的流血 强度不低于7级，则使本硬币造成的伤害+50%"
+                  "desc": "若目標的流血 強度不低於7級，則使本硬幣造成的傷害+50%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加10层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加10層流血 "
                 }
               ]
             }
@@ -41,16 +41,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "后巷规矩",
-          "desc": "[WhenUse] 除自身以外每有1名友方单位存活，使本技能额外增加1枚硬币(最多3枚)",
+          "name": "後巷規矩",
+          "desc": "[WhenUse] 除自身以外每有1名友方單位存活，使本技能額外增加1枚硬幣(最多3枚)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加2層流血 "
                 },
                 {
-                  "desc": "[EnemyKill] 使全体友方单位恢复20点理智值"
+                  "desc": "[EnemyKill] 使全體友方單位恢復20點理智值"
                 }
               ]
             }

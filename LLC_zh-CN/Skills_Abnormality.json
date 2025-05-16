@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御"
+          "name": "防禦"
         }
       ]
     },
@@ -14,7 +14,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避"
+          "name": "閃避"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击"
+          "name": "反擊"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避"
+          "name": "閃避"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "怀疑猜忌",
+          "name": "懷疑猜忌",
           "coinlist": [
             {},
             {}
@@ -54,7 +54,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "褪色枝干"
+          "name": "褪色枝幹"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "褪色枝干"
+          "name": "褪色枝幹"
         }
       ]
     },
@@ -72,13 +72,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "根生荆棘",
+          "name": "根生荊棘",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层流血 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層流血 "
                 }
               ]
             }
@@ -97,7 +97,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
                 }
               ]
             }
@@ -110,7 +110,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "虚无之果",
+          "name": "虛無之果",
           "desc": ""
         }
       ]
@@ -133,26 +133,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "填满胃肠",
+          "name": "填滿胃腸",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复1点体力"
+                  "desc": "[OnSucceedAttackHead] 使自身恢復1點體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复1点体力"
+                  "desc": "[OnSucceedAttackHead] 使自身恢復1點體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复1点体力"
+                  "desc": "[OnSucceedAttackHead] 使自身恢復1點體力"
                 }
               ]
             }
@@ -165,7 +165,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "翻滚冲撞",
+          "name": "翻滾衝撞",
           "coinlist": [
             {}
           ]
@@ -182,7 +182,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层束缚 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層束縛 "
                 }
               ]
             }
@@ -195,7 +195,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "烈焰烧灼",
+          "name": "烈焰燒灼",
           "coinlist": [
             {},
             {}
@@ -208,12 +208,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "爆发的暴怒",
+          "name": "爆發的暴怒",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加2級燒傷 強度"
                 }
               ]
             }
@@ -250,12 +250,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "大地震颤",
+          "name": "大地震顫",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 }
               ]
             }
@@ -268,12 +268,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "活祭仪式",
+          "name": "活祭儀式",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層流血 "
                 }
               ]
             }
@@ -286,7 +286,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "宇宙热寂",
+          "name": "宇宙熱寂",
           "coinlist": [
             {}
           ]
@@ -298,7 +298,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "坚固祭坛",
+          "name": "堅固祭壇",
           "coinlist": [
             {}
           ]
@@ -310,8 +310,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "宇宙热寂",
-          "desc": "[CantDuel] 指定友方单位",
+          "name": "宇宙熱寂",
+          "desc": "[CantDuel] 指定友方單位",
           "coinlist": [
             {}
           ]
@@ -328,7 +328,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层流血 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層流血 "
                 }
               ]
             }
@@ -341,13 +341,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "撕挠",
+          "name": "撕撓",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层流血 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層流血 "
                 }
               ]
             }
@@ -365,10 +365,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层流血 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層燒傷 "
                 }
               ]
             }
@@ -381,16 +381,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "痛苦撕挠",
+          "name": "痛苦撕撓",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层流血 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层烧伤 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層燒傷 "
                 }
               ]
             }
@@ -408,7 +408,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加1级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加1級燒傷 強度"
                 }
               ]
             }
@@ -421,7 +421,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "发芽",
+          "name": "發芽",
           "desc": ""
         }
       ]
@@ -431,15 +431,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "金灿果实",
+          "name": "金燦果實",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[DefeatDuel] 对自身造成20点伤害"
+                  "desc": "[DefeatDuel] 對自身造成20點傷害"
                 },
                 {
-                  "desc": "[DefeatDuel] 使自身失去1层光辉 "
+                  "desc": "[DefeatDuel] 使自身失去1層光輝 "
                 }
               ]
             }
@@ -452,7 +452,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬如坚金",
+          "name": "硬如堅金",
           "coinlist": [
             {}
           ]
@@ -464,13 +464,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "榨取养分",
+          "name": "榨取養分",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的本体恢复3点体力"
+                  "desc": "[OnSucceedAttack] 使自身的本體恢復3點體力"
                 }
               ]
             },
@@ -484,15 +484,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "腐烂果肉",
+          "name": "腐爛果肉",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層易損 "
                 }
               ]
             }
@@ -505,16 +505,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "捕杀",
+          "name": "捕殺",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的本体恢复10点体力"
+                  "desc": "[OnSucceedAttack] 使自身的本體恢復10點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加5級流血 強度"
                 }
               ]
             }
@@ -527,7 +527,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "该干活了…",
+          "name": "該幹活了…",
           "coinlist": [
             {},
             {}
@@ -541,7 +541,7 @@
         {
           "level": 1,
           "name": "努力拼搏！",
-          "desc": "[WhenUse] 使自身失去10点体力并使本技能威力+1",
+          "desc": "[WhenUse] 使自身失去10點體力並使本技能威力+1",
           "coinlist": [
             {}
           ]
@@ -578,8 +578,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "继续奋斗！",
-          "desc": "[WhenUse] 使自身失去10点体力并使本技能威力+1",
+          "name": "繼續奮鬥！",
+          "desc": "[WhenUse] 使自身失去10點體力並使本技能威力+1",
           "coinlist": [
             {},
             {},
@@ -605,7 +605,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "工作时间！",
+          "name": "工作時間！",
           "coinlist": [
             {}
           ]
@@ -617,12 +617,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "起来干活！",
+          "name": "起來幹活！",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得2层迅捷 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層迅捷 "
                 }
               ]
             }
@@ -635,19 +635,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "兴奋至极！！",
+          "name": "興奮至極！！",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身造成3点伤害"
+                  "desc": "[OnSucceedAttack] 對自身造成3點傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身造成3点伤害"
+                  "desc": "[OnSucceedAttack] 對自身造成3點傷害"
                 }
               ]
             }
@@ -660,8 +660,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "给予☆惩罚",
-          "desc": "[WhenUse] 使自身失去10点体力并使本技能威力+2",
+          "name": "給予☆懲罰",
+          "desc": "[WhenUse] 使自身失去10點體力並使本技能威力+2",
           "coinlist": [
             {},
             {}
@@ -674,26 +674,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "紧·急·情·况！！！",
+          "name": "緊·急·情·況！！！",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身造成3点伤害"
+                  "desc": "[OnSucceedAttack] 對自身造成3點傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身造成3点伤害"
+                  "desc": "[OnSucceedAttack] 對自身造成3點傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身造成3点伤害"
+                  "desc": "[OnSucceedAttack] 對自身造成3點傷害"
                 }
               ]
             }
@@ -706,7 +706,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别妨碍我？！",
+          "name": "別妨礙我？！",
           "coinlist": [
             {},
             {}
@@ -719,7 +719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "受缚姿态",
+          "name": "受縛姿態",
           "coinlist": [
             {},
             {}
@@ -732,7 +732,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "紧缚欲望",
+          "name": "緊縛慾望",
           "coinlist": [
             {}
           ]
@@ -744,19 +744,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "粉红之舞",
+          "name": "粉紅之舞",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层欲望 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層慾望 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层欲望 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層慾望 "
                 }
               ]
             }
@@ -769,7 +769,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "受缚姿态",
+          "name": "受縛姿態",
           "coinlist": [
             {},
             {}
@@ -782,7 +782,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "紧缚欲望",
+          "name": "緊縛慾望",
           "coinlist": [
             {}
           ]
@@ -794,12 +794,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "粉红之舞",
+          "name": "粉紅之舞",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层欲望 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層慾望 "
                 }
               ]
             }
@@ -812,7 +812,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "赚钱时间！",
+          "name": "賺錢時間！",
           "coinlist": [
             {}
           ]
@@ -824,12 +824,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "赚钱啦！",
+          "name": "賺錢啦！",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得2层迅捷 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層迅捷 "
                 }
               ]
             }
@@ -842,19 +842,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "太开心啦！！",
+          "name": "太開心啦！！",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 对自身造成3点伤害"
+                  "desc": "[OnSucceedAttackHead] 對自身造成3點傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 对自身造成3点伤害"
+                  "desc": "[OnSucceedAttackHead] 對自身造成3點傷害"
                 }
               ]
             }
@@ -867,13 +867,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪☆金旋转！？",
-          "desc": "[WhenUse] 使自身失去10点体力并使本技能威力+2",
+          "name": "閃☆金旋轉！？",
+          "desc": "[WhenUse] 使自身失去10點體力並使本技能威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层欲望 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層慾望 "
                 }
               ]
             }
@@ -886,7 +886,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "悲哀溅射",
+          "name": "悲哀濺射",
           "coinlist": [
             {}
           ]
@@ -898,12 +898,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "忧郁决堤",
+          "name": "憂鬱決堤",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -928,12 +928,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "淫欲绞杀",
+          "name": "淫慾絞殺",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加2級流血 強度"
                 }
               ]
             }
@@ -946,7 +946,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "摧残蹂躏",
+          "name": "摧殘蹂躪",
           "coinlist": [
             {}
           ]
@@ -958,19 +958,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "骄慢碾碎",
+          "name": "驕慢碾碎",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
                 }
               ]
             }
@@ -983,7 +983,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "尖喙凿击",
+          "name": "尖喙鑿擊",
           "coinlist": [
             {}
           ]
@@ -995,7 +995,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "冰镰刨切",
+          "name": "冰鐮刨切",
           "coinlist": [
             {},
             {}
@@ -1008,12 +1008,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "趾足践踏",
+          "name": "趾足踐踏",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
                 }
               ]
             }
@@ -1026,7 +1026,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "粉碎凿击",
+          "name": "粉碎鑿擊",
           "coinlist": [
             {}
           ]
@@ -1038,7 +1038,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "投掷冰锥",
+          "name": "投擲冰錐",
           "coinlist": [
             {}
           ]
@@ -1050,13 +1050,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "利喙捣碎",
+          "name": "利喙搗碎",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 }
               ]
             }
@@ -1069,20 +1069,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "诡异之瞳",
+          "name": "詭異之瞳",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成5点理智伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成5點理智傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成5点理智伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成5點理智傷害"
                 }
               ]
             }
@@ -1096,7 +1096,7 @@
         {
           "level": 1,
           "name": "拙劣模仿",
-          "desc": "受到攻击时模仿使用对方所用的技能。\n[WhenUse] 对目标造成10点理智伤害",
+          "desc": "受到攻擊時模仿使用對方所用的技能。\n[WhenUse] 對目標造成10點理智傷害",
           "coinlist": [
             {
               "coindescs": [
@@ -1114,12 +1114,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "修补躯壳",
+          "name": "修補軀殼",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限10%的体力并获得1层本能 "
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限10%的體力並獲得1層本能 "
                 }
               ]
             }
@@ -1137,14 +1137,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限10%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限10%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加10级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加10級流血 強度"
                 }
               ]
             }
@@ -1162,21 +1162,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加1級流血 強度"
                 }
               ]
             }
@@ -1189,19 +1189,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "狂暴冲撞",
+          "name": "狂暴衝撞",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
                 }
               ]
             }
@@ -1214,45 +1214,45 @@
       "levelList": [
         {
           "level": 1,
-          "name": "野蛮撕裂",
+          "name": "野蠻撕裂",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 }
               ]
             }
@@ -1265,15 +1265,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "暴怒追击",
+          "name": "暴怒追擊",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加6层流血 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加6層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加6层破裂 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加6層破裂 "
                 }
               ]
             }
@@ -1304,7 +1304,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加1級流血 強度"
                 }
               ]
             }
@@ -1329,19 +1329,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "盲目冲撞",
+          "name": "盲目衝撞",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度"
                 }
               ]
             }
@@ -1354,13 +1354,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "盘绕双臂",
+          "name": "盤繞雙臂",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1373,14 +1373,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "缠绕扭断",
-          "desc": "[DefeatDuel] 使自身失去1层本能 ",
+          "name": "纏繞扭斷",
+          "desc": "[DefeatDuel] 使自身失去1層本能 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复20点体力并对目标施加5层流血 "
+                  "desc": "[OnSucceedAttack] 使自身恢復20點體力並對目標施加5層流血 "
                 }
               ]
             }
@@ -1393,27 +1393,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "双臂挥砸",
-          "desc": "自身每有一处手臂被破坏，使本技能威力-1",
+          "name": "雙臂揮砸",
+          "desc": "自身每有一處手臂被破壞，使本技能威力-1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度并对其施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度並對其施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度并对其施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度並對其施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加4级流血 强度并对其施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合使目標增加4級流血 強度並對其施加2層麻痹 "
                 }
               ]
             }
@@ -1426,13 +1426,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "双臂痛殴",
-          "desc": "[DefeatDuel] 使自身失去1层本能 ",
+          "name": "雙臂痛毆",
+          "desc": "[DefeatDuel] 使自身失去1層本能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移10；下回合对目标施加5层束缚 "
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移10；下回合對目標施加5層束縛 "
                 }
               ]
             }
@@ -1446,7 +1446,7 @@
         {
           "level": 1,
           "name": "屏息凝神",
-          "desc": "[StartBattle] 使自身获得1层本能 ",
+          "desc": "[StartBattle] 使自身獲得1層本能 ",
           "coinlist": [
             {}
           ]
@@ -1458,27 +1458,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "痛苦蠕动",
-          "desc": "[WhenUse] 使自身失去12点体力并在下回合使自身增加5级流血 强度",
+          "name": "痛苦蠕動",
+          "desc": "[WhenUse] 使自身失去12點體力並在下回合使自身增加5級流血 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层剧毒 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層劇毒 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层剧毒 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層劇毒 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层剧毒 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層劇毒 "
                 }
               ]
             }
@@ -1491,20 +1491,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "痛苦挣扎",
-          "desc": "[WhenUse] 使自身失去12点体力并在下回合使自身获得3层流血 ",
+          "name": "痛苦掙扎",
+          "desc": "[WhenUse] 使自身失去12點體力並在下回合使自身獲得3層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加6层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加6層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加6层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加6層麻痹 "
                 }
               ]
             }
@@ -1529,13 +1529,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "尖钉戳刺",
+          "name": "尖釘戳刺",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加6级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加6級流血 強度"
                 }
               ]
             }
@@ -1548,8 +1548,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "执握",
-          "desc": "[StartBattle] 下回合对目标施加1层执柄者的凝视 ",
+          "name": "執握",
+          "desc": "[StartBattle] 下回合對目標施加1層執柄者的凝視 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1568,12 +1568,12 @@
         {
           "level": 1,
           "name": "狂笑",
-          "desc": "[WhenUse] 对目标造成10点理智伤害",
+          "desc": "[WhenUse] 對目標造成10點理智傷害",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得1层强壮 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層強壯 "
                 }
               ]
             }
@@ -1586,26 +1586,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "断罪钉刑",
+          "name": "斷罪釘刑",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层N公司的尖钉 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層N公司的尖釘 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层N公司的尖钉 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層N公司的尖釘 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层N公司的尖钉 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層N公司的尖釘 "
                 }
               ]
             }
@@ -1618,34 +1618,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "净化",
-          "desc": "[WhenUse] 若目标现存体力不高于30%，则使本技能威力+2",
+          "name": "淨化",
+          "desc": "[WhenUse] 若目標現存體力不高於30%，則使本技能威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层N公司的尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層N公司的尖釘 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层N公司的尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層N公司的尖釘 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层N公司的尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層N公司的尖釘 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的N公司的尖钉 层数不低于5层，则使其陷入混乱并解除目标的N公司的尖钉 "
+                  "desc": "[OnSucceedAttack] 若目標的N公司的尖釘 層數不低於5層，則使其陷入混亂並解除目標的N公司的尖釘 "
                 }
               ]
             }
@@ -1658,20 +1658,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "即刻处决！",
-          "desc": "[WhenUse] 若目标现存体力不高于30%，则使本技能威力+2",
+          "name": "即刻處決！",
+          "desc": "[WhenUse] 若目標現存體力不高於30%，則使本技能威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的尖钉 层数不低于5层，则使其陷入混乱"
+                  "desc": "[OnSucceedAttack] 若目標的尖釘 層數不低於5層，則使其陷入混亂"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成(尖钉层数x3)点伤害，随后解除目标的尖钉 "
+                  "desc": "[OnSucceedAttack] 對目標造成(尖釘層數x3)點傷害，隨後解除目標的尖釘 "
                 }
               ]
             }
@@ -1684,13 +1684,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "即刻处决！",
-          "desc": "[DefeatDuel] 使自身陷入混乱",
+          "name": "即刻處決！",
+          "desc": "[DefeatDuel] 使自身陷入混亂",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标陷入混乱，并在下回合对其施加10层易损 "
+                  "desc": "[OnSucceedAttack] 使目標陷入混亂，並在下回合對其施加10層易損 "
                 }
               ]
             }
@@ -1716,8 +1716,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "可笑至极",
-          "desc": "[OnSucceedEvade] 对目标造成5点理智伤害",
+          "name": "可笑至極",
+          "desc": "[OnSucceedEvade] 對目標造成5點理智傷害",
           "coinlist": [
             {}
           ]
@@ -1754,45 +1754,45 @@
       "levelList": [
         {
           "level": 1,
-          "name": "圣洁振翅",
+          "name": "聖潔振翅",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -1805,25 +1805,25 @@
       "levelList": [
         {
           "level": 1,
-          "name": "折断之翼",
+          "name": "折斷之翼",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -1836,25 +1836,25 @@
       "levelList": [
         {
           "level": 1,
-          "name": "折断之翼",
+          "name": "折斷之翼",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -1879,35 +1879,35 @@
       "levelList": [
         {
           "level": 1,
-          "name": "崇高净化",
+          "name": "崇高淨化",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度"
                 }
               ]
             }
@@ -1920,13 +1920,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "荣耀执握",
-          "desc": "[WhenUse] 若目标现存体力不高于30%，则使本技能造成的伤害+100%",
+          "name": "榮耀執握",
+          "desc": "[WhenUse] 若目標現存體力不高於30%，則使本技能造成的傷害+100%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 若目标现存体力不高于30%，直接击杀目标并使自身恢复30点体力\n下回合使自身获得2层强壮 "
+                  "desc": "[OnSucceedAttackHead] 若目標現存體力不高於30%，直接擊殺目標並使自身恢復30點體力\n下回合使自身獲得2層強壯 "
                 }
               ]
             }
@@ -1939,16 +1939,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "给我忏悔！！",
-          "desc": "[WhenUse] 若目标现存体力不高于30%，则使本技能造成的伤害+100%",
+          "name": "給我懺悔！！",
+          "desc": "[WhenUse] 若目標現存體力不高於30%，則使本技能造成的傷害+100%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加5层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加5級流血 強度"
                 }
               ]
             }
@@ -1961,7 +1961,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "纯粹的血肉",
+          "name": "純粹的血肉",
           "coinlist": [
             {
               "coindescs": [
@@ -1977,7 +1977,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "拍击",
+          "name": "拍擊",
           "keywords": [
             "Reduction"
           ],
@@ -1985,7 +1985,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层虚弱 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層虛弱 "
                 }
               ]
             }
@@ -1998,7 +1998,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "强力拍击",
+          "name": "強力拍擊",
           "keywords": [
             "Reduction"
           ],
@@ -2006,7 +2006,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层虚弱 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層虛弱 "
                 }
               ]
             }
@@ -2019,7 +2019,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "尾鳍抽打",
+          "name": "尾鰭抽打",
           "keywords": [
             "Vulnerable"
           ],
@@ -2027,14 +2027,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層易損 "
                 }
               ]
             }
@@ -2047,7 +2047,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "挤压液囊",
+          "name": "擠壓液囊",
           "keywords": [
             "Binding"
           ],
@@ -2055,7 +2055,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 "
                 }
               ]
             }
@@ -2068,7 +2068,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "血液轰击",
+          "name": "血液轟擊",
           "keywords": [
             "Bleeding"
           ],
@@ -2076,10 +2076,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加20级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加20級流血 強度"
                 }
               ]
             }
@@ -2092,7 +2092,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "血液凝结",
+          "name": "血液凝結",
           "keywords": [
             "Bleeding"
           ],
@@ -2101,7 +2101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加30级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加30級流血 強度"
                 }
               ]
             }
@@ -2119,7 +2119,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級流血 強度"
                 }
               ]
             }
@@ -2132,12 +2132,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "恒定电压",
+          "name": "恆定電壓",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加1級破裂 強度"
                 }
               ]
             }
@@ -2150,19 +2150,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "恒压追击",
+          "name": "恆壓追擊",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加1級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加4级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加4級破裂 強度"
                 }
               ]
             }
@@ -2180,10 +2180,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加4层破绽 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加4層破綻 "
                 }
               ]
             }
@@ -2201,7 +2201,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -2214,15 +2214,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "落雷牵引",
+          "name": "落雷牽引",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加5級破裂 強度"
                 }
               ]
             },
@@ -2242,12 +2242,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "赤色闪电",
+          "name": "赤色閃電",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加10级破裂 强度"
+                  "desc": "[OnSucceedAttack] 下回合使目標增加10級破裂 強度"
                 }
               ]
             },
@@ -2272,10 +2272,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加4层破绽 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加4層破綻 "
                 }
               ]
             }
@@ -2288,12 +2288,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "盘绕双臂",
+          "name": "盤繞雙臂",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -2306,20 +2306,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "挥臂横扫",
-          "desc": "[WhenUse] 下回合使自身获得1层强壮 ",
+          "name": "揮臂橫掃",
+          "desc": "[WhenUse] 下回合使自身獲得1層強壯 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加3级流血 强度并对其施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合使目標增加3級流血 強度並對其施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加3级流血 强度并对其施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合使目標增加3級流血 強度並對其施加1層麻痹 "
                 }
               ]
             }
@@ -2332,12 +2332,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "抬臂重击",
+          "name": "抬臂重擊",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 "
                 }
               ]
             }
@@ -2350,7 +2350,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
+          "name": "防禦",
           "coinlist": [
             {
               "coindescs": [
@@ -2368,20 +2368,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "毒液喷射",
-          "desc": "[WhenUse] 使自身失去6点体力并在下回合使自身增加5级流血 强度",
+          "name": "毒液噴射",
+          "desc": "[WhenUse] 使自身失去6點體力並在下回合使自身增加5級流血 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层剧毒 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層劇毒 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层剧毒 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層劇毒 "
                 }
               ]
             }
@@ -2395,12 +2395,12 @@
         {
           "level": 1,
           "name": "咯咯咯咯",
-          "desc": "优先指定理智值最低的单位",
+          "desc": "優先指定理智值最低的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去5点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去5點理智值"
                 }
               ]
             }
@@ -2414,16 +2414,16 @@
         {
           "level": 1,
           "name": "咯咯咯",
-          "desc": "优先指定理智值最低的单位",
+          "desc": "優先指定理智值最低的單位",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复7点体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復7點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -2437,7 +2437,7 @@
         {
           "level": 1,
           "name": "咕咕",
-          "desc": "若自身在本回合未受到伤害，则下回合使全体友方单位获得2层强壮 ",
+          "desc": "若自身在本回合未受到傷害，則下回合使全體友方單位獲得2層強壯 ",
           "coinlist": [
             {}
           ]
@@ -2450,12 +2450,12 @@
         {
           "level": 1,
           "name": "咯哦咯",
-          "desc": "优先指定体力最低的单位",
+          "desc": "優先指定體力最低的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
                 }
               ]
             }
@@ -2469,16 +2469,16 @@
         {
           "level": 1,
           "name": "咯咯啵",
-          "desc": "优先指定体力最低的单位",
+          "desc": "優先指定體力最低的單位",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复7点体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復7點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加5級流血 強度"
                 }
               ]
             }
@@ -2492,7 +2492,7 @@
         {
           "level": 1,
           "name": "咕",
-          "desc": "[OnSucceedEvade] 使目标失去15点理智值",
+          "desc": "[OnSucceedEvade] 使目標失去15點理智值",
           "coinlist": [
             {}
           ]
@@ -2505,12 +2505,12 @@
         {
           "level": 1,
           "name": "咕咕！",
-          "desc": "若自身在上回合未受到伤害，则使本技能的硬币威力+3",
+          "desc": "若自身在上回合未受到傷害，則使本技能的硬幣威力+3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得3层迅捷 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得3層迅捷 "
                 }
               ]
             }
@@ -2523,17 +2523,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咕咕呜！",
-          "desc": "若自身在上回合未受到伤害，则使本技能的硬币威力+3",
+          "name": "咕咕嗚！",
+          "desc": "若自身在上回合未受到傷害，則使本技能的硬幣威力+3",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复7点体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復7點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層麻痹 "
                 }
               ]
             }
@@ -2560,12 +2560,12 @@
         {
           "level": 1,
           "name": "咯",
-          "desc": "优先指定体力最高的单位",
+          "desc": "優先指定體力最高的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
                 }
               ]
             }
@@ -2578,17 +2578,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咯咕呜",
-          "desc": "优先指定体力最高的单位",
+          "name": "咯咕嗚",
+          "desc": "優先指定體力最高的單位",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复7点体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復7點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -2601,7 +2601,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "叽！",
+          "name": "嘰！",
           "desc": "",
           "coinlist": [
             {}
@@ -2614,20 +2614,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "叽！",
+          "name": "嘰！",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -2641,12 +2641,12 @@
         {
           "level": 1,
           "name": "咯咯！",
-          "desc": "优先指定理智值最低的单位",
+          "desc": "優先指定理智值最低的單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -2672,20 +2672,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "叽！",
+          "name": "嘰！",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级震颤 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級震顫 強度"
                 }
               ]
             }
@@ -2704,28 +2704,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级震颤 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加1层麻痹 并使其增加5级震颤 强度"
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痹 並使其增加5級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -2739,12 +2739,12 @@
         {
           "level": 1,
           "name": "咔咳！",
-          "desc": "优先指定理智值最低的单位\n命中时，生成一只生鸡",
+          "desc": "優先指定理智值最低的單位\n命中時，生成一隻生雞",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
                 }
               ]
             }
@@ -2757,20 +2757,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "库库库！",
-          "desc": "[WinDuel] 使本技能的最终威力+1",
+          "name": "庫庫庫！",
+          "desc": "[WinDuel] 使本技能的最終威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -2783,7 +2783,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "库库…",
+          "name": "庫庫…",
           "desc": "",
           "coinlist": [
             {}
@@ -2796,20 +2796,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "突进",
+          "name": "突進",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
                 }
               ]
             }
@@ -2822,13 +2822,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "压倒",
+          "name": "壓倒",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层烧伤 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層燒傷 "
                 }
               ]
             }
@@ -2847,30 +2847,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的20%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的20%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的20%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的20%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的20%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的20%"
                 }
               ]
             }
@@ -2883,16 +2883,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "满溢而出的哀伤",
-          "desc": "[DefeatDuel] 使自身获得1层尚未释怀的哀伤 ",
+          "name": "滿溢而出的哀傷",
+          "desc": "[DefeatDuel] 使自身獲得1層尚未釋懷的哀傷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去15点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去15點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的50%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的50%"
                 }
               ]
             }
@@ -2905,16 +2905,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "炽热啼哭",
-          "desc": "[WinDuel] 下回合使自身获得1层迅捷 与1层强壮 ",
+          "name": "熾熱啼哭",
+          "desc": "[WinDuel] 下回合使自身獲得1層迅捷 與1層強壯 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层飘忽不定的情绪 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層飄忽不定的情緒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
                 }
               ]
             }
@@ -2927,26 +2927,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "炽热悲鸣",
-          "desc": "[WinDuel] 下回合使自身获得1层迅捷 与1层强壮 ",
+          "name": "熾熱悲鳴",
+          "desc": "[WinDuel] 下回合使自身獲得1層迅捷 與1層強壯 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层飘忽不定的情绪 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層飄忽不定的情緒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层飘忽不定的情绪 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層飄忽不定的情緒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -2959,7 +2959,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪光 闪光",
+          "name": "閃光 閃光",
           "desc": "",
           "coinlist": [
             {
@@ -2978,7 +2978,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "扫描",
+          "name": "掃描",
           "desc": "",
           "coinlist": [
             {
@@ -2997,7 +2997,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "开始近距摄影",
+          "name": "開始近距攝影",
           "desc": "",
           "coinlist": [
             {
@@ -3017,12 +3017,12 @@
         {
           "level": 1,
           "name": "撕咬",
-          "desc": "[WhenUse] 使自身获得2层自体发电 \n[DefeatDuel] 消耗1层自体发电 ",
+          "desc": "[WhenUse] 使自身獲得2層自體發電 \n[DefeatDuel] 消耗1層自體發電 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
                 }
               ]
             }
@@ -3035,20 +3035,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "尾针突刺",
-          "desc": "[WhenUse] 使自身获得2层自体发电 \n[DefeatDuel] 消耗1层自体发电 ",
+          "name": "尾針突刺",
+          "desc": "[WhenUse] 使自身獲得2層自體發電 \n[DefeatDuel] 消耗1層自體發電 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 }
               ]
             }
@@ -3061,16 +3061,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "紧紧蜷缩",
-          "desc": "[WhenUse] 使自身获得2层自体发电 \n[DefeatDuel] 消耗1层自体发电 ",
+          "name": "緊緊蜷縮",
+          "desc": "[WhenUse] 使自身獲得2層自體發電 \n[DefeatDuel] 消耗1層自體發電 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層束縛 "
                 }
               ]
             }
@@ -3083,14 +3083,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "电流注入",
-          "desc": "[WhenUse] 使自身获得1层自体发电 \n若目标带有麻痹 ，则使本技能造成的伤害+10%",
+          "name": "電流注入",
+          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痹 ，則使本技能造成的傷害+10%",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -3103,15 +3103,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "电气放电",
-          "desc": "[WhenUse] 使自身获得1层自体发电 \n若目标带有麻痹 ，则使本技能造成的伤害+10%",
+          "name": "電氣放電",
+          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痹 ，則使本技能造成的傷害+10%",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -3124,20 +3124,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "放电",
-          "desc": "[WhenUse] 使自身获得1层自体发电 \n若目标带有麻痹 ，则使本技能造成的伤害+20%",
+          "name": "放電",
+          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痹 ，則使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 }
               ]
             }
@@ -3150,23 +3150,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "超高压放电",
-          "desc": "若自身的自体发电 层数高于10层，则每超过1层使本技能造成的伤害+10%\n消耗所有自体发电 ",
+          "name": "超高壓放電",
+          "desc": "若自身的自體發電 層數高於10層，則每超過1層使本技能造成的傷害+10%\n消耗所有自體發電 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标处于蓄能 状态，则对其追加最终伤害量40%的固定伤害"
+                  "desc": "[OnSucceedAttack] 若目標處於蓄能 狀態，則對其追加最終傷害量40%的固定傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 与1层蓄能 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 與1層蓄能 "
                 }
               ]
             }
@@ -3179,8 +3179,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "盘绕",
-          "desc": "行动槽中存在该技能时，获得与头部现存体力相等的护盾",
+          "name": "盤繞",
+          "desc": "行動槽中存在該技能時，獲得與頭部現存體力相等的護盾",
           "coinlist": [
             {}
           ]
@@ -3192,14 +3192,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蠕动的头",
-          "desc": "优先指定体力最低的敌方单位\n[WhenUse] 消耗2层自体发电 \n[DefeatDuel] 消耗2层自体发电 ",
+          "name": "蠕動的頭",
+          "desc": "優先指定體力最低的敵方單位\n[WhenUse] 消耗2層自體發電 \n[DefeatDuel] 消耗2層自體發電 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -3212,15 +3212,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蠕动的尾",
-          "desc": "优先指定体力最低的敌方单位\n[WhenUse] 消耗2层自体发电 \n[DefeatDuel] 消耗3层自体发电 ",
+          "name": "蠕動的尾",
+          "desc": "優先指定體力最低的敵方單位\n[WhenUse] 消耗2層自體發電 \n[DefeatDuel] 消耗3層自體發電 ",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -3233,13 +3233,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "沉闷的呻吟",
+          "name": "沉悶的呻吟",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -3252,20 +3252,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "席卷而来的沉沦",
+          "name": "席捲而來的沉淪",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -3278,20 +3278,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "哀伤的反击",
+          "name": "哀傷的反擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -3304,23 +3304,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "哀伤的洪流",
+          "name": "哀傷的洪流",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -3333,16 +3333,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "寻找某物的哭声",
-          "desc": "[WhenUse] 下回合召唤旧伞",
+          "name": "尋找某物的哭聲",
+          "desc": "[WhenUse] 下回合召喚舊傘",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 每把旧伞使本技能造成的伤害+15%"
+                  "desc": "[OnSucceedAttackHead] 每把舊傘使本技能造成的傷害+15%"
                 }
               ]
             }
@@ -3356,7 +3356,7 @@
         {
           "level": 1,
           "name": "等待",
-          "desc": "[StartBattle] 使全体敌方单位失去20点理智值",
+          "desc": "[StartBattle] 使全體敵方單位失去20點理智值",
           "coinlist": [
             {}
           ]
@@ -3368,13 +3368,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "缠绕符咒",
-          "desc": "[WhenUse] 对目标施加2层纠缠的咒符 ",
+          "name": "纏繞符咒",
+          "desc": "[WhenUse] 對目標施加2層糾纏的咒符 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级破裂 强度并对其施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 下回合使目標增加2級破裂 強度並對其施加2層破裂 "
                 }
               ]
             }
@@ -3387,27 +3387,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "积累诅咒",
-          "desc": "[WhenUse] 对目标施加1层纠缠的咒符 ",
+          "name": "積累詛咒",
+          "desc": "[WhenUse] 對目標施加1層糾纏的咒符 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的纠缠的咒符 层数，施加相应层数的纠缠的咒符 "
+                  "desc": "[OnSucceedAttack] 根據目標帶有的糾纏的咒符 層數，施加相應層數的糾纏的咒符 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加5級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加2级破裂 强度并对其施加2层破裂 "
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加2級破裂 強度並對其施加2層破裂 "
                 }
               ]
             }
@@ -3420,8 +3420,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "因而无人哭泣",
-          "desc": "[EndBattle] 消耗所有复贴的咒符 ",
+          "name": "因而無人哭泣",
+          "desc": "[EndBattle] 消耗所有復貼的咒符 ",
           "coinlist": [
             {},
             {},
@@ -3430,10 +3430,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加5层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加5层束缚 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加5層束縛 "
                 }
               ]
             }
@@ -3446,8 +3446,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "转移符咒",
-          "desc": "[WhenUse] 消耗目标所有纠缠的咒符 。根据消耗的层数，获得相应层数的复贴的咒符 ",
+          "name": "轉移符咒",
+          "desc": "[WhenUse] 消耗目標所有糾纏的咒符 。根據消耗的層數，獲得相應層數的復貼的咒符 ",
           "coinlist": [
             {}
           ]
@@ -3459,8 +3459,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "复制诅咒",
-          "desc": "[WhenUse] 根据目标带有纠缠的咒符 的层数，施加相应层数的纠缠的咒符 ",
+          "name": "複製詛咒",
+          "desc": "[WhenUse] 根據目標帶有糾纏的咒符 的層數，施加相應層數的糾纏的咒符 ",
           "coinlist": [
             {}
           ]
@@ -3472,13 +3472,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "想喝醉吗？",
-          "desc": "进行拼点时，使目标获得1层昂扬 ",
+          "name": "想喝醉嗎？",
+          "desc": "進行拼點時，使目標獲得1層昂揚 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加2层震颤 "
+                  "desc": "[OnSucceedAttack] 使目標增加5級震顫 強度並對其施加2層震顫 "
                 }
               ]
             }
@@ -3492,12 +3492,12 @@
         {
           "level": 1,
           "name": "分着喝吧！",
-          "desc": "进行拼点时，使目标获得1层昂扬 \n[WhenUse] 使自身恢复体力上限5%的体力",
+          "desc": "進行拼點時，使目標獲得1層昂揚 \n[WhenUse] 使自身恢復體力上限5%的體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 }
               ]
             }
@@ -3510,14 +3510,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "只剩这些了！",
-          "desc": "进行拼点时，使目标获得2层昂扬 \n优先指定带有震颤 的单位",
+          "name": "只剩這些了！",
+          "desc": "進行拼點時，使目標獲得2層昂揚 \n優先指定帶有震顫 的單位",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的震颤 层数，相应使其震颤引爆 "
+                  "desc": "[OnSucceedAttack] 根據目標帶有的震顫 層數，相應使其震顫引爆 "
                 }
               ]
             }
@@ -3530,19 +3530,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "这个我吃了！",
-          "desc": "[CantDuel]\n无法改变拼点目标\n优先指定带有昂扬 的目标\n若目标未带有醉意 ，则使本技能的拼点威力+5",
+          "name": "這個我喫了！",
+          "desc": "[CantDuel]\n無法改變拼點目標\n優先指定帶有昂揚 的目標\n若目標未帶有醉意 ，則使本技能的拼點威力+5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有昂扬 ，则每层昂扬 使本硬币造成的伤害+10%"
+                  "desc": "[OnSucceedAttack] 若目標帶有昂揚 ，則每層昂揚 使本硬幣造成的傷害+10%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有醉意 则造成0点伤害，并使自身失去50点体力"
+                  "desc": "[OnSucceedAttack] 若目標帶有醉意 則造成0點傷害，並使自身失去50點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗目标所有昂扬 或醉意 "
+                  "desc": "[OnSucceedAttack] 消耗目標所有昂揚 或醉意 "
                 }
               ]
             }
@@ -3555,19 +3555,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "这个我吃了！",
-          "desc": "优先指定带有昂扬 的目标\n若目标未带有醉意 ，则使本技能的拼点威力+5",
+          "name": "這個我喫了！",
+          "desc": "優先指定帶有昂揚 的目標\n若目標未帶有醉意 ，則使本技能的拼點威力+5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有昂扬 ，则每层昂扬 使本硬币造成的伤害+100%"
+                  "desc": "[OnSucceedAttack] 若目標帶有昂揚 ，則每層昂揚 使本硬幣造成的傷害+100%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有醉意 则造成0点伤害，并使自身失去50点体力"
+                  "desc": "[OnSucceedAttack] 若目標帶有醉意 則造成0點傷害，並使自身失去50點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗目标所有昂扬 或醉意 "
+                  "desc": "[OnSucceedAttack] 消耗目標所有昂揚 或醉意 "
                 }
               ]
             }
@@ -3580,13 +3580,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "这次不行！",
-          "desc": "优先指定精灵酒",
+          "name": "這次不行！",
+          "desc": "優先指定精靈酒",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻击精灵酒时，下回合使自身恢复体力上限10%的体力并使自身获得2层强壮 ，2层迅捷 与2层守护 "
+                  "desc": "[OnSucceedAttack] 攻擊精靈酒時，下回合使自身恢復體力上限10%的體力並使自身獲得2層強壯 ，2層迅捷 與2層守護 "
                 }
               ]
             }
@@ -3599,8 +3599,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "想要这杯精灵酒吗？",
-          "desc": "[WhenUse] 下回合使自身获得1层束缚 ",
+          "name": "想要這杯精靈酒嗎？",
+          "desc": "[WhenUse] 下回合使自身獲得1層束縛 ",
           "coinlist": [
             {}
           ]
@@ -3612,8 +3612,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "精灵酒",
-          "desc": "[WhenUse] 将目标的昂扬 转化为相应层数的醉意 ",
+          "name": "精靈酒",
+          "desc": "[WhenUse] 將目標的昂揚 轉化爲相應層數的醉意 ",
           "coinlist": [
             {}
           ]
@@ -3625,8 +3625,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "散落的悲伤",
-          "desc": "[EndSkill] 对全体敌方单位施加2层破裂 与2层沉沦 ",
+          "name": "散落的悲傷",
+          "desc": "[EndSkill] 對全體敵方單位施加2層破裂 與2層沉淪 ",
           "coinlist": [
             {}
           ]
@@ -3638,27 +3638,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蛰痛心灵的回忆",
-          "desc": "[WinDuel] 使自身恢复8点理智值\n[DefeatDuel] 使自身失去5点理智值",
+          "name": "蟄痛心靈的回憶",
+          "desc": "[WinDuel] 使自身恢復8點理智值\n[DefeatDuel] 使自身失去5點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度与2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度與2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度与2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度與2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度与2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度與2級破裂 強度"
                 }
               ]
             }
@@ -3671,20 +3671,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "荆棘蔓生的追忆",
-          "desc": "[WinDuel] 使自身恢复8点理智值\n[DefeatDuel] 使自身失去5点理智值",
+          "name": "荊棘蔓生的追憶",
+          "desc": "[WinDuel] 使自身恢復8點理智值\n[DefeatDuel] 使自身失去5點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             }
@@ -3697,13 +3697,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "自我防御",
-          "desc": "[DefeatDuel] 使自身失去8点理智值并增加3级沉沦 强度",
+          "name": "自我防禦",
+          "desc": "[DefeatDuel] 使自身失去8點理智值並增加3級沉淪 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 与2层虚弱 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 與2層虛弱 "
                 }
               ]
             }
@@ -3722,17 +3722,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的50%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的50%"
                 }
               ]
             }
@@ -3745,16 +3745,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "全部沉沦吧",
-          "desc": "[WhenUse] 使自身失去30点理智值并增加5级沉沦 强度。下回合使自身获得渐被侵蚀的心灵 ",
+          "name": "全部沉淪吧",
+          "desc": "[WhenUse] 使自身失去30點理智值並增加5級沉淪 強度。下回合使自身獲得漸被侵蝕的心靈 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去15点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去15點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级沉沦 强度并对其施加8层剧毒 "
+                  "desc": "[OnSucceedAttack] 使目標增加8級沉淪 強度並對其施加8層劇毒 "
                 }
               ]
             }
@@ -3767,8 +3767,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别过来",
-          "desc": "[OnDefeatEvade] 使自身失去8点理智值",
+          "name": "別過來",
+          "desc": "[OnDefeatEvade] 使自身失去8點理智值",
           "coinlist": [
             {}
           ]
@@ -3780,8 +3780,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别碰我…！",
-          "desc": "[StartBattle] 使自身获得荆棘 ",
+          "name": "別碰我…！",
+          "desc": "[StartBattle] 使自身獲得荊棘 ",
           "coinlist": [
             {}
           ]
@@ -3793,26 +3793,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "飞香漫散",
+          "name": "飛香漫散",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             }
@@ -3825,20 +3825,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "香氛扑鼻",
+          "name": "香氛撲鼻",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層開花 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層開花 "
                 }
               ]
             }
@@ -3851,16 +3851,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "花蕾绽放",
-          "desc": "下回合生成2朵花\n已生成4朵花后，改为随机使阶段最低的1朵花上升1个阶段",
+          "name": "花蕾綻放",
+          "desc": "下回合生成2朵花\n已生成4朵花後，改爲隨機使階段最低的1朵花上升1個階段",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層開花 "
                 }
               ]
             }
@@ -3874,19 +3874,19 @@
         {
           "level": 1,
           "name": "如盛放的花一般…",
-          "desc": "[WhenUse] 对目标施加3层开花 ",
+          "desc": "[WhenUse] 對目標施加3層開花 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             },
@@ -3900,16 +3900,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "春风烂漫",
-          "desc": "每存活1朵即将绽放的花，使本技能的最终威力 +5\n\n[EndSkill] 移除全部即将绽放的花",
+          "name": "春風爛漫",
+          "desc": "每存活1朵即將綻放的花，使本技能的最終威力 +5\n\n[EndSkill] 移除全部即將綻放的花",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去15点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去15點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層開花 "
                 }
               ]
             }
@@ -3922,8 +3922,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "必掩埋于沃土",
-          "desc": "[WhenUse] 下回合对目标施加对决 ",
+          "name": "必掩埋於沃土",
+          "desc": "[WhenUse] 下回合對目標施加對決 ",
           "coinlist": [
             {}
           ]
@@ -3935,8 +3935,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "百花齐放",
-          "desc": "[StartBattle] 使自身获得10层守护 \n[DefeatDuel] 使自身获得1层落英缤纷 ",
+          "name": "百花齊放",
+          "desc": "[StartBattle] 使自身獲得10層守護 \n[DefeatDuel] 使自身獲得1層落英繽紛 ",
           "coinlist": [
             {}
           ]
@@ -3948,8 +3948,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "水流花谢",
-          "desc": "[StartBattle] 使自身获得10层守护 \n[DefeatDuel] 使自身获得3层落英缤纷 ",
+          "name": "水流花謝",
+          "desc": "[StartBattle] 使自身獲得10層守護 \n[DefeatDuel] 使自身獲得3層落英繽紛 ",
           "coinlist": [
             {}
           ]
@@ -3962,29 +3962,29 @@
         {
           "level": 1,
           "name": "馥郁芬芳",
-          "desc": "若目标处于盛放 状态，则使本技能造成的伤害+100%",
+          "desc": "若目標處於盛放 狀態，則使本技能造成的傷害+100%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标处于盛放 状态，则使目标陷入混乱并解除其盛放 状态"
+                  "desc": "[OnSucceedAttack] 若目標處於盛放 狀態，則使目標陷入混亂並解除其盛放 狀態"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -3997,8 +3997,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刺鼻残香",
-          "desc": "[OnSucceedEvade] 对目标施加1层开花 ",
+          "name": "刺鼻殘香",
+          "desc": "[OnSucceedEvade] 對目標施加1層開花 ",
           "coinlist": [
             {}
           ]
@@ -4010,8 +4010,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "静候花时",
-          "desc": "[StartBattle] 使自身获得5层守护 ",
+          "name": "靜候花時",
+          "desc": "[StartBattle] 使自身獲得5層守護 ",
           "coinlist": [
             {}
           ]
@@ -4023,13 +4023,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "花风",
+          "name": "花風",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             }
@@ -4042,20 +4042,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "芬芳花风",
+          "name": "芬芳花風",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             }
@@ -4068,27 +4068,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刺鼻花风",
+          "name": "刺鼻花風",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花"
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层开花"
+                  "desc": "[OnSucceedAttack] 對目標施加1層開花"
                 }
               ]
             }
@@ -4102,7 +4102,7 @@
         {
           "level": 1,
           "name": "含香",
-          "desc": "[WhenUse] 使自身恢复10点体力",
+          "desc": "[WhenUse] 使自身恢復10點體力",
           "coinlist": [
             {}
           ]
@@ -4115,7 +4115,7 @@
         {
           "level": 1,
           "name": "怒放之花",
-          "desc": "[DefeatDuel] 该单位立即阵亡",
+          "desc": "[DefeatDuel] 該單位立即陣亡",
           "coinlist": [
             {}
           ]
@@ -4128,7 +4128,7 @@
         {
           "level": 1,
           "name": "盛放",
-          "desc": "无法行动\n回合结束时使自身失去20点理智值。\n理智值为-45时，恢复至理智值上限，并在下回合进入恍惚的意识 状态\n若本效果在2回合内没有移除，则在回合结束时移除本效果",
+          "desc": "無法行動\n回合結束時使自身失去20點理智值。\n理智值爲-45時，恢復至理智值上限，並在下回合進入恍惚的意識 狀態\n若本效果在2回合內沒有移除，則在回合結束時移除本效果",
           "coinlist": [
             {}
           ]
@@ -4140,13 +4140,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "你也形同空壳",
-          "desc": "[WhenUse] 下回合对目标施加1层空虚的标记 ",
+          "name": "你也形同空殼",
+          "desc": "[WhenUse] 下回合對目標施加1層空虛的標記 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级破裂 强度 "
+                  "desc": "[OnSucceedAttack] 使目標增加10級破裂 強度 "
                 }
               ]
             }
@@ -4165,14 +4165,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 }
               ]
             }
@@ -4191,14 +4191,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据伤害量相应恢复体力"
+                  "desc": "[OnSucceedAttack] 根據傷害量相應恢復體力"
                 }
               ]
             }
@@ -4212,19 +4212,19 @@
         {
           "level": 1,
           "name": "疏苗",
-          "desc": "若目标带有空虚的标记 ，则使本技能造成的伤害+50%\n[DefeatDuel] 下回合对自身施加1层易损 ",
+          "desc": "若目標帶有空虛的標記 ，則使本技能造成的傷害+50%\n[DefeatDuel] 下回合對自身施加1層易損 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据伤害量相应恢复体力\n若目标带有空虚的标记 ，则下回合使自身获得1层强壮 "
+                  "desc": "[OnSucceedAttack] 根據傷害量相應恢復體力\n若目標帶有空虛的標記 ，則下回合使自身獲得1層強壯 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据伤害量相应恢复体力\n若目标带有空虚的标记 ，则下回合使自身获得1层强壮 "
+                  "desc": "[OnSucceedAttack] 根據傷害量相應恢復體力\n若目標帶有空虛的標記 ，則下回合使自身獲得1層強壯 "
                 }
               ]
             }
@@ -4237,13 +4237,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "破坏",
+          "name": "破壞",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加10級流血 強度"
                 }
               ]
             }
@@ -4256,27 +4256,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "还不够…",
-          "desc": "随机指定友方单位",
+          "name": "還不夠…",
+          "desc": "隨機指定友方單位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并使自身恢复本硬币伤害量25%的体力"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並使自身恢復本硬幣傷害量25%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并使自身恢复本硬币伤害量25%的体力"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並使自身恢復本硬幣傷害量25%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 随机吸收目标身上的1个正面状态，并使自身在下回合获得"
+                  "desc": "[OnSucceedAttack] 隨機吸收目標身上的1個正面狀態，並使自身在下回合獲得"
                 }
               ]
             }
@@ -4289,20 +4289,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "必须填满…",
-          "desc": "随机指定目标",
+          "name": "必須填滿…",
+          "desc": "隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 随机吸收目标身上的1个正面状态，并使自身在下回合获得"
+                  "desc": "[OnSucceedAttack] 隨機吸收目標身上的1個正面狀態，並使自身在下回合獲得"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層流血 "
                 }
               ]
             }
@@ -4315,8 +4315,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我已化作空壳",
-          "desc": "[DefeatDuel] 使自身增加10级破裂 强度",
+          "name": "我已化作空殼",
+          "desc": "[DefeatDuel] 使自身增加10級破裂 強度",
           "coinlist": [
             {}
           ]
@@ -4328,13 +4328,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "为时已晚",
+          "name": "爲時已晚",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層易損 "
                 }
               ]
             }
@@ -4347,13 +4347,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "已经焚烧殆尽",
+          "name": "已經焚燒殆盡",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层易损 并使目标增加5级破裂 强度与5级流血 强度。使自身恢复本硬币伤害量10%的体力"
+                  "desc": "[OnSucceedAttack] 對目標施加2層易損 並使目標增加5級破裂 強度與5級流血 強度。使自身恢復本硬幣傷害量10%的體力"
                 }
               ]
             }
@@ -4366,7 +4366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "毫无意义",
+          "name": "毫無意義",
           "desc": "",
           "coinlist": [
             {}
@@ -4385,14 +4385,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层束缚 与1层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 與1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层束缚 与1层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 與1層麻痹 "
                 }
               ]
             }
@@ -4405,27 +4405,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "播种",
+          "name": "播種",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层种子 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層種子 "
                 }
               ]
             }
@@ -4438,27 +4438,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "助长",
+          "name": "助長",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层种子 。若目标带有种子 ，则对其额外施加1层种子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。若目標帶有種子 ，則對其額外施加1層種子 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层种子 。若目标带有种子 ，则对其额外施加1层种子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。若目標帶有種子 ，則對其額外施加1層種子 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层种子 。若目标带有种子 ，则对其额外施加1层种子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 。若目標帶有種子 ，則對其額外施加1層種子 "
                 }
               ]
             }
@@ -4471,13 +4471,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "过量成长",
+          "name": "過量成長",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层种子 和1层过量恢复 并使目标恢复15点体力"
+                  "desc": "[OnSucceedAttack] 對目標施加3層種子 和1層過量恢復 並使目標恢復15點體力"
                 }
               ]
             }
@@ -4490,13 +4490,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "丰收时间",
+          "name": "豐收時間",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层易损 并使目标增加10级流血 强度\n若目标处于吸收养分 状态，使自身恢复20点体力并在下回合获得2层强壮 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層易損 並使目標增加10級流血 強度\n若目標處於吸收養分 狀態，使自身恢復20點體力並在下回合獲得2層強壯 "
                 }
               ]
             }
@@ -4509,13 +4509,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "请成为我的养分",
-          "desc": "[WhenUse] 使所有欲望之树恢复15点体力。若没有欲望之树则生成一株",
+          "name": "請成爲我的養分",
+          "desc": "[WhenUse] 使所有慾望之樹恢復15點體力。若沒有慾望之樹則生成一株",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复10点体力并对目标施加3层种子 "
+                  "desc": "[OnSucceedAttack] 使自身恢復10點體力並對目標施加3層種子 "
                 }
               ]
             }
@@ -4534,14 +4534,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层种子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层种子 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層種子 "
                 }
               ]
             }
@@ -4573,10 +4573,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层震颤 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層震顫 "
                 }
               ]
             }
@@ -4595,10 +4595,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层震颤 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層震顫 "
                 }
               ]
             }
@@ -4611,23 +4611,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "颤动的诱饵",
+          "name": "顫動的誘餌",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层震颤 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级震颤 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
                 }
               ]
             }
@@ -4640,13 +4640,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蚕食的茎",
-          "desc": "[WinDuel] 若目标带有破裂 ，则对其施加2层破裂 ",
+          "name": "蠶食的莖",
+          "desc": "[WinDuel] 若目標帶有破裂 ，則對其施加2層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -4659,16 +4659,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "显露的深渊",
+          "name": "顯露的深淵",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的破裂 强度，相应使其增加震颤 强度"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的破裂 強度，相應使其增加震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -4681,8 +4681,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "坚硬树枝",
-          "desc": "[StartBattle] 使自身获得3层守护 ",
+          "name": "堅硬樹枝",
+          "desc": "[StartBattle] 使自身獲得3層守護 ",
           "coinlist": [
             {}
           ]
@@ -4694,19 +4694,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "舔舐伤口",
+          "name": "舔舐傷口",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其施加1層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 层数高于2层，则使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 若目標的流血 層數高於2層，則使目標增加5級流血 強度"
                 }
               ]
             }
@@ -4719,16 +4719,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "束缚伤痕",
+          "name": "束縛傷痕",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -4741,23 +4741,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "陷于血肉",
+          "name": "陷於血肉",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则使自身恢复20点体力"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復20點體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 层数高于2层，则使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 若目標的流血 層數高於2層，則使目標增加5級流血 強度"
                 }
               ]
             }
@@ -4770,13 +4770,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "绿荫笼罩",
-          "desc": "[WhenUse] 下回合生成巨大的四叶草\n[WhenUse] 目标每带有1层流血 使本技能造成的伤害+5%\n[DefeatDuel] 生成体力为原体力上限70%的巨大的四叶草",
+          "name": "綠蔭籠罩",
+          "desc": "[WhenUse] 下回合生成巨大的四葉草\n[WhenUse] 目標每帶有1層流血 使本技能造成的傷害+5%\n[DefeatDuel] 生成體力爲原體力上限70%的巨大的四葉草",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗所有流血 层数"
+                  "desc": "[OnSucceedAttack] 消耗所有流血 層數"
                 }
               ]
             }
@@ -4795,7 +4795,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有1级流血 强度，则使自身恢复体力上限1%的体力\n消耗所有流血 层数"
+                  "desc": "[OnSucceedAttack] 目標每帶有1級流血 強度，則使自身恢復體力上限1%的體力\n消耗所有流血 層數"
                 }
               ]
             }
@@ -4821,26 +4821,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "填满胃肠",
+          "name": "填滿胃腸",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复1点体力"
+                  "desc": "[OnSucceedAttackHead] 使自身恢復1點體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复1点体力"
+                  "desc": "[OnSucceedAttackHead] 使自身恢復1點體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复1点体力"
+                  "desc": "[OnSucceedAttackHead] 使自身恢復1點體力"
                 }
               ]
             }
@@ -4853,7 +4853,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "翻滚冲撞",
+          "name": "翻滾衝撞",
           "coinlist": [
             {}
           ]
@@ -4870,7 +4870,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层束缚 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層束縛 "
                 }
               ]
             }
@@ -4883,7 +4883,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "烈焰烧灼",
+          "name": "烈焰燒灼",
           "coinlist": [
             {},
             {}
@@ -4896,12 +4896,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "爆发的暴怒",
+          "name": "爆發的暴怒",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加2級燒傷 強度"
                 }
               ]
             }
@@ -4914,7 +4914,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "悲哀溅射",
+          "name": "悲哀濺射",
           "coinlist": [
             {}
           ]
@@ -4926,12 +4926,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "忧郁决堤",
+          "name": "憂鬱決堤",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -4956,12 +4956,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "淫欲绞杀",
+          "name": "淫慾絞殺",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 下回合使目標增加2級流血 強度"
                 }
               ]
             }
@@ -4974,7 +4974,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "摧残蹂躏",
+          "name": "摧殘蹂躪",
           "coinlist": [
             {}
           ]
@@ -4986,19 +4986,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "骄慢碾碎",
+          "name": "驕慢碾碎",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
                 }
               ]
             }
@@ -5012,7 +5012,7 @@
         {
           "level": 1,
           "name": "女王之令",
-          "desc": "[StartBattle] 随机对1名未带有[PreparedMeat]的友方单位施加[PreparedMeat]",
+          "desc": "[StartBattle] 隨機對1名未帶有[PreparedMeat]的友方單位施加[PreparedMeat]",
           "coinlist": [
             {}
           ]
@@ -5029,14 +5029,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -5050,12 +5050,12 @@
         {
           "level": 1,
           "name": "捕食",
-          "desc": "若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使本体恢复体力上限3%的体力"
+                  "desc": "[OnSucceedAttack] 使本體恢復體力上限3%的體力"
                 }
               ]
             }
@@ -5068,27 +5068,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "饥饿之翼",
-          "desc": "若自身的[Hunger]层数不低于3层，则使本技能的硬币威力+1\n若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "name": "飢餓之翼",
+          "desc": "若自身的[Hunger]層數不低於3層，則使本技能的硬幣威力+1\n若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -5101,16 +5101,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "饥饿狂暴",
-          "desc": "[CantIdentify]\n优先指定带有[PreparedMeat]的目标\n若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n若目标带有[PreparedMeat]，则使本技能的硬币威力+10\n每有1条手臂部位被破坏，使本技能的硬币威力-5\n[TargetKill] 本场战斗中，使所有部位获得2层强壮 (可叠加)",
+          "name": "飢餓狂暴",
+          "desc": "[CantIdentify]\n優先指定帶有[PreparedMeat]的目標\n若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n若目標帶有[PreparedMeat]，則使本技能的硬幣威力+10\n每有1條手臂部位被破壞，使本技能的硬幣威力-5\n[TargetKill] 本場戰鬥中，使所有部位獲得2層強壯 (可疊加)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 重复使用本硬币1次(每个技能最多3次)"
+                  "desc": "[OnSucceedAttackHead] 重複使用本硬幣1次(每個技能最多3次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使本体恢复10点体力"
+                  "desc": "[OnSucceedAttack] 使本體恢復10點體力"
                 }
               ]
             }
@@ -5135,8 +5135,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "偿还照料",
-          "desc": "[StartBattle] 对未带有[PreparedMeat]的全体友方单位施加[PreparedMeat]",
+          "name": "償還照料",
+          "desc": "[StartBattle] 對未帶有[PreparedMeat]的全體友方單位施加[PreparedMeat]",
           "coinlist": [
             {}
           ]
@@ -5153,14 +5153,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使本体恢复3点体力"
+                  "desc": "[OnSucceedAttack] 使本體恢復3點體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使本体恢复3点体力"
+                  "desc": "[OnSucceedAttack] 使本體恢復3點體力"
                 }
               ]
             }
@@ -5173,16 +5173,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "贪食",
-          "desc": "若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "name": "貪食",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使本体恢复10点体力"
+                  "desc": "[OnSucceedAttack] 使本體恢復10點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -5196,26 +5196,26 @@
         {
           "level": 1,
           "name": "小小翅振",
-          "desc": "若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             }
@@ -5241,7 +5241,7 @@
         {
           "level": 1,
           "name": "追逐撕咬",
-          "desc": "优先指定速度值最低的单位",
+          "desc": "優先指定速度值最低的單位",
           "coinlist": [
             {}
           ]

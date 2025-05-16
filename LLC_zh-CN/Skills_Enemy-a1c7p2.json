@@ -6,19 +6,19 @@
         {
           "level": 1,
           "name": "硬血猛砸",
-          "desc": "[WhenUse] 若自身带有硬化血液 且本技能的硬币带有施加破裂 的效果，则额外对目标施加1层流血 ",
+          "desc": "[WhenUse] 若自身帶有硬化血液 且本技能的硬幣帶有施加破裂 的效果，則額外對目標施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             }
@@ -32,29 +32,29 @@
         {
           "level": 1,
           "name": "失去目的的暴怒",
-          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层且本技能的硬币带有施加破裂 的效果，则额外使目标增加2级流血 强度",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 若自身的硬化血液 層數不低於3層且本技能的硬幣帶有施加破裂 的效果，則額外使目標增加2級流血 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则使自身获得1层硬化血液 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身獲得1層硬化血液 "
                 }
               ]
             }
@@ -67,40 +67,40 @@
       "levelList": [
         {
           "level": 1,
-          "name": "无节制下劈",
-          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "name": "無節制下劈",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+20%"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+20%"
                 }
               ]
             }
@@ -113,8 +113,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
-          "desc": "[WhenUse] 若目标带有流血 ，则使自身获得1层硬化血液 ",
+          "name": "防禦",
+          "desc": "[WhenUse] 若目標帶有流血 ，則使自身獲得1層硬化血液 ",
           "coinlist": [
             {
               "coindescs": [
@@ -133,19 +133,19 @@
         {
           "level": 1,
           "name": "硬血猛砸",
-          "desc": "[WhenUse] 若自身带有硬化血液 且本技能的硬币带有施加破裂 的效果，则额外对目标施加1层流血 ",
+          "desc": "[WhenUse] 若自身帶有硬化血液 且本技能的硬幣帶有施加破裂 的效果，則額外對目標施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             }
@@ -159,29 +159,29 @@
         {
           "level": 1,
           "name": "失去目的的暴怒",
-          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层且本技能的硬币带有施加破裂 的效果，则额外对目标施加1层流血 ",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 若自身的硬化血液 層數不低於3層且本技能的硬幣帶有施加破裂 的效果，則額外對目標施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则使自身获得1层硬化血液 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身獲得1層硬化血液 "
                 }
               ]
             }
@@ -194,40 +194,40 @@
       "levelList": [
         {
           "level": 1,
-          "name": "无节制下劈",
-          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "name": "無節制下劈",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+20%"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於10級，則使本硬幣造成的傷害+20%"
                 }
               ]
             }
@@ -240,8 +240,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防御",
-          "desc": "[WhenUse] 若目标带有流血 ，则使自身获得1层硬化血液 ",
+          "name": "防禦",
+          "desc": "[WhenUse] 若目標帶有流血 ，則使自身獲得1層硬化血液 ",
           "coinlist": [
             {
               "coindescs": [
@@ -260,15 +260,15 @@
         {
           "level": 1,
           "name": "硬血鞭笞",
-          "desc": "[DefeatDuel] 使自身增加10级流血 强度并对自身施加1层流血 ",
+          "desc": "[DefeatDuel] 使自身增加10級流血 強度並對自身施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加10级流血 强度并使自身获得1层染血之手 "
+                  "desc": "[OnSucceedAttack] 使自身增加10級流血 強度並使自身獲得1層染血之手 "
                 }
               ]
             }
@@ -281,33 +281,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血挥击",
-          "desc": "[WhenUse] 若目标的流血 强度不低于8级，则使本技能造成的伤害+20%",
+          "name": "硬血揮擊",
+          "desc": "[WhenUse] 若目標的流血 強度不低於8級，則使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於6級，則使自身獲得1層硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加20级流血 强度并使自身获得2层染血之手 "
+                  "desc": "[OnSucceedAttack] 使自身增加20級流血 強度並使自身獲得2層染血之手 "
                 }
               ]
             }
@@ -320,23 +320,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血强化打击",
-          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加流血 时，根据自身带有的硬化血液 层数，额外使目标增加破裂 强度\n[EndSkill] 消耗所有硬化血液 与染血之手 ",
+          "name": "硬血強化打擊",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的基礎威力+1\n[WhenUse] 通過本技能效果施加流血 時，根據自身帶有的硬化血液 層數，額外使目標增加破裂 強度\n[EndSkill] 消耗所有硬化血液 與染血之手 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(目标的流血 强度)%的体力(最多20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多20%)"
                 }
               ]
             }
@@ -349,13 +349,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击",
-          "desc": "[WhenUse] 自身每带有1层硬化血液 ，使本技能的基础威力+1",
+          "name": "反擊",
+          "desc": "[WhenUse] 自身每帶有1層硬化血液 ，使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -369,15 +369,15 @@
         {
           "level": 1,
           "name": "硬血鞭笞",
-          "desc": "[DefeatDuel] 使自身增加10级流血 强度并对自身施加1层流血 ",
+          "desc": "[DefeatDuel] 使自身增加10級流血 強度並對自身施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加10级流血 强度并使自身获得1层染血之手 "
+                  "desc": "[OnSucceedAttack] 使自身增加10級流血 強度並使自身獲得1層染血之手 "
                 }
               ]
             }
@@ -390,33 +390,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血挥击",
-          "desc": "[WhenUse] 若目标的流血 强度不低于4级，则使本技能造成的伤害+10%",
+          "name": "硬血揮擊",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能造成的傷害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於6級，則使自身獲得1層硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加20级流血 强度并使自身获得2层染血之手 "
+                  "desc": "[OnSucceedAttack] 使自身增加20級流血 強度並使自身獲得2層染血之手 "
                 }
               ]
             }
@@ -429,23 +429,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血强化打击",
-          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加流血 时，根据自身带有的硬化血液 层数，额外使目标增加破裂 强度\n[EndSkill] 消耗所有硬化血液 与染血之手 ",
+          "name": "硬血強化打擊",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的基礎威力+1\n[WhenUse] 通過本技能效果施加流血 時，根據自身帶有的硬化血液 層數，額外使目標增加破裂 強度\n[EndSkill] 消耗所有硬化血液 與染血之手 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(目标的流血 强度)%的体力(最多20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多20%)"
                 }
               ]
             }
@@ -458,13 +458,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击",
-          "desc": "[WhenUse] 自身每带有1层硬化血液 ，使本技能的基础威力+1",
+          "name": "反擊",
+          "desc": "[WhenUse] 自身每帶有1層硬化血液 ，使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -477,20 +477,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "请回答问题。",
-          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
+          "name": "請回答問題。",
+          "desc": "[WhenUse] 使自身增加5級流血 強度並對自身施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -503,16 +503,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别打断我！",
-          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
+          "name": "別打斷我！",
+          "desc": "[WhenUse] 使自身增加5級流血 強度並對自身施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于5级，则使自身获得1层[BloodyHand]"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則使自身獲得1層[BloodyHand]"
                 }
               ]
             }
@@ -526,19 +526,19 @@
         {
           "level": 1,
           "name": "褪色的忍耐",
-          "desc": "[WhenUse] 消耗至多50层血宴 ，每消耗10层血宴 ，使自身获得1层[BloodyHand]\n[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "desc": "[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodyHand]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 若本技能未消耗血宴 ，则使自身增加10级流血 强度并使自身获得1层[BloodyHand]。"
+                  "desc": "[EndSkill] 若本技能未消耗血宴 ，則使自身增加10級流血 強度並使自身獲得1層[BloodyHand]。"
                 }
               ]
             }
@@ -551,33 +551,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "无尽的告解",
-          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 自身每带有1层[HardenedBlood]，使本技能的拼点威力+1\n[DefeatDuel] 使自身失去2层[BloodyHand]",
+          "name": "無盡的告解",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的拼點威力+1\n[DefeatDuel] 使自身失去2層[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]并对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]並對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]并获得(消耗的[HardenedBlood]层数×3)层血宴 ，使自身增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]並獲得(消耗的[HardenedBlood]層數×3)層血宴 ，使自身增加5級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复(目标的流血 强度)%体力(最多30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復(目標的流血 強度)%體力(最多30%)"
                 }
               ]
             }
@@ -590,13 +590,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击",
-          "desc": "[WhenUse] 若自身的染血之手 层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层，则使本技能的硬币威力+1",
+          "name": "反擊",
+          "desc": "[WhenUse] 若自身的染血之手 層數不低於1層，則使本技能的基礎威力+1\n[WhenUse] 若自身的硬化血液 層數不低於3層，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -609,20 +609,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "请回答问题。",
-          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
+          "name": "請回答問題。",
+          "desc": "[WhenUse] 使自身增加5級流血 強度並對自身施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -635,16 +635,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别打断我！",
-          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
+          "name": "別打斷我！",
+          "desc": "[WhenUse] 使自身增加5級流血 強度並對自身施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于5级，则使自身获得1层[BloodyHand]"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於5級，則使自身獲得1層[BloodyHand]"
                 }
               ]
             }
@@ -658,19 +658,19 @@
         {
           "level": 1,
           "name": "褪色的忍耐",
-          "desc": "[WhenUse] 消耗至多50层血宴 ，每消耗10层血宴 ，使自身获得1层[BloodyHand]\n[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "desc": "[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodyHand]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 若本技能未消耗血宴 ，则使自身增加10级流血 强度并使自身获得1层[BloodyHand]。"
+                  "desc": "[EndSkill] 若本技能未消耗血宴 ，則使自身增加10級流血 強度並使自身獲得1層[BloodyHand]。"
                 }
               ]
             }
@@ -683,33 +683,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "无尽的告解",
-          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 自身每带有1层[HardenedBlood]，使本技能的拼点威力+1\n[DefeatDuel] 使自身失去2层[BloodyHand]",
+          "name": "無盡的告解",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的拼點威力+1\n[DefeatDuel] 使自身失去2層[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]并对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]並對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]并获得(消耗的[HardenedBlood]层数×3)层血宴 ，使自身增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]並獲得(消耗的[HardenedBlood]層數×3)層血宴 ，使自身增加5級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复(目标的流血 强度)%体力(最多30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復(目標的流血 強度)%體力(最多30%)"
                 }
               ]
             }
@@ -722,13 +722,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "反击",
-          "desc": "[WhenUse] 若自身的染血之手 层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层，则使本技能的硬币威力+1",
+          "name": "反擊",
+          "desc": "[WhenUse] 若自身的染血之手 層數不低於1層，則使本技能的基礎威力+1\n[WhenUse] 若自身的硬化血液 層數不低於3層，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -741,16 +741,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血纵斩",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1",
+          "name": "硬血縱斬",
+          "desc": "[WhenUse] 若自身的慶典的熱潮 層數不低於5層，則使本技能的最終威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -764,22 +764,22 @@
         {
           "level": 1,
           "name": "硬血削切",
-          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层",
+          "desc": "[WhenUse] 自身每帶有5層慶典的熱潮 或目標每帶有6級流血 強度，使本技能的最終威力+1(最多+2)\n[WhenUse] 使自身增加15級流血 強度並立即觸發自身的流血 1次，隨後使自身的流血 層數減少1層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於6級，則使自身獲得1層硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得1層[BloomingThorns]"
                 }
               ]
             }
@@ -792,27 +792,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血强化展开",
-          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
+          "name": "硬血強化展開",
+          "desc": "[WhenUse] 使自身增加15級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndBattle] 消耗所有硬化血液 與慶典的熱潮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的硬化血液 层数，额外使目标增加流血 强度与破裂 强度"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的硬化血液 層數，額外使目標增加流血 強度與破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数×2.5)%的体力(最多20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(自身的慶典的熱潮 層數×2.5)%的體力(最多20%)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层[FestivalFever]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[FestivalFever]"
                 }
               ]
             }
@@ -825,8 +825,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
+          "name": "閃避",
+          "desc": "[WhenUse] 若自身的慶典的熱潮 層數不低於5層，則使本技能的最終威力+1\n[StartBattle] 使自身獲得2層慶典的熱潮 \n[OnDefeatEvade] 使自身失去2層慶典的熱潮 ",
           "coinlist": [
             {}
           ]
@@ -838,16 +838,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血挥击",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1",
+          "name": "硬血揮擊",
+          "desc": "[WhenUse] 若自身的慶典的熱潮 層數不低於5層，則使本技能的最終威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -860,23 +860,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血乱刺",
-          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层",
+          "name": "硬血亂刺",
+          "desc": "[WhenUse] 自身每帶有5層慶典的熱潮 或目標每帶有6級流血 強度，使本技能的最終威力+1(最多+2)\n[WhenUse] 使自身增加15級流血 強度並立即觸發自身的流血 1次，隨後使自身的流血 層數減少1層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於6級，則使自身獲得1層硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得1層[BloomingThorns]"
                 }
               ]
             }
@@ -889,27 +889,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血强化展开",
-          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
+          "name": "硬血強化展開",
+          "desc": "[WhenUse] 使自身增加15級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndBattle] 消耗所有硬化血液 與慶典的熱潮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的硬化血液 层数，额外使目标增加流血 强度与破裂 强度"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的硬化血液 層數，額外使目標增加流血 強度與破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数×2.5)%的体力(最多20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(自身的慶典的熱潮 層數×2.5)%的體力(最多20%)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层[FestivalFever]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[FestivalFever]"
                 }
               ]
             }
@@ -922,8 +922,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
+          "name": "閃避",
+          "desc": "[WhenUse] 若自身的慶典的熱潮 層數不低於5層，則使本技能的最終威力+1\n[StartBattle] 使自身獲得2層慶典的熱潮 \n[OnDefeatEvade] 使自身失去2層慶典的熱潮 ",
           "coinlist": [
             {}
           ]
@@ -935,16 +935,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "欢迎来到梦幻的庆典！",
-          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的最终威力+2",
+          "name": "歡迎來到夢幻的慶典！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的最終威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度并对其施加2层[Laceration]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Laceration]強度並對其施加2層[Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级[Burst]强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級[Burst]強度"
                 }
               ]
             }
@@ -957,13 +957,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "加入这欢乐的游行！",
-          "desc": "[WhenUse] 自身每带有5层[FestivalFever]或目标每带有6级流血 强度，使本技能的最终威力+1(最多+3)\n[WhenUse] 若[BloodDinner]低于20层，则使自身增加20级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层\n[EndSkill] 消耗20层血宴 ",
+          "name": "加入這歡樂的遊行！",
+          "desc": "[WhenUse] 自身每帶有5層[FestivalFever]或目標每帶有6級流血 強度，使本技能的最終威力+1(最多+3)\n[WhenUse] 若[BloodDinner]低於20層，則使自身增加20級流血 強度並立即觸發自身的流血 1次，隨後使自身的流血 層數減少1層\n[EndSkill] 消耗20層血宴 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有6级流血 强度，使自身获得1层[HardenedBlood](最多2层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有6級流血 強度，使自身獲得1層[HardenedBlood](最多2層)"
                 }
               ]
             },
@@ -973,10 +973,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 使目标增加4级流血 强度并对其施加3层流血 "
+                  "desc": "[WinDuelAttack] 使目標增加4級流血 強度並對其施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2~3层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2~3層[BloomingThorns]"
                 }
               ]
             }
@@ -989,13 +989,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "让幸福笑容如花般绽放吧！",
-          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的硬币威力+1\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的拼点威力+1",
+          "name": "讓幸福笑容如花般綻放吧！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Laceration]強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加3層[Laceration]"
                 }
               ]
             },
@@ -1003,7 +1003,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] 使自身获得2层[FestivalFever]"
+                  "desc": "[WinDuelAttack] 使自身獲得2層[FestivalFever]"
                 }
               ]
             }
@@ -1016,16 +1016,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "永远的幸福王国拉·曼却领！",
-          "desc": "[WhenUse] 若[BloodDinner]低于40层，则使自身增加20级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndSkill] 消耗40层[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
+          "name": "永遠的幸福王國拉·曼卻領！",
+          "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的[HardenedBlood]層數，使目標增加相應的[Laceration]強度與[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的[FestivalFever]层数×4)%的体力(最多40%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(自身的[FestivalFever]層數×4)%的體力(最多40%)"
                 }
               ]
             },
@@ -1035,7 +1035,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得5层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得5層[BloomingThorns]"
                 }
               ]
             }
@@ -1048,8 +1048,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+2\n[StartBattle] 使自身获得3层庆典的热潮 \n[OnDefeatEvade] 使自身失去3层庆典的热潮 ",
+          "name": "閃避",
+          "desc": "[WhenUse] 若自身的慶典的熱潮 層數不低於5層，則使本技能的最終威力+2\n[StartBattle] 使自身獲得3層慶典的熱潮 \n[OnDefeatEvade] 使自身失去3層慶典的熱潮 ",
           "coinlist": [
             {}
           ]
@@ -1061,16 +1061,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "欢迎来到梦幻的庆典！",
-          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的最终威力+2",
+          "name": "歡迎來到夢幻的慶典！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的最終威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加3层[Laceration]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Laceration]強度並對其施加3層[Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级[Burst]强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級[Burst]強度"
                 }
               ]
             }
@@ -1083,13 +1083,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "大家一齐来跳舞吧！",
-          "desc": "[WhenUse] 自身每带有5层[FestivalFever]或目标每带有6级流血 强度，使本技能的最终威力+1(最多+3)\n[WhenUse] 若[BloodDinner]低于20层，则使自身增加20级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层\n[EndSkill] 消耗20层血宴 ",
+          "name": "大家一齊來跳舞吧！",
+          "desc": "[WhenUse] 自身每帶有5層[FestivalFever]或目標每帶有6級流血 強度，使本技能的最終威力+1(最多+3)\n[WhenUse] 若[BloodDinner]低於20層，則使自身增加20級流血 強度並立即觸發自身的流血 1次，隨後使自身的流血 層數減少1層\n[EndSkill] 消耗20層血宴 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有6级流血 强度，使自身获得1层[HardenedBlood](最多2层)"
+                  "desc": "[OnSucceedAttack] 目標每帶有6級流血 強度，使自身獲得1層[HardenedBlood](最多2層)"
                 }
               ]
             },
@@ -1099,10 +1099,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 使目标增加4级流血 强度并对其施加3层流血 "
+                  "desc": "[WinDuelAttack] 使目標增加4級流血 強度並對其施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2~3层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2~3層[BloomingThorns]"
                 }
               ]
             }
@@ -1115,13 +1115,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "一起快乐地唱起歌吧！",
-          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的硬币威力+1\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的拼点威力+1",
+          "name": "一起快樂地唱起歌吧！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Laceration]強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加3層[Laceration]"
                 }
               ]
             },
@@ -1129,7 +1129,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] 使自身获得2层[FestivalFever]"
+                  "desc": "[WinDuelAttack] 使自身獲得2層[FestivalFever]"
                 }
               ]
             }
@@ -1142,16 +1142,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "永远的幸福王国拉·曼却领！",
-          "desc": "[WhenUse] 若[BloodDinner]低于40层，则使自身增加20级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndSkill] 消耗40层[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
+          "name": "永遠的幸福王國拉·曼卻領！",
+          "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 根據自身帶有的[HardenedBlood]層數，使目標增加相應的[Laceration]強度與[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的[FestivalFever]层数×4)%的体力(最多40%)"
+                  "desc": "[OnSucceedAttack] 使自身恢復體力上限(自身的[FestivalFever]層數×4)%的體力(最多40%)"
                 }
               ]
             },
@@ -1161,7 +1161,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得5层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得5層[BloomingThorns]"
                 }
               ]
             }
@@ -1174,8 +1174,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+2\n[StartBattle] 使自身获得3层庆典的热潮 \n[OnDefeatEvade] 使自身失去3层庆典的热潮 ",
+          "name": "閃避",
+          "desc": "[WhenUse] 若自身的慶典的熱潮 層數不低於5層，則使本技能的最終威力+2\n[StartBattle] 使自身獲得3層慶典的熱潮 \n[OnDefeatEvade] 使自身失去3層慶典的熱潮 ",
           "coinlist": [
             {}
           ]

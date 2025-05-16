@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "UnitKeyword_BLADE_LINEAGE",
-      "content": "剑契组"
+      "content": "劍契組"
     },
     {
       "id": "UnitKeyword_BLACK_CLOUD",
-      "content": "黑云会"
+      "content": "黑雲會"
     },
     {
       "id": "UnitKeyword_YURODIVY",
-      "content": "圣愚"
+      "content": "聖愚"
     },
     {
       "id": "UnitKeyword_MACHINE_BOUND_ORGANISM",
-      "content": "机械融合生命体"
+      "content": "機械融合生命體"
     },
     {
       "id": "UnitKeyword_ON_THE_LAKE",
@@ -46,31 +46,31 @@
     },
     {
       "id": "UnitKeyword_SEVEN",
-      "content": "Seven协会"
+      "content": "Seven協會"
     },
     {
       "id": "UnitKeyword_CINQ",
-      "content": "Cinq协会"
+      "content": "Cinq協會"
     },
     {
       "id": "UnitKeyword_ZWEI",
-      "content": "Zwei协会"
+      "content": "Zwei協會"
     },
     {
       "id": "UnitKeyword_LIU",
-      "content": "六协会"
+      "content": "六協會"
     },
     {
       "id": "UnitKeyword_SHI",
-      "content": "し协会"
+      "content": "し協會"
     },
     {
       "id": "UnitKeyword_DIECI",
-      "content": "Dieci协会"
+      "content": "Dieci協會"
     },
     {
       "id": "UnitKeyword_OUFI",
-      "content": "Öufi协会"
+      "content": "Öufi協會"
     },
     {
       "id": "UnitKeyword_TROUBLE_SHOOTER",
@@ -78,11 +78,11 @@
     },
     {
       "id": "UnitKeyword_ATL",
-      "content": "技术解放联盟"
+      "content": "技術解放聯盟"
     },
     {
       "id": "UnitKeyword_MOLAR",
-      "content": "臼齿事务所"
+      "content": "臼齒事務所"
     },
     {
       "id": "UnitKeyword_MIDDLE_FINGER",
@@ -90,51 +90,51 @@
     },
     {
       "id": "UnitKeyword_RING_FINGER",
-      "content": "环指"
+      "content": "環指"
     },
     {
       "id": "UnitKeyword_PEQUOD_CREW",
-      "content": "裴廓德号"
+      "content": "裴廓德號"
     },
     {
       "id": "UnitKeyword_WUTHERING_HEIGHTS",
-      "content": "呼啸山庄"
+      "content": "呼嘯山莊"
     },
     {
       "id": "UnitKeyword_DEAD_RABBITS",
-      "content": "死兔帮"
+      "content": "死兔幫"
     },
     {
       "id": "UnitKeyword_WILD_HUNT",
-      "content": "狂猎"
+      "content": "狂獵"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY",
-      "content": "边狱公司"
+      "content": "邊獄公司"
     },
     {
       "id": "UnitKeyword_KONG_KONG",
-      "content": "豆豆帮"
+      "content": "豆豆幫"
     },
     {
       "id": "UnitKeyword_MARIACHI",
-      "content": "流浪乐队"
+      "content": "流浪樂隊"
     },
     {
       "id": "UnitKeyword_HOOK_OFFICE",
-      "content": "吊钩事务所"
+      "content": "吊鉤事務所"
     },
     {
       "id": "UnitKeyword_DUAL_HOOK_PIRATE",
-      "content": "双钩海盗团"
+      "content": "雙鉤海盜團"
     },
     {
       "id": "UnitKeyword_DAWN",
-      "content": "黎明事务所"
+      "content": "黎明事務所"
     },
     {
       "id": "UnitKeyword_MULTI_CRACK",
-      "content": "多裂纹事务所"
+      "content": "多裂紋事務所"
     },
     {
       "id": "UnitKeyword_BACKSTREET_COOK",
@@ -142,7 +142,7 @@
     },
     {
       "id": "UnitKeyword_TIEQIU",
-      "content": "铁工会"
+      "content": "鐵工會"
     },
     {
       "id": "UnitKeyword_LINTON",
@@ -150,11 +150,11 @@
     },
     {
       "id": "UnitKeyword_LOBOTOMY_HEAD",
-      "content": "脑叶公司本部"
+      "content": "腦葉公司本部"
     },
     {
       "id": "UnitKeyword_LOBOTOMY_BRANCH",
-      "content": "脑叶公司支部"
+      "content": "腦葉公司支部"
     },
     {
       "id": "UnitKeyword_FIXER",
@@ -162,7 +162,7 @@
     },
     {
       "id": "UnitKeyword_CLAN",
-      "content": "帮派"
+      "content": "幫派"
     },
     {
       "id": "UnitKeyword_WHITE_PARASITE",
@@ -174,15 +174,15 @@
     },
     {
       "id": "UnitKeyword_BACK_STREET",
-      "content": "后巷"
+      "content": "後巷"
     },
     {
       "id": "UnitKeyword_DEVYAT",
-      "content": "Девять协会"
+      "content": "Девять協會"
     },
     {
       "id": "UnitKeyword_LA_MANCHA_LAND",
-      "content": "拉·曼却领"
+      "content": "拉·曼卻領"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY_LCE",
@@ -198,15 +198,15 @@
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_RABBIT",
-      "content": "黑兽-卯"
+      "content": "黑獸-卯"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST",
-      "content": "黑兽"
+      "content": "黑獸"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_SNAKE",
-      "content": "黑兽-巳"
+      "content": "黑獸-巳"
     }
   ]
 }

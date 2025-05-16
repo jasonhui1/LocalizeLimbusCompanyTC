@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -31,16 +31,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹铲！",
+          "name": "蟹鏟！",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层斩击易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層斬擊易損 "
                 }
               ]
             }
@@ -59,21 +59,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -92,7 +92,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -105,8 +105,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "缩头螃蟹",
-          "desc": "[StartBattle] 本回合内若自身带有护盾时受到攻击，则反弹4点斩击伤害",
+          "name": "縮頭螃蟹",
+          "desc": "[StartBattle] 本回合內若自身帶有護盾時受到攻擊，則反彈4點斬擊傷害",
           "coinlist": [
             {}
           ]
@@ -124,14 +124,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -144,16 +144,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹铲！",
+          "name": "蟹鏟！",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层突刺易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層突刺易損 "
                 }
               ]
             }
@@ -172,21 +172,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -205,7 +205,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -218,8 +218,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "缩头螃蟹",
-          "desc": "[StartBattle] 本回合内若自身带有护盾时受到攻击，则反弹4点突刺伤害",
+          "name": "縮頭螃蟹",
+          "desc": "[StartBattle] 本回合內若自身帶有護盾時受到攻擊，則反彈4點突刺傷害",
           "coinlist": [
             {}
           ]
@@ -237,14 +237,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -257,16 +257,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹铲！",
+          "name": "蟹鏟！",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层打击易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層打擊易損 "
                 }
               ]
             }
@@ -285,21 +285,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 }
               ]
             }
@@ -318,7 +318,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -331,8 +331,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "缩头螃蟹",
-          "desc": "[StartBattle] 本回合内若自身带有护盾时受到攻击，则反弹4点打击伤害",
+          "name": "縮頭螃蟹",
+          "desc": "[StartBattle] 本回合內若自身帶有護盾時受到攻擊，則反彈4點打擊傷害",
           "coinlist": [
             {}
           ]
@@ -344,13 +344,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刺击",
+          "name": "刺擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
                 }
               ]
             }
@@ -363,27 +363,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "胡乱刺击",
+          "name": "胡亂刺擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             }
@@ -402,14 +402,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -422,13 +422,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹酱喷射！",
-          "desc": "[CantIdentify]\n目标每带有5级破裂 强度，则使本技能造成的伤害 +15%\n[EndSkill] 本体减少体力上限8%的体力",
+          "name": "蟹醬噴射！",
+          "desc": "[CantIdentify]\n目標每帶有5級破裂 強度，則使本技能造成的傷害 +15%\n[EndSkill] 本體減少體力上限8%的體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加10級破裂 強度"
                 }
               ]
             }
@@ -447,21 +447,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -474,13 +474,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刺击",
+          "name": "刺擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
                 }
               ]
             }
@@ -493,27 +493,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "胡乱刺击",
+          "name": "胡亂刺擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             }
@@ -532,14 +532,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -552,13 +552,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹铲！！！",
+          "name": "蟹鏟！！！",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层突刺易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層突刺易損 "
                 }
               ]
             }
@@ -571,13 +571,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹壳废料弹发射",
-          "desc": "[CantIdentify]\n目标每带有5级破裂 强度，则使本技能造成的伤害+15%",
+          "name": "蟹殼廢料彈發射",
+          "desc": "[CantIdentify]\n目標每帶有5級破裂 強度，則使本技能造成的傷害+15%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗1枚蟹壳废料弹 "
+                  "desc": "[OnSucceedAttack] 消耗1枚蟹殼廢料彈 "
                 }
               ]
             }
@@ -596,21 +596,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級破裂 強度"
                 }
               ]
             }

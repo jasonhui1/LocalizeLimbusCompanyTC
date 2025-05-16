@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "请离开这里",
-          "desc": "[WhenUse] 若目标的沉沦 强度不低于4级，则使本技能的拼点威力+1",
+          "name": "請離開這裏",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於4級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别露出那种表情",
-          "desc": "[WhenUse] 若目标的沉沦 层数不低于3层，则使本技能的拼点威力+1",
+          "name": "別露出那種表情",
+          "desc": "[WhenUse] 若目標的沉淪 層數不低於3層，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -51,36 +51,36 @@
         {
           "level": 1,
           "name": "你是何人？",
-          "desc": "优先指定带有[UninvitedGuest]的目标\n若目标带有[UninvitedGuest]，则使本技能增加的沉沦 强度与施加的沉沦 层数额外+1",
+          "desc": "優先指定帶有[UninvitedGuest]的目標\n若目標帶有[UninvitedGuest]，則使本技能增加的沉淪 強度與施加的沉淪 層數額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有[UninvitedGuest]，则下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 若目標帶有[UninvitedGuest]，則下回合對目標施加2層麻痹 "
                 }
               ]
             }
@@ -94,28 +94,28 @@
         {
           "level": 1,
           "name": "你是不速之客？",
-          "desc": "优先指定带有[UninvitedGuest]的目标\n若目标带有[UninvitedGuest]，则使本技能增加的沉沦 强度与施加的沉沦 层数额外+1",
+          "desc": "優先指定帶有[UninvitedGuest]的目標\n若目標帶有[UninvitedGuest]，則使本技能增加的沉淪 強度與施加的沉淪 層數額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有[UninvitedGuest]，则下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 若目標帶有[UninvitedGuest]，則下回合對目標施加2層麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層沉淪 "
                 }
               ]
             }
@@ -128,23 +128,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "不速之客请离开",
-          "desc": "优先指定带有[UninvitedGuest]的目标\n根据带有[UninvitedGuest]的敌方单位数，使本技能的攻击容量相应增加\n[WhenUse] 根据带有[UninvitedGuest]的敌方单位数，使本技能的拼点威力相应增加",
+          "name": "不速之客請離開",
+          "desc": "優先指定帶有[UninvitedGuest]的目標\n根據帶有[UninvitedGuest]的敵方單位數，使本技能的攻擊容量相應增加\n[WhenUse] 根據帶有[UninvitedGuest]的敵方單位數，使本技能的拼點威力相應增加",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标沉沦泛滥 "
+                  "desc": "[OnSucceedAttack] 使目標沉淪氾濫 "
                 }
               ]
             }
@@ -158,12 +158,12 @@
         {
           "level": 1,
           "name": "我的主人",
-          "desc": "[DefeatDuel] 揭示相连的肖像",
+          "desc": "[DefeatDuel] 揭示相連的肖像",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
                 }
               ]
             }
@@ -176,13 +176,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "悲伤的主人",
-          "desc": "[DefeatDuel] 揭示相连的肖像",
+          "name": "悲傷的主人",
+          "desc": "[DefeatDuel] 揭示相連的肖像",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -214,7 +214,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
+          "name": "閃避",
           "desc": "",
           "coinlist": [
             {
@@ -233,13 +233,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "犄角冲撞",
-          "desc": "[WhenUse] 使自身获得1层充能 ",
+          "name": "犄角衝撞",
+          "desc": "[WhenUse] 使自身獲得1層充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
                 }
               ]
             }
@@ -252,20 +252,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "羊角冲撞",
-          "desc": "[WhenUse] 使自身获得1层充能 ",
+          "name": "羊角衝撞",
+          "desc": "[WhenUse] 使自身獲得1層充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层攻击等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層攻擊等級降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层攻击等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層攻擊等級降低 "
                 }
               ]
             }
@@ -279,12 +279,12 @@
         {
           "level": 1,
           "name": "羊嚎",
-          "desc": "[WhenUse] 使自身获得2层充能 ",
+          "desc": "[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -297,20 +297,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "操纵雷电",
-          "desc": "[WhenUse] 使自身获得2层充能 ",
+          "name": "操縱雷電",
+          "desc": "[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层攻击等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層攻擊等級降低 "
                 }
               ]
             }
@@ -323,27 +323,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "电子哀鸣",
-          "desc": "[WhenUse] 自身每带有4层充能 ，使本技能的攻击容量+1(最多+5)\n[WhenUse] 自身每带有5层充能 ，使本技能的拼点威力+3(最多+4)\n[WhenUse] 自身每带有6层充能 ，使自身获得1层嫉妒伤害强化 (最多3层)\n[EndBattle] 消耗自身所有充能 层数并解除[ConnectedPlug]",
+          "name": "電子哀鳴",
+          "desc": "[WhenUse] 自身每帶有4層充能 ，使本技能的攻擊容量+1(最多+5)\n[WhenUse] 自身每帶有5層充能 ，使本技能的拼點威力+3(最多+4)\n[WhenUse] 自身每帶有6層充能 ，使自身獲得1層嫉妒傷害強化 (最多3層)\n[EndBattle] 消耗自身所有充能 層數並解除[ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加4层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加4層防禦等級降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加4层攻击等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加4層攻擊等級降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -356,8 +356,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "电子哀鸣",
-          "desc": "[CantDuel]\n[WhenUse] 使自身获得10层守护 \n[WhenUse] 自身每带有4层充能 ，使本技能的攻击容量+1(最多+5)\n[WhenUse] 自身每带有5层充能 ，使本技能的拼点威力+3(最多+4)\n[WhenUse] 自身每带有6层充能 ，使自身获得1层嫉妒伤害强化 (最多3层)",
+          "name": "電子哀鳴",
+          "desc": "[CantDuel]\n[WhenUse] 使自身獲得10層守護 \n[WhenUse] 自身每帶有4層充能 ，使本技能的攻擊容量+1(最多+5)\n[WhenUse] 自身每帶有5層充能 ，使本技能的拼點威力+3(最多+4)\n[WhenUse] 自身每帶有6層充能 ，使自身獲得1層嫉妒傷害強化 (最多3層)",
           "coinlist": [
             {
               "coindescs": [
@@ -375,20 +375,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "拒绝接地",
-          "desc": "优先指定带有[AntiSheepGround]的人格\n自身每带有1层[ConnectedPlug]，使本技能的拼点威力+1\n[StartBattle] 使自身获得2×(3-自身的[ConnectedPlug]层数)层守护 \n[WhenUse] 使自身获得1层充能 \n[DefeatDuel] 若目标带有[AntiSheepGround]，则对自身施加1层[ConnectedPlug]",
+          "name": "拒絕接地",
+          "desc": "優先指定帶有[AntiSheepGround]的人格\n自身每帶有1層[ConnectedPlug]，使本技能的拼點威力+1\n[StartBattle] 使自身獲得2×(3-自身的[ConnectedPlug]層數)層守護 \n[WhenUse] 使自身獲得1層充能 \n[DefeatDuel] 若目標帶有[AntiSheepGround]，則對自身施加1層[ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層防禦等級降低 "
                 }
               ]
             }
@@ -401,13 +401,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "释放过度充能",
+          "name": "釋放過度充能",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 }
               ]
             }
@@ -420,20 +420,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "缠绕的断念",
-          "desc": "若目标的沉沦 强度不低于6级，则使本技能的硬币威力+1\n[WinDuel] 对目标施加3层沉沦 ",
+          "name": "纏繞的斷念",
+          "desc": "若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加3層沉淪 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -446,27 +446,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "紧缚的绝望",
-          "desc": "目标每带有6级沉沦 强度，使本技能的硬币威力+1(最多+2)\n[WinDuel] 对目标施加3层沉沦 \n[DefeatDuel] 使目标的沉沦 层数减少1层",
+          "name": "緊縛的絕望",
+          "desc": "目標每帶有6級沉淪 強度，使本技能的硬幣威力+1(最多+2)\n[WinDuel] 對目標施加3層沉淪 \n[DefeatDuel] 使目標的沉淪 層數減少1層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
                 }
               ]
             }
@@ -479,34 +479,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "断开枷锁",
-          "desc": "若目标带有束缚 ，则使本技能的拼点威力+1\n[WinDuel] 对目标施加4层沉沦 \n[DefeatDuel] 使目标的沉沦 强度减少2级",
+          "name": "斷開枷鎖",
+          "desc": "若目標帶有束縛 ，則使本技能的拼點威力+1\n[WinDuel] 對目標施加4層沉淪 \n[DefeatDuel] 使目標的沉淪 強度減少2級",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -519,20 +519,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "束缚枷锁",
-          "desc": "目标每带有6级沉沦 强度，使本技能的硬币威力+1(最多+2)\n[DefeatDuel] 使目标的沉沦 层数减少2层\n[DefeatDuel] 使目标获得[BandageOfTheBoundKing]",
+          "name": "束縛枷鎖",
+          "desc": "目標每帶有6級沉淪 強度，使本技能的硬幣威力+1(最多+2)\n[DefeatDuel] 使目標的沉淪 層數減少2層\n[DefeatDuel] 使目標獲得[BandageOfTheBoundKing]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 \n[OnSucceedAttack] 根据目标带有的沉沦 强度，使其增加相应的震颤 强度"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 \n[OnSucceedAttack] 根據目標帶有的沉淪 強度，使其增加相應的震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }
@@ -546,12 +546,12 @@
         {
           "level": 1,
           "name": "就此沉溺",
-          "desc": "若目标带有束缚 ，则使本技能的拼点威力+1\n[WinDuel] 对目标施加2层沉沦 \n[DefeatDuel] 使目标的沉沦 强度减少4级",
+          "desc": "若目標帶有束縛 ，則使本技能的拼點威力+1\n[WinDuel] 對目標施加2層沉淪 \n[DefeatDuel] 使目標的沉淪 強度減少4級",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标沉沦泛滥 "
+                  "desc": "[OnSucceedAttack] 使目標沉淪氾濫 "
                 }
               ]
             }
@@ -564,16 +564,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "呈于御前",
-          "desc": "[CantDuel]\n[StartBattle] 下回合对自身施加5层束缚 并使自身获得1层[ComeForwardToTheKing]与2层强壮 \n[WhenUse] 使带有[BandageOfTheBoundKing]的目标获得300点护盾",
+          "name": "呈於御前",
+          "desc": "[CantDuel]\n[StartBattle] 下回合對自身施加5層束縛 並使自身獲得1層[ComeForwardToTheKing]與2層強壯 \n[WhenUse] 使帶有[BandageOfTheBoundKing]的目標獲得300點護盾",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身对目标造成伤害，则根据目标带有的沉沦 强度，使其增加相应的震颤 强度"
+                  "desc": "[OnSucceedAttack] 若自身對目標造成傷害，則根據目標帶有的沉淪 強度，使其增加相應的震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 }
               ]
             }

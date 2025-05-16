@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "AbnormalityLevel",
-      "content": "危险等级"
+      "content": "危險等級"
     },
     {
       "id": "LCA",
@@ -14,7 +14,7 @@
     },
     {
       "id": "Peccatula",
-      "content": "罪种"
+      "content": "罪種"
     },
     {
       "id": "NestS",
@@ -26,19 +26,19 @@
     },
     {
       "id": "Monolith",
-      "content": "独石"
+      "content": "獨石"
     },
     {
       "id": "PeccatulaLv2",
-      "content": "2阶罪种"
+      "content": "2階罪種"
     },
     {
       "id": "Line3",
-      "content": "折射轨道3号线"
+      "content": "折射軌道3號線"
     },
     {
       "id": "BattlePower",
-      "content": "战斗力"
+      "content": "戰鬥力"
     }
   ]
 }

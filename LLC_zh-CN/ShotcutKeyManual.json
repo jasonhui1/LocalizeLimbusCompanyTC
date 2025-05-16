@@ -2,59 +2,59 @@
   "dataList": [
     {
       "id": "shotcutKeyManual_confirm_popup",
-      "content": "[通用] 弹窗确认"
+      "content": "[通用] 彈窗確認"
     },
     {
       "id": "shotcutKeyManual_skip_story",
-      "content": "[故事] 跳过对话"
+      "content": "[故事] 跳過對話"
     },
     {
       "id": "shotcutKeyManual_skip_extraction",
-      "content": "[提取] 跳过动画"
+      "content": "[提取] 跳過動畫"
     },
     {
       "id": "shotcutKeyManual_pause_and_play",
-      "content": "[战斗] 暂停与继续"
+      "content": "[戰鬥] 暫停與繼續"
     },
     {
       "id": "shotcutKeyManual_start_battle",
-      "content": "[战斗] 开始战斗"
+      "content": "[戰鬥] 開始戰鬥"
     },
     {
       "id": "shotcutKeyManual_button_winning",
-      "content": "[战斗] 胜率"
+      "content": "[戰鬥] 勝率"
     },
     {
       "id": "shotcutKeyManual_button_damage",
-      "content": "伤害按键"
+      "content": "傷害按鍵"
     },
     {
       "id": "shotcutKeyManual_close_popup",
-      "content": "[通用] 关闭弹窗"
+      "content": "[通用] 關閉彈窗"
     },
     {
       "id": "shotcutKeyManual_cancel_back",
-      "content": "取消或返回原菜单"
+      "content": "取消或返回原菜單"
     },
     {
       "id": "shotcutKeyManual_quit_game",
-      "content": "退出游戏"
+      "content": "退出遊戲"
     },
     {
       "id": "shotcutKeyManual_move_screen",
-      "content": "[战斗] 视角移动"
+      "content": "[戰鬥] 視角移動"
     },
     {
       "id": "shotcutKeyManual_show_current_situation",
-      "content": "[战斗] 显示拼点箭头"
+      "content": "[戰鬥] 顯示拼點箭頭"
     },
     {
       "id": "shotcutKeyManual_open_manual",
-      "content": "[通用] 打开UI操作指南"
+      "content": "[通用] 打開UI操作指南"
     },
     {
       "id": "shotcutKeyManual_zoom_inout_battle",
-      "content": "[战斗] 放大与缩小"
+      "content": "[戰鬥] 放大與縮小"
     }
   ]
 }

@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "种植棉花",
-          "desc": "[WhenUse] 对目标施加3层棉花 ",
+          "name": "種植棉花",
+          "desc": "[WhenUse] 對目標施加3層棉花 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加1层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加1層流血 "
                 }
               ]
             }
@@ -24,16 +24,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "种植伤口",
+          "name": "種植傷口",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
                 }
               ]
             }
@@ -47,19 +47,19 @@
         {
           "level": 1,
           "name": "汲取的根",
-          "desc": "[CantDuel]\n指定带有[MRcAfBa]且速度值最低的单位\n使本技能造成的伤害+(目标的[MRcAfBa]层数×10)%",
+          "desc": "[CantDuel]\n指定帶有[MRcAfBa]且速度值最低的單位\n使本技能造成的傷害+(目標的[MRcAfBa]層數×10)%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量(目标的[MRcAfBa]×5)% 的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量(目標的[MRcAfBa]×5)% 的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量(目标的[MRcAfBa]×5)% 的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量(目標的[MRcAfBa]×5)% 的體力"
                 }
               ]
             }
@@ -72,20 +72,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "覆盖棉花",
-          "desc": "指定流血 强度最高的单位\n[WhenUse] 若主要目标为流血 强度最高的目标，则使本技能的基础威力+5，施加的状态变为2倍",
+          "name": "覆蓋棉花",
+          "desc": "指定流血 強度最高的單位\n[WhenUse] 若主要目標爲流血 強度最高的目標，則使本技能的基礎威力+5，施加的狀態變爲2倍",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 与2层色欲易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 與2層色慾易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度并对其施加4层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度並對其施加4層流血 "
                 }
               ]
             }
@@ -99,19 +99,19 @@
         {
           "level": 1,
           "name": "散落的棉花",
-          "desc": "指定带有棉花 且体力最低的单位\n[WhenUse] 若主要目标为流血 强度最高的单位，则使本技能的基础威力+5\n[EndBattle] 下回合解除[MRcAfBb]状态",
+          "desc": "指定帶有棉花 且體力最低的單位\n[WhenUse] 若主要目標爲流血 強度最高的單位，則使本技能的基礎威力+5\n[EndBattle] 下回合解除[MRcAfBb]狀態",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
                 }
               ]
             }
@@ -124,8 +124,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "散乱之风",
-          "desc": "[OnSucceedEvade] 使目标增加3级流血 强度并对其施加1层流血 ",
+          "name": "散亂之風",
+          "desc": "[OnSucceedEvade] 使目標增加3級流血 強度並對其施加1層流血 ",
           "coinlist": [
             {
               "coindescs": [
@@ -143,14 +143,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "被覆盖的棉花",
-          "desc": "[CantDuel]\n优先指定速度值最低的单位\n本攻击技能造成的伤害固定为0\n[StartBattle] 下回合进入[MRcAfBb]状态",
+          "name": "被覆蓋的棉花",
+          "desc": "[CantDuel]\n優先指定速度值最低的單位\n本攻擊技能造成的傷害固定爲0\n[StartBattle] 下回合進入[MRcAfBb]狀態",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层棉花 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層棉花 "
                 }
               ]
             }
@@ -163,26 +163,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "散落的红染棉花",
-          "desc": "优先指定流血 强度最高的单位\n[WhenUse] 若主要目标为流血 强度最高的单位，则使本技能的基础威力+10\n若目标的流血 强度不低于10级，则使本技能造成的伤害+50%",
+          "name": "散落的紅染棉花",
+          "desc": "優先指定流血 強度最高的單位\n[WhenUse] 若主要目標爲流血 強度最高的單位，則使本技能的基礎威力+10\n若目標的流血 強度不低於10級，則使本技能造成的傷害+50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度并对其施加4层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加4層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，使自身恢复相应的体力"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，使自身恢復相應的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度并对其施加4层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加5級流血 強度並對其施加4層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，使自身恢复相应的体力"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度，使自身恢復相應的體力"
                 }
               ]
             }
@@ -195,13 +195,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "烈焰猛击",
-          "desc": "[WhenUse] 使自身获得1层[MRcAiBa]",
+          "name": "烈焰猛擊",
+          "desc": "[WhenUse] 使自身獲得1層[MRcAiBa]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度并对其施加2层烧伤 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度並對其施加2層燒傷 "
                 }
               ]
             }
@@ -214,13 +214,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "红焰翼",
-          "desc": "[WhenUse] 使自身获得1层[MRcAiBa]",
+          "name": "紅焰翼",
+          "desc": "[WhenUse] 使自身獲得1層[MRcAiBa]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层暴怒抗性弱化 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層暴怒抗性弱化 "
                 }
               ]
             }
@@ -233,23 +233,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "点燃",
-          "desc": "[WinDuel] 根据目标带有的烧伤 强度，使其增加相应的烧伤 强度\n[WhenUse] 对目标施加2层烧伤 ",
+          "name": "點燃",
+          "desc": "[WinDuel] 根據目標帶有的燒傷 強度，使其增加相應的燒傷 強度\n[WhenUse] 對目標施加2層燒傷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的[MRcAiBb]层数不低于3层，则使其增加10级烧伤 强度并对其施加2层烧伤 ，2层[MRcAiBc]。"
+                  "desc": "[OnSucceedAttack] 若目標的[MRcAiBb]層數不低於3層，則使其增加10級燒傷 強度並對其施加2層燒傷 ，2層[MRcAiBc]。"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加6级烧伤 强度并对其施加4层烧伤 "
+                  "desc": "[OnSucceedAttack] 使目標增加6級燒傷 強度並對其施加4層燒傷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层暴怒抗性弱化 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層暴怒抗性弱化 "
                 }
               ]
             }
@@ -262,26 +262,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "粉尘爆炸",
-          "desc": "[WhenUse] 若目标的烧伤 强度不低于7级，则使本技能的拼点威力+2",
+          "name": "粉塵爆炸",
+          "desc": "[WhenUse] 若目標的燒傷 強度不低於7級，則使本技能的拼點威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据红焰蛾本回合使用的暴怒技能数，对目标施加相应层数的烧伤 "
+                  "desc": "[OnSucceedAttack] 根據紅焰蛾本回合使用的暴怒技能數，對目標施加相應層數的燒傷 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据红焰蛾本回合使用的暴怒技能数，对速度值最低的1名敌方单位施加相应层数的烧伤 "
+                  "desc": "[OnSucceedAttackHead] 根據紅焰蛾本回合使用的暴怒技能數，對速度值最低的1名敵方單位施加相應層數的燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据红焰蛾本回合使用的暴怒技能数，使目标增加相应的烧伤 强度"
+                  "desc": "[OnSucceedAttack] 根據紅焰蛾本回合使用的暴怒技能數，使目標增加相應的燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据红焰蛾本回合使用的暴怒技能数，使速度值最低的1名敌方单位增加相应的烧伤 强度"
+                  "desc": "[OnSucceedAttackHead] 根據紅焰蛾本回合使用的暴怒技能數，使速度值最低的1名敵方單位增加相應的燒傷 強度"
                 }
               ]
             }
@@ -294,36 +294,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "红艳煞",
-          "desc": "使本技能的拼点威力+(红焰蛾本回合使用的暴怒技能数×2)\n[WhenUse] 使全体敌方单位增加(红焰蛾本回合使用的暴怒技能数×2)级烧伤 强度",
+          "name": "紅豔煞",
+          "desc": "使本技能的拼點威力+(紅焰蛾本回合使用的暴怒技能數×2)\n[WhenUse] 使全體敵方單位增加(紅焰蛾本回合使用的暴怒技能數×2)級燒傷 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据红焰蛾本回合使用的暴怒技能数，使目标增加相应的烧伤 强度"
+                  "desc": "[OnSucceedAttack] 根據紅焰蛾本回合使用的暴怒技能數，使目標增加相應的燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据红焰蛾本回合使用的暴怒技能数，使速度值最低的1名敌方单位增加相应的烧伤 强度并对其施加相应层数的烧伤 "
+                  "desc": "[OnSucceedAttackHead] 根據紅焰蛾本回合使用的暴怒技能數，使速度值最低的1名敵方單位增加相應的燒傷 強度並對其施加相應層數的燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据红焰蛾本回合使用的暴怒技能数，使目标增加相应的烧伤 强度"
+                  "desc": "[OnSucceedAttack] 根據紅焰蛾本回合使用的暴怒技能數，使目標增加相應的燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据红焰蛾本回合使用的暴怒技能数，使速度值最低的1名敌方单位增加相应的烧伤 强度并对其施加相应层数的烧伤 "
+                  "desc": "[OnSucceedAttackHead] 根據紅焰蛾本回合使用的暴怒技能數，使速度值最低的1名敵方單位增加相應的燒傷 強度並對其施加相應層數的燒傷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的10%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的10%"
                 },
                 {
-                  "desc": "[EndSkill] 使因本技能伤害而陷入混乱的目标增加10级烧伤 强度"
+                  "desc": "[EndSkill] 使因本技能傷害而陷入混亂的目標增加10級燒傷 強度"
                 }
               ]
             }
@@ -336,8 +336,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[WhenUseEvade] 使目标增加4级烧伤 强度\n[OnSucceedEvade] 下回合使自身获得1层[MRcAiBa]",
+          "name": "閃避",
+          "desc": "[WhenUseEvade] 使目標增加4級燒傷 強度\n[OnSucceedEvade] 下回合使自身獲得1層[MRcAiBa]",
           "coinlist": [
             {
               "coindescs": [
@@ -355,15 +355,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "点燃火种",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n本攻击技能造成的伤害固定为0。",
+          "name": "點燃火種",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n本攻擊技能造成的傷害固定爲0。",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[MRcAiBb]"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[MRcAiBb]"
                 }
               ]
             }
@@ -376,16 +376,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "贯穿",
+          "name": "貫穿",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
                 }
               ]
             }
@@ -398,29 +398,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "缓慢渗透",
-          "desc": "[WinDuel] 使本技能的硬币效果施加的易损 与束缚 层数变为2倍。",
+          "name": "緩慢滲透",
+          "desc": "[WinDuel] 使本技能的硬幣效果施加的易損 與束縛 層數變爲2倍。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层束缚 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層束縛 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
                 }
               ]
             }
@@ -439,20 +439,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层攻击等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层防御等级降低 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層防禦等級降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层伤害弱化 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層傷害弱化 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层伤害强化 "
+                  "desc": "[OnSucceedAttackHead] 下回合使自身獲得1層傷害強化 "
                 }
               ]
             }
@@ -465,26 +465,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "紧握",
+          "name": "緊握",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层掌 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層掌 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得1层伤害强化 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层掌 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層掌 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得1层伤害强化 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層傷害強化 "
                 }
               ]
             }
@@ -497,23 +497,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "回避",
-          "desc": "若掌存活，则使本技能的最终威力+5",
+          "name": "迴避",
+          "desc": "若掌存活，則使本技能的最終威力+5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度并对其施加3层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度並對其施加3層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成10点理智伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成10點理智傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标的混乱阈值前移20"
+                  "desc": "[OnSucceedAttackHead] 使目標的混亂閾值前移20"
                 }
               ]
             }
@@ -526,26 +526,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "轻蔑一切",
-          "desc": "若掌存活，则使本技能的最终威力+5\n[EndBattle] 解除全体敌方单位的视线 ",
+          "name": "輕蔑一切",
+          "desc": "若掌存活，則使本技能的最終威力+5\n[EndBattle] 解除全體敵方單位的視線 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加10級流血 強度並對其施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度并对其施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度並對其施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成15点理智伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成15點理智傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标的混乱阈值前移30"
+                  "desc": "[OnSucceedAttackHead] 使目標的混亂閾值前移30"
                 }
               ]
             }
@@ -558,8 +558,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪避",
-          "desc": "[OnSucceedEvade] 对目标造成4点理智伤害",
+          "name": "閃避",
+          "desc": "[OnSucceedEvade] 對目標造成4點理智傷害",
           "coinlist": [
             {
               "coindescs": [
@@ -577,26 +577,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "6章5节",
-          "desc": "[CantDuel][CantChangeTarget]\n代替目标承受伤害，下回合使自身陷入混乱\n随机对未带有[AaCePcBa]的1名敌方单位施加标识 \n[EndBattle] 使所有蜡烛恢复全部体力",
+          "name": "6章5節",
+          "desc": "[CantDuel][CantChangeTarget]\n代替目標承受傷害，下回合使自身陷入混亂\n隨機對未帶有[AaCePcBa]的1名敵方單位施加標識 \n[EndBattle] 使所有蠟燭恢復全部體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的体力上限减少5%"
+                  "desc": "[OnSucceedAttack] 使自身的體力上限減少5%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加10级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使自身增加10級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的体力上限减少5%"
+                  "desc": "[OnSucceedAttack] 使自身的體力上限減少5%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加10级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使自身增加10級燒傷 強度"
                 }
               ]
             }
@@ -609,16 +609,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "不要轻视预言",
+          "name": "不要輕視預言",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级烧伤 强度并对其施加2层烧伤 "
+                  "desc": "[OnSucceedAttack] 使目標增加5級燒傷 強度並對其施加2層燒傷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复20点体力"
+                  "desc": "[OnSucceedAttack] 使自身恢復20點體力"
                 }
               ]
             }
@@ -631,20 +631,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "扩散白化",
-          "desc": "[StartBattle] 使自身获得体力上限10%的护盾。自身每带有1层魁魁格的自我 ，使自身额外获得体力上限0.3%的护盾\n若自身带有护盾时受到攻击，则使攻击者失去5点理智值\n受到攻击时，自身每带有10层魁魁格的自我 ，重复使用本技能1次",
+          "name": "擴散白化",
+          "desc": "[StartBattle] 使自身獲得體力上限10%的護盾。自身每帶有1層魁魁格的自我 ，使自身額外獲得體力上限0.3%的護盾\n若自身帶有護盾時受到攻擊，則使攻擊者失去5點理智值\n受到攻擊時，自身每帶有10層魁魁格的自我 ，重複使用本技能1次",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             }

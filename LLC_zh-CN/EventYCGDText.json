@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "ycgd_stagebutton_not_clear",
-      "content": "通过5.5-12后解锁"
+      "content": "通過5.5-12後解鎖"
     },
     {
       "id": "ycgd_stagebutton_normal",
-      "content": "关卡"
+      "content": "關卡"
     },
     {
       "id": "ycgd_stagebutton_end_event",
-      "content": "活动结束"
+      "content": "活動結束"
     },
     {
       "id": "ycgd_storybutton_before_start",
-      "content": "<size=75%>观看活动剧情第1关后开放</size>"
+      "content": "<size=75%>觀看活動劇情第1關後開放</size>"
     },
     {
       "id": "ycgd_storybutton_normal",
-      "content": "跳转至放映室"
+      "content": "跳轉至放映室"
     },
     {
       "id": "ycgd_rewardShopButton",
-      "content": "奖励兑换"
+      "content": "獎勵兌換"
     },
     {
       "id": "ycgd_scrap_guide_title",
-      "content": "活动道具介绍"
+      "content": "活動道具介紹"
     },
     {
       "id": "ycgd_scrap_guide_desc",
-      "content": "通关活动关卡，主线剧情，镜像迷宫时，您将有低概率获得<color=#1998fe>[怨恨剑鞘]</color>。\n\n<color=#1998fe>[怨恨剑鞘]</color>将转换为20个<color=#008d0d>[染血剑鞘]</color>。"
+      "content": "通關活動關卡，主線劇情，鏡像迷宮時，您將有低概率獲得<color=#1998fe>[怨恨劍鞘]</color>。\n\n<color=#1998fe>[怨恨劍鞘]</color>將轉換爲20個<color=#008d0d>[染血劍鞘]</color>。"
     },
     {
       "id": "ycgd_rewardpage_desc",
-      "content": "每次通关活动关卡、迷宫后\n可获得<color=#1998fe>[染血剑鞘]</color>，并有低概率额外获得\n<color=#7fc6ff>[怨恨剑鞘]</color>。\n\n获得的<color=#7fc6ff>[怨恨剑鞘]</color>将立即变换为20个<color=#1998fe>[染血剑鞘]</color>。"
+      "content": "每次通關活動關卡、迷宮後\n可獲得<color=#1998fe>[染血劍鞘]</color>，並有低概率額外獲得\n<color=#7fc6ff>[怨恨劍鞘]</color>。\n\n獲得的<color=#7fc6ff>[怨恨劍鞘]</color>將立即變換爲20個<color=#1998fe>[染血劍鞘]</color>。"
     },
     {
       "id": "ycgd_reward_popup_desc",
-      "content": "通关活动关卡、迷宫，首次通关主线故事关卡，以及通关镜像迷宫时，您可获得<color=#1998fe>[染血剑鞘]</color>。\n\n您可在<color=#1998fe>[奖励兑换]</color>窗口中花费<color=#1998fe>[染血剑鞘]</color>\n以获得各种各样的奖励。"
+      "content": "通關活動關卡、迷宮，首次通關主線故事關卡，以及通關鏡像迷宮時，您可獲得<color=#1998fe>[染血劍鞘]</color>。\n\n您可在<color=#1998fe>[獎勵兌換]</color>窗口中花費<color=#1998fe>[染血劍鞘]</color>\n以獲得各種各樣的獎勵。"
     },
     {
       "id": "ycgd_reward_popup_num_of_owned_items",
-      "content": "持有的剑鞘"
+      "content": "持有的劍鞘"
     },
     {
       "id": "ycgd_bonusUI_Title",
@@ -50,19 +50,19 @@
     },
     {
       "id": "ycgd_bonusUI_Title_contain_false",
-      "content": "未拥有"
+      "content": "未擁有"
     },
     {
       "id": "ycgd_bonusUI_Desc",
-      "content": "活动期间，当编队中包含以下人格时，<color=#1998fe>[染血剑鞘]</color>的获取量将提升。\n获取量提升合计最大值为<color=#1998fe>120%</color>。"
+      "content": "活動期間，當編隊中包含以下人格時，<color=#1998fe>[染血劍鞘]</color>的獲取量將提升。\n獲取量提升合計最大值爲<color=#1998fe>120%</color>。"
     },
     {
       "id": "ycgd_bonus_popup_title",
-      "content": "活动加成角色"
+      "content": "活動加成角色"
     },
     {
       "id": "ycgd_bonus_preview",
-      "content": "活动加成角色"
+      "content": "活動加成角色"
     },
     {
       "id": "ycgd_chapter_map_difficulty_ui_9107",
@@ -74,7 +74,7 @@
     },
     {
       "id": "ycgd_chapter_map_difficulty_ui_unlock_condition",
-      "content": "通关{0}-{1}后解锁困难难度"
+      "content": "通關{0}-{1}後解鎖困難難度"
     }
   ]
 }

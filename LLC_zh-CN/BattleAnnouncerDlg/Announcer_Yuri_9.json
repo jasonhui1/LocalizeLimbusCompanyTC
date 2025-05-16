@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_9_1",
-      "dlg": "对着这里说话就能被录下来吗……？啊，大家请加油！"
+      "dlg": "對着這裏說話就能被錄下來嗎……？啊，大家請加油！"
     },
     {
       "id": "announcer_cheer_9_2",
-      "dlg": "虽然不知道我能不能帮上忙……但我会努力的。"
+      "dlg": "雖然不知道我能不能幫上忙……但我會努力的。"
     },
     {
       "id": "announcer_specialcheer_9_1",
-      "dlg": "各位没事吧……？那次攻击害得大家都受伤了……"
+      "dlg": "各位沒事吧……？那次攻擊害得大家都受傷了……"
     },
     {
       "id": "announcer_specialcheer_9_2",
-      "dlg": "唔……大家，看上去都伤得很重……"
+      "dlg": "唔……大家，看上去都傷得很重……"
     },
     {
       "id": "announcer_enemy_break_9_1",
-      "dlg": "啊，我觉得先处理那个实体会轻松些。"
+      "dlg": "啊，我覺得先處理那個實體會輕鬆些。"
     },
     {
       "id": "announcer_ally_break_9_1",
-      "dlg": "请小心……毕竟不知道精神或身体受伤的同伴，会变成什么样子……"
+      "dlg": "請小心……畢竟不知道精神或身體受傷的同伴，會變成什麼樣子……"
     },
     {
       "id": "announcer_killenemy_9_1",
-      "dlg": "事态越来越好了。请继续加油……！"
+      "dlg": "事態越來越好了。請繼續加油……！"
     },
     {
       "id": "announcer_ally_dead_9_1",
-      "dlg": "但、但丁经理……您真的能复活他们的吧……？"
+      "dlg": "但、但丁經理……您真的能復活他們的吧……？"
     },
     {
       "id": "announcer_enemy_adv_9_1",
-      "dlg": "情况一团糟……脑海里……仿佛又响起了警报声……"
+      "dlg": "情況一團糟……腦海裏……彷彿又響起了警報聲……"
     },
     {
       "id": "announcer_ally_advex_9_1",
-      "dlg": "虽然情况不容乐观……但是大家一定能做到的。"
+      "dlg": "雖然情況不容樂觀……但是大家一定能做到的。"
     },
     {
       "id": "announcer_danger_9_1",
-      "dlg": "现在需要集中精神。请面对它，直到最后一刻。"
+      "dlg": "現在需要集中精神。請面對它，直到最後一刻。"
     },
     {
       "id": "announcer_enemy_specialskill_9_1",
-      "dlg": "强力的攻击要来了……！您能处理的吧？"
+      "dlg": "強力的攻擊要來了……！您能處理的吧？"
     },
     {
       "id": "announcer_enemy_specialgimmick_9_1",
-      "dlg": "嘴里突然泛苦……每次危险临近的时候我都会这样……？"
+      "dlg": "嘴裏突然泛苦……每次危險臨近的時候我都會這樣……？"
     },
     {
       "id": "announcer_advatk_physical_9_1",
-      "dlg": "伤口十分利落……那一定就是它们的弱点吧？"
+      "dlg": "傷口十分利落……那一定就是它們的弱點吧？"
     },
     {
       "id": "announcer_disadvatk_physical_9_1",
-      "dlg": "啊……那攻击看上去不太有效。需要写进管理须知里……"
+      "dlg": "啊……那攻擊看上去不太有效。需要寫進管理須知裏……"
     },
     {
       "id": "announcer_advatk_attr_9_1",
-      "dlg": "十分合适的管理方式。真是太好了。"
+      "dlg": "十分合適的管理方式。真是太好了。"
     },
     {
       "id": "announcer_disadvatk_attr_9_1",
-      "dlg": "我认为对那个实体使用其他方式会更好……"
+      "dlg": "我認爲對那個實體使用其他方式會更好……"
     },
     {
       "id": "announcer_enemy_specialbuff_9_1",
-      "dlg": "敌对实体正蠢蠢欲动。小心谨慎一些比较好。"
+      "dlg": "敵對實體正蠢蠢欲動。小心謹慎一些比較好。"
     },
     {
       "id": "announcer_enemy_specialdebuff_9_1",
-      "dlg": "啊，对方的气势减弱了！现在正是机会吧？"
+      "dlg": "啊，對方的氣勢減弱了！現在正是機會吧？"
     },
     {
       "id": "announcer_ally_specialbuff_9_1",
-      "dlg": "大家，看上去兴致正旺。"
+      "dlg": "大家，看上去興致正旺。"
     },
     {
       "id": "announcer_ally_specialdebuff_9_1",
-      "dlg": "但丁经理……稍稍让罪人们休息一下怎么样……"
+      "dlg": "但丁經理……稍稍讓罪人們休息一下怎麼樣……"
     },
     {
       "id": "announcer_enemy_destroy_9_1",
-      "dlg": "成功破坏了一个部位！这下事情能稍微轻松些了。"
+      "dlg": "成功破壞了一個部位！這下事情能稍微輕鬆些了。"
     },
     {
       "id": "announcer_enemy_destroy_9_2",
-      "dlg": "缺损部位的管理须知也要另外记下才行……"
+      "dlg": "缺損部位的管理須知也要另外記下才行……"
     },
     {
       "id": "announcer_round_takebigdmg_9_1",
-      "dlg": "怎么会……！大家，都没事吧？"
+      "dlg": "怎麼會……！大家，都沒事吧？"
     },
     {
       "id": "announcer_round_takebigdmg_9_2",
-      "dlg": "攻击太过强力了……但愿不会有事……"
+      "dlg": "攻擊太過強力了……但願不會有事……"
     },
     {
       "id": "announcer_round_givebigdmg_9_1",
-      "dlg": "哇！刚刚那是怎么做到的？吓我一跳……！"
+      "dlg": "哇！剛剛那是怎麼做到的？嚇我一跳……！"
     },
     {
       "id": "announcer_round_givebigdmg_9_2",
-      "dlg": "多亏刚刚的攻击能轻松不少……太好了！"
+      "dlg": "多虧剛剛的攻擊能輕鬆不少……太好了！"
     },
     {
       "id": "announcer_multikillenemy_9_1",
-      "dlg": "一次就能处理那么多……简直像魔弹射手一样……"
+      "dlg": "一次就能處理那麼多……簡直像魔彈射手一樣……"
     },
     {
       "id": "announcer_equip_9_1",
-      "dlg": "这里是……尤莉。突然把这种事交给我，让我有些困惑……"
+      "dlg": "這裏是……尤莉。突然把這種事交給我，讓我有些困惑……"
     }
   ]
 }

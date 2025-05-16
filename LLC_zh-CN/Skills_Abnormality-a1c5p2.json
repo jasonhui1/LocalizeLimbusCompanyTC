@@ -11,21 +11,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标额外造成3点打击伤害"
+                  "desc": "[OnSucceedAttack] 對目標額外造成3點打擊傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标额外造成3点打击伤害"
+                  "desc": "[OnSucceedAttack] 對目標額外造成3點打擊傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -38,27 +38,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "脚踢",
+          "name": "腳踢",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标额外造成5点打击伤害"
+                  "desc": "[OnSucceedAttack] 對目標額外造成5點打擊傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标额外造成5点打击伤害"
+                  "desc": "[OnSucceedAttack] 對目標額外造成5點打擊傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -71,14 +71,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "偿还",
+          "name": "償還",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去5点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去5點理智值"
                 }
               ]
             }
@@ -91,8 +91,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "威严",
-          "desc": "[StartBattle] 使全体友方单位获得1层强壮 \n[StartBattle] 对理智值最低的2名敌方单位施加2层虚弱 ",
+          "name": "威嚴",
+          "desc": "[StartBattle] 使全體友方單位獲得1層強壯 \n[StartBattle] 對理智值最低的2名敵方單位施加2層虛弱 ",
           "coinlist": [
             {
               "coindescs": [
@@ -110,8 +110,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "铭刻于身",
-          "desc": "[StartBattle] 使自身获得2层大哥的试炼 。下回合对自身施加5层束缚 。",
+          "name": "銘刻於身",
+          "desc": "[StartBattle] 使自身獲得2層大哥的試煉 。下回合對自身施加5層束縛 。",
           "coinlist": [
             {
               "coindescs": [
@@ -129,23 +129,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "注意背后！",
-          "desc": "若目标的理智值不高于0点，则使本技能的硬币威力+3",
+          "name": "注意背後！",
+          "desc": "若目標的理智值不高於0點，則使本技能的硬幣威力+3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复10点理智值"
+                  "desc": "[OnSucceedAttack] 使自身恢復10點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 与2层虚弱 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 與2層虛弱 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标失去20点理智值"
+                  "desc": "[OnSucceedAttack] 使目標失去20點理智值"
                 }
               ]
             }
@@ -158,8 +158,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "全体集合",
-          "desc": "[StartBattle] 下回合召唤2名友方单位",
+          "name": "全體集合",
+          "desc": "[StartBattle] 下回合召喚2名友方單位",
           "coinlist": [
             {
               "coindescs": [
@@ -177,8 +177,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "牢记仇怨",
-          "desc": "[StartBattle] 使自身获得2层大哥的试炼 。下回合对自身施加5层束缚 ，使自身获得5层伤害强化 。",
+          "name": "牢記仇怨",
+          "desc": "[StartBattle] 使自身獲得2層大哥的試煉 。下回合對自身施加5層束縛 ，使自身獲得5層傷害強化 。",
           "coinlist": [
             {
               "coindescs": [
@@ -196,16 +196,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我的理发啊啊啊券！！！",
-          "desc": "若主要目标的理智值不高于0点，则使本技能的最终威力+5",
+          "name": "我的理髮啊啊啊券！！！",
+          "desc": "若主要目標的理智值不高於0點，則使本技能的最終威力+5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移30"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移30"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }

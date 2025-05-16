@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "后方射击",
-          "desc": "使本技能暴击时造成的伤害+10%\n[WhenUse] 若自身的呼吸法 强度不低于10级，则使本技能的基础威力+1\n[WhenUse] 使自身增加2级呼吸法 强度",
+          "name": "後方射擊",
+          "desc": "使本技能暴擊時造成的傷害+10%\n[WhenUse] 若自身的呼吸法 強度不低於10級，則使本技能的基礎威力+1\n[WhenUse] 使自身增加2級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             }
@@ -27,16 +27,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "前方射击",
-          "desc": "使本技能暴击时造成的伤害+10%\n[WhenUse] 若自身的呼吸法 强度不低于10级，则使本技能的基础威力+1\n[WhenUse] 使自身获得3层呼吸法 ",
+          "name": "前方射擊",
+          "desc": "使本技能暴擊時造成的傷害+10%\n[WhenUse] 若自身的呼吸法 強度不低於10級，則使本技能的基礎威力+1\n[WhenUse] 使自身獲得3層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層沉淪 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加3層流血 "
                 }
               ]
             }
@@ -49,8 +49,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "贯穿",
-          "desc": "[WhenUse] 使自身增加2级呼吸法 强度\n[WhenUse] 若自身的呼吸法 强度不低于10级，则使本技能的基础威力+1\n[WhenUse] 自身每带有5层呼吸法 ，使本技能的硬币威力+1(最多+2)\n[WinDuel] 使本攻击技能暴击时造成的伤害+50%",
+          "name": "貫穿",
+          "desc": "[WhenUse] 使自身增加2級呼吸法 強度\n[WhenUse] 若自身的呼吸法 強度不低於10級，則使本技能的基礎威力+1\n[WhenUse] 自身每帶有5層呼吸法 ，使本技能的硬幣威力+1(最多+2)\n[WinDuel] 使本攻擊技能暴擊時造成的傷害+50%",
           "coinlist": [
             {
               "coindescs": [
@@ -58,10 +58,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
                 },
                 {
-                  "desc": "本硬币仅对主要目标造成伤害。"
+                  "desc": "本硬幣僅對主要目標造成傷害。"
                 }
               ]
             },
@@ -71,13 +71,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "本硬币仅对次要目标造成伤害\n- 若本技能的第一枚硬币未击杀目标或使目标陷入混乱，则仅随机对1名次要目标造成伤害"
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺目標或使目標陷入混亂，則僅隨機對1名次要目標造成傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             }
@@ -90,13 +90,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "重装射击",
-          "desc": "使本技能暴击时造成的伤害+50%\n[WhenUse] 自身每带有5层呼吸法 ，使本技能的硬币威力+1 (最多+3)\n[WhenUse] 使自身增加3级呼吸法 强度",
+          "name": "重裝射擊",
+          "desc": "使本技能暴擊時造成的傷害+50%\n[WhenUse] 自身每帶有5層呼吸法 ，使本技能的硬幣威力+1 (最多+3)\n[WhenUse] 使自身增加3級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 重复使用本硬币1次"
+                  "desc": "[CriticalOnSucceedAttack] 重複使用本硬幣1次"
                 }
               ]
             }
@@ -109,16 +109,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "掌握弱点",
-          "desc": "[DefeatDuel] 使自身的呼吸法 强度减半\n- 本回合期间增加的呼吸法 强度减半\n- 下回合对自身施加4层麻痹 ",
+          "name": "掌握弱點",
+          "desc": "[DefeatDuel] 使自身的呼吸法 強度減半\n- 本回合期間增加的呼吸法 強度減半\n- 下回合對自身施加4層麻痹 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級沉淪 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             }
@@ -131,8 +131,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "指定对象射击",
-          "desc": "指定带有[FellBulletMark]的目标\n自身每带有5级呼吸法 强度，使本技能的硬币威力+1(最多+2)\n自身每带有3层呼吸法 ，使本技能的基础威力+1(最多+3)\n[WhenUse] 若目标未带有[FellBulletMark]，则对自身施加1层麻痹 与3层易损 \n[EndSkill] 若击杀目标，则使自身增加10级呼吸法 强度并使全体敌方单位失去15点理智值",
+          "name": "指定對象射擊",
+          "desc": "指定帶有[FellBulletMark]的目標\n自身每帶有5級呼吸法 強度，使本技能的硬幣威力+1(最多+2)\n自身每帶有3層呼吸法 ，使本技能的基礎威力+1(最多+3)\n[WhenUse] 若目標未帶有[FellBulletMark]，則對自身施加1層麻痹 與3層易損 \n[EndSkill] 若擊殺目標，則使自身增加10級呼吸法 強度並使全體敵方單位失去15點理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -140,13 +140,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "本硬币仅对主要目标造成伤害。"
+                  "desc": "本硬幣僅對主要目標造成傷害。"
                 },
                 {
-                  "desc": "若目标带有[FellBulletMark]，则使本硬币造成的伤害+100%"
+                  "desc": "若目標帶有[FellBulletMark]，則使本硬幣造成的傷害+100%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有[FellBulletMark]，则下回合使自身增加10级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 若目標帶有[FellBulletMark]，則下回合使自身增加10級呼吸法 強度"
                 }
               ]
             },
@@ -156,10 +156,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "本硬币仅对次要目标造成伤害\n- 若本技能的第一枚硬币未击杀目标，则仅随机对2名次要目标造成伤害"
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺目標，則僅隨機對2名次要目標造成傷害"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加5级沉沦 强度与5级流血 强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加5級沉淪 強度與5級流血 強度"
                 }
               ]
             }
@@ -172,8 +172,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "调整对象射击",
-          "desc": "[CantIdentify]\n[CantChangeTarget]\n指定带有[FellBulletMark]的目标\n若自身未攻击标记的目标，则取消本技能\n自身每带有5级呼吸法 强度，使本技能的硬币威力+1(最多+2)\n自身每带有3层呼吸法 ，使本技能的基础威力+1(最多+3)\n[EndSkill] 若击杀目标，则使自身增加10级呼吸法 强度并使全体敌方单位失去15点理智值",
+          "name": "調整對象射擊",
+          "desc": "[CantIdentify]\n[CantChangeTarget]\n指定帶有[FellBulletMark]的目標\n若自身未攻擊標記的目標，則取消本技能\n自身每帶有5級呼吸法 強度，使本技能的硬幣威力+1(最多+2)\n自身每帶有3層呼吸法 ，使本技能的基礎威力+1(最多+3)\n[EndSkill] 若擊殺目標，則使自身增加10級呼吸法 強度並使全體敵方單位失去15點理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -181,13 +181,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "本硬币仅对主要目标造成伤害"
+                  "desc": "本硬幣僅對主要目標造成傷害"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标带有[FellBulletMark]，则击杀目标"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目標帶有[FellBulletMark]，則擊殺目標"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身增加10级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 下回合使自身增加10級呼吸法 強度"
                 }
               ]
             },
@@ -197,10 +197,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "本硬币仅对次要目标造成伤害\n- 若本技能的第一枚硬币未击杀目标，则仅随机对1名次要目标造成伤害"
+                  "desc": "本硬幣僅對次要目標造成傷害\n- 若本技能的第一枚硬幣未擊殺目標，則僅隨機對1名次要目標造成傷害"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加5级沉沦 强度与5级流血 强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加5級沉淪 強度與5級流血 強度"
                 }
               ]
             }
@@ -213,16 +213,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "啮",
-          "desc": "[WhenUse] 自身每带有4级呼吸法 强度，使本技能的最终威力+1(最多+5)",
+          "name": "齧",
+          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1(最多+5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加3级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 使自身增加3級呼吸法 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使自身获得3层呼吸法 "
+                  "desc": "[CriticalOnSucceedAttack] 使自身獲得3層呼吸法 "
                 }
               ]
             }
@@ -235,26 +235,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "摧毁",
-          "desc": "[WhenUse] 自身每带有4级呼吸法 强度，使本技能的最终威力+1(最多+5)",
+          "name": "摧毀",
+          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1(最多+5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使自身获得2层呼吸法 "
+                  "desc": "[CriticalOnSucceedAttack] 使自身獲得2層呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使自身获得2层呼吸法 "
+                  "desc": "[CriticalOnSucceedAttack] 使自身獲得2層呼吸法 "
                 }
               ]
             }
@@ -267,8 +267,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "痛苦的呼吸声",
-          "desc": "[WhenUse] 自身每带有8级呼吸法 强度，使本技能的最终威力+1(最多+5)\n[WhenUse] 自身每带有8层呼吸法 ，使本技能的硬币威力+1(最多+5)\n[DefeatDuel] 使自身的呼吸法 强度减半\n[EndSkill] 使自身的呼吸法 强度与呼吸法 层数减半",
+          "name": "痛苦的呼吸聲",
+          "desc": "[WhenUse] 自身每帶有8級呼吸法 強度，使本技能的最終威力+1(最多+5)\n[WhenUse] 自身每帶有8層呼吸法 ，使本技能的硬幣威力+1(最多+5)\n[DefeatDuel] 使自身的呼吸法 強度減半\n[EndSkill] 使自身的呼吸法 強度與呼吸法 層數減半",
           "coinlist": [
             {},
             {},
@@ -278,7 +278,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度)%"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度)%"
                 }
               ]
             }
@@ -291,8 +291,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蜷缩",
-          "desc": "[WhenUse] 自身每带有4级呼吸法 强度，使本技能的最终威力+1(最多+5)\n[WhenUse] 使自身增加4级呼吸法 强度\n- 若现存体力不高于50%，则额外使自身获得4层呼吸法",
+          "name": "蜷縮",
+          "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1(最多+5)\n[WhenUse] 使自身增加4級呼吸法 強度\n- 若現存體力不高於50%，則額外使自身獲得4層呼吸法",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +311,7 @@
         {
           "level": 1,
           "name": "那是…我的！",
-          "desc": "[CantChangeTarget]\n[WhenUse] 自身每带有4级呼吸法 强度，使本技能的拼点威力+1(最多+3)\n[WhenUse] 自身每带有4层呼吸法 ，使本技能的拼点威力+1(最多+3)",
+          "desc": "[CantChangeTarget]\n[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的拼點威力+1(最多+3)\n[WhenUse] 自身每帶有4層呼吸法 ，使本技能的拼點威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -319,10 +319,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 夺取目标的呼吸法 强度与呼吸法 层数(最多夺取6级与6层)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 奪取目標的呼吸法 強度與呼吸法 層數(最多奪取6級與6層)"
                 },
                 {
-                  "desc": "[DefeatDuelAttack] 夺取目标1/3的呼吸法 强度与呼吸法 层数(最多夺取2级与2层)"
+                  "desc": "[DefeatDuelAttack] 奪取目標1/3的呼吸法 強度與呼吸法 層數(最多奪取2級與2層)"
                 }
               ]
             }
@@ -335,8 +335,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "分担痛苦",
-          "desc": "[WhenUse] 自身每带有8级呼吸法 强度，使本技能的最终威力+1(最多+5)\n[WhenUse] 自身每带有8层呼吸法 ，使本技能的硬币威力+1(最多+5)\n[DefeatDuel] 使本技能造成的伤害-75%，且本技能造成的伤害不会使目标陷入混乱\n[EndSkill] 使自身的呼吸法 强度与呼吸法 层数减半",
+          "name": "分擔痛苦",
+          "desc": "[WhenUse] 自身每帶有8級呼吸法 強度，使本技能的最終威力+1(最多+5)\n[WhenUse] 自身每帶有8層呼吸法 ，使本技能的硬幣威力+1(最多+5)\n[DefeatDuel] 使本技能造成的傷害-75%，且本技能造成的傷害不會使目標陷入混亂\n[EndSkill] 使自身的呼吸法 強度與呼吸法 層數減半",
           "coinlist": [
             {
               "coindescs": [
@@ -344,7 +344,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 下回合对目标施加2层束缚 "
+                  "desc": "[WinDuelAttack] 下回合對目標施加2層束縛 "
                 }
               ]
             },
@@ -354,7 +354,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 对目标施加2层易损 "
+                  "desc": "[WinDuelAttack] 對目標施加2層易損 "
                 }
               ]
             },
@@ -364,7 +364,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%"
                 }
               ]
             }
@@ -377,8 +377,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "自痛苦的人生之中解脱",
-          "desc": "[StartBattle] 对自身施加2层易损 ",
+          "name": "自痛苦的人生之中解脫",
+          "desc": "[StartBattle] 對自身施加2層易損 ",
           "coinlist": [
             {
               "coindescs": [
@@ -396,8 +396,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "执拗致伤",
-          "desc": "若目标的流血 强度不低于6级，则令本技能增加的流血 强度与施加的流血 层数额外+1",
+          "name": "執拗致傷",
+          "desc": "若目標的流血 強度不低於6級，則令本技能增加的流血 強度與施加的流血 層數額外+1",
           "coinlist": [
             {
               "coindescs": [
@@ -405,7 +405,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
@@ -415,7 +415,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             }
@@ -428,20 +428,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "致伤",
-          "desc": "若目标的流血 强度不低于6级，则令本技能增加的流血 强度与施加的流血 层数额外+1",
+          "name": "致傷",
+          "desc": "若目標的流血 強度不低於6級，則令本技能增加的流血 強度與施加的流血 層數額外+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 }
               ]
             }
@@ -454,8 +454,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "紧缠的棘蔓",
-          "desc": "若目标的流血 强度不低于6级，则令本技能增加的流血 强度额外+1级",
+          "name": "緊纏的棘蔓",
+          "desc": "若目標的流血 強度不低於6級，則令本技能增加的流血 強度額外+1級",
           "coinlist": [
             {
               "coindescs": [
@@ -463,10 +463,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             }
@@ -479,20 +479,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "饥渴的花瓣",
-          "desc": "指定流血 强度与层数之和最高的目标\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的最终威力+2",
+          "name": "飢渴的花瓣",
+          "desc": "指定流血 強度與層數之和最高的目標\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的最終威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层色欲易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層色慾易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 触发目标的流血 1次(使目标的流血 层数减少1层)"
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次(使目標的流血 層數減少1層)"
                 }
               ]
             }
@@ -505,20 +505,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "爆发的花瓣",
-          "desc": "指定流血 强度与层数之和最高的目标\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的最终威力+2",
+          "name": "爆發的花瓣",
+          "desc": "指定流血 強度與層數之和最高的目標\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的最終威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层色欲易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層色慾易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 触发目标所有流血 (使其流血 层数全部减少)"
+                  "desc": "[OnSucceedAttack] 觸發目標所有流血 (使其流血 層數全部減少)"
                 }
               ]
             }
@@ -531,13 +531,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "荆棘风暴",
-          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的最终威力+2",
+          "name": "荊棘風暴",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的最終威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 触发目标的流血 1次(使目标的流血 层数减少1层)"
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次(使目標的流血 層數減少1層)"
                 }
               ]
             }
@@ -550,8 +550,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "饥渴的荆棘",
-          "desc": "[StartBattle] 使自身获得3层伤害强化 并对自身施加2层易损 ",
+          "name": "飢渴的荊棘",
+          "desc": "[StartBattle] 使自身獲得3層傷害強化 並對自身施加2層易損 ",
           "coinlist": [
             {
               "coindescs": [
@@ -559,10 +559,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
@@ -572,10 +572,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             },
@@ -585,10 +585,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层流血 "
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加1層流血 "
                 }
               ]
             }
@@ -602,7 +602,7 @@
         {
           "level": 1,
           "name": "止不住的血",
-          "desc": "[DuelCounter]\n[WhenUse] 与本技能拼点的目标在拼点进行时流血 层数不会减少",
+          "desc": "[DuelCounter]\n[WhenUse] 與本技能拼點的目標在拼點進行時流血 層數不會減少",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 触发目标的流血 1次，并立即消耗该流血 伤害生成的血宴 "
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害生成的血宴 "
                 }
               ]
             },
@@ -620,7 +620,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 触发目标的流血 1次，并立即消耗该流血 伤害生成的血宴 "
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害生成的血宴 "
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 触发目标的流血 1次，并立即消耗该流血 伤害生成的血宴 "
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害生成的血宴 "
                 }
               ]
             }
@@ -643,8 +643,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "沉溺于养分",
-          "desc": "血宴 层数不低于100层时使用\n[EndBattle] 消耗至多100层血宴 并触发以下效果\n- 使自身本体与躯干部位恢复相当于消耗的血宴 层数的体力\n- 每消耗20层血宴 ，下回合使自身获得1层攻击等级提升 ",
+          "name": "沉溺於養分",
+          "desc": "血宴 層數不低於100層時使用\n[EndBattle] 消耗至多100層血宴 並觸發以下效果\n- 使自身本體與軀幹部位恢復相當於消耗的血宴 層數的體力\n- 每消耗20層血宴 ，下回合使自身獲得1層攻擊等級提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -663,7 +663,7 @@
         {
           "level": 1,
           "name": "渴望的棘蔓",
-          "desc": "[WhenUse] 消耗至多100层血宴 并触发以下效果\n- 使自身本体与躯干部位恢复相当于消耗的血宴 层数的体力\n- 每消耗20层血宴 ，下回合使自身获得1层攻击等级提升 \n[DefeatDuel] 使本技能的最终威力-5\n[EndSkill] 若本技能消耗的血宴 层数不高于30层，则下回合对自身施加2层易损 ",
+          "desc": "[WhenUse] 消耗至多100層血宴 並觸發以下效果\n- 使自身本體與軀幹部位恢復相當於消耗的血宴 層數的體力\n- 每消耗20層血宴 ，下回合使自身獲得1層攻擊等級提升 \n[DefeatDuel] 使本技能的最終威力-5\n[EndSkill] 若本技能消耗的血宴 層數不高於30層，則下回合對自身施加2層易損 ",
           "coinlist": [
             {
               "coindescs": [

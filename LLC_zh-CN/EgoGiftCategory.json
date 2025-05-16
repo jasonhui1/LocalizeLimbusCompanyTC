@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "Combustion",
-      "name": "烧伤"
+      "name": "燒傷"
     },
     {
       "id": "Laceration",
@@ -10,7 +10,7 @@
     },
     {
       "id": "Vibration",
-      "name": "震颤"
+      "name": "震顫"
     },
     {
       "id": "Burst",
@@ -18,7 +18,7 @@
     },
     {
       "id": "Sinking",
-      "name": "沉沦"
+      "name": "沉淪"
     },
     {
       "id": "Breath",
@@ -30,11 +30,11 @@
     },
     {
       "id": "Random",
-      "name": "随机"
+      "name": "隨機"
     },
     {
       "id": "Slash",
-      "name": "斩击"
+      "name": "斬擊"
     },
     {
       "id": "Penetrate",
@@ -42,7 +42,7 @@
     },
     {
       "id": "Hit",
-      "name": "打击"
+      "name": "打擊"
     },
     {
       "id": "None",

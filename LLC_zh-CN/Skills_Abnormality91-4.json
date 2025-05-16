@@ -5,27 +5,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "胡乱刺击",
+          "name": "胡亂刺擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -38,13 +38,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "强力！刺击",
+          "name": "強力！刺擊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加4层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加4層破裂 "
                 }
               ]
             }
@@ -63,14 +63,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -83,16 +83,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蟹铲！！！",
-          "desc": "[CantIdentify]\n目标每带有5层破裂 ，使本技能造成的伤害+20%",
+          "name": "蟹鏟！！！",
+          "desc": "[CantIdentify]\n目標每帶有5層破裂 ，使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加5层破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層破裂 "
                 }
               ]
             }
@@ -106,12 +106,12 @@
         {
           "level": 1,
           "name": "激情四蟹",
-          "desc": "[CantIdentify]\n目标每带有5层破裂 ，使本技能造成的伤害+20%\n[EndSkill] 回合结束时，若除自身以外的螃蟹少于5只，则召唤3只螃蟹(最多召唤5只)",
+          "desc": "[CantIdentify]\n目標每帶有5層破裂 ，使本技能造成的傷害+20%\n[EndSkill] 回合結束時，若除自身以外的螃蟹少於5只，則召喚3只螃蟹(最多召喚5只)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目標增加5級破裂 強度"
                 }
               ]
             }
@@ -124,8 +124,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "泡沫护身",
-          "desc": "[StartBattle] 若自身带有护盾时受到攻击，则反弹7点伤害\n使目标增加1级破裂 强度",
+          "name": "泡沫護身",
+          "desc": "[StartBattle] 若自身帶有護盾時受到攻擊，則反彈7點傷害\n使目標增加1級破裂 強度",
           "coinlist": [
             {}
           ]
@@ -137,8 +137,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "泡沫护身",
-          "desc": "[StartBattle] 若自身带有护盾时受到攻击，则反弹7点伤害\n使目标增加1级破裂 强度",
+          "name": "泡沫護身",
+          "desc": "[StartBattle] 若自身帶有護盾時受到攻擊，則反彈7點傷害\n使目標增加1級破裂 強度",
           "coinlist": [
             {}
           ]

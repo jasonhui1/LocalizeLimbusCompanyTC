@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "理解",
-          "desc": "若目标的理智值不高于10点，则使本技能的拼点威力+1\n[WhenUse] 使自身获得1层[VioletUnderstand]",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "认知",
-          "desc": "若目标的理智值不高于10点，则使本技能的拼点威力+1\n[WhenUse] 使自身获得2层[VioletUnderstand]",
+          "name": "認知",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             }
@@ -51,19 +51,19 @@
         {
           "level": 1,
           "name": "拯救",
-          "desc": "若目标的理智值不高于10点，则使本技能的拼点威力+1\n[WhenUse] 使自身获得1层[VioletUnderstand]",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             }
@@ -77,7 +77,7 @@
         {
           "level": 1,
           "name": "不能理解",
-          "desc": "[WhenUse] 使自身获得2层[VioletUnderstand]",
+          "desc": "[WhenUse] 使自身獲得2層[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
@@ -95,16 +95,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "崩坏",
-          "desc": "[CantDuel]\n[EndSkill] 自身阵亡",
+          "name": "崩壞",
+          "desc": "[CantDuel]\n[EndSkill] 自身陣亡",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层嫉妒易损 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層嫉妒易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成10~14点理智伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成10~14點理智傷害"
                 }
               ]
             }
@@ -118,19 +118,19 @@
         {
           "level": 1,
           "name": "慈悲",
-          "desc": "若目标的理智值不高于20点，则使本技能的拼点威力+1",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             }
@@ -143,20 +143,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "爱",
-          "desc": "若目标的理智值不高于20点，则使本技能的拼点威力+1",
+          "name": "愛",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層嫉妒易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             }
@@ -169,20 +169,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪烁的理解的文字",
+          "name": "閃爍的理解的文字",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             }
@@ -195,20 +195,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "闪烁的理解的文字",
-          "desc": "若目标的理智值不高于20点，则使本技能的拼点威力+1",
+          "name": "閃爍的理解的文字",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层嫉妒易损 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層嫉妒易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MentalCrack]"
                 }
               ]
             }
@@ -222,7 +222,7 @@
         {
           "level": 1,
           "name": "不能理解",
-          "desc": "[WhenUse] 使自身获得2层守护 ",
+          "desc": "[WhenUse] 使自身獲得2層守護 ",
           "coinlist": [
             {
               "coindescs": [
@@ -240,13 +240,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "涌出的安息之臂",
+          "name": "湧出的安息之臂",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成100点体力伤害"
+                  "desc": "[OnSucceedAttack] 對目標造成100點體力傷害"
                 }
               ]
             }
