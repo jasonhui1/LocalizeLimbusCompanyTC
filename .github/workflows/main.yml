@@ -1,0 +1,81 @@
+name: Auto Translate Chinese (S2T) & Sync Upstream
+
+on:
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+  schedule:
+    # Runs, for example, every day at 3 AM UTC. Adjust as needed.
+    # Use https://crontab.guru to help define your cron schedule.
+    - cron: '0 3 * * *'
+  push:
+    branches:
+      - main # Or your fork's default branch (e.g., master)
+
+permissions:
+  contents: write # Necessary to commit and push changes to your fork
+
+jobs:
+  translate_and_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Fork
+        uses: actions/checkout@v4
+        with:
+          # Checkout your fork. We need full history for merging.
+          fetch-depth: 0
+          # If your script is in your fork, it will be checked out here.
+          # Use a Personal Access Token (PAT) if you need to push to a protected branch
+          # or if the default GITHUB_TOKEN doesn't have enough permissions for some reason.
+          # token: ${{ secrets.YOUR_PAT_WITH_REPO_WRITE_ACCESS }}
+
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Specify your desired Python version
+
+      - name: Install dependencies
+        run: pip install opencc-python-reimplemented
+
+      - name: Configure Git User
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Add upstream remote and fetch
+        # Replace <URL_OF_ORIGINAL_UPSTREAM_REPO> with the actual HTTPS URL of the repository you forked
+        # e.g., https://github.com/original-owner/original-repo.git
+        run: |
+          git remote add upstream https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany
+          git fetch upstream
+
+      - name: Merge changes from upstream
+        # Replace 'main' with the default branch of the upstream repo if it's different
+        # This merges upstream's main into your fork's current branch (e.g., main)
+        run: |
+          # Ensure you are on the correct branch in your fork
+          git checkout main # Or your fork's default branch
+          # Attempt to merge. If there are conflicts, the workflow will fail here,
+          # which is often desired so you can resolve them manually.
+          # --no-commit and --no-ff can be used if you want to combine upstream changes
+          # with translation changes into a single commit later.
+          # For simplicity, this example tries a direct merge.
+          git merge upstream/main -m "Merge upstream changes" || echo "Merge failed or no new changes from upstream."
+        # If the merge fails due to conflicts, the script will stop.
+        # You can add 'continue-on-error: true' if you want to proceed even if merge fails,
+        # but that's generally not recommended without careful conflict handling.
+
+      - name: Run Translation Script
+        # Assumes your script is named 'translate_json.py' and is in the root.
+        # The '.' tells the script to process the current directory (the repo root).
+        run: python translate_json.py .
+
+      - name: Commit and push changes
+        run: |
+          git add . # Stage all changes (including those from your script)
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit after translation."
+          else
+            git commit -m "Automated S2T Chinese translation & upstream sync"
+            git push
+          fi
