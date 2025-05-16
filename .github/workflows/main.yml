@@ -69,13 +69,81 @@ jobs:
         # The '.' tells the script to process the current directory (the repo root).
         run: python translate_limbus_github.py .
 
+
       - name: Commit and push changes
+        id: commit_push # Give an ID to this step for output referencing
         run: |
-          git add . # Stage all changes (including those from your script)
-          # Check if there are any changes to commit
+          git add .
           if git diff --staged --quiet; then
-            echo "No changes to commit after translation."
+            echo "No changes to commit after translation and sync."
+            echo "changes_committed=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "Automated S2T Chinese translation & upstream sync"
-            git push
+            echo "Changes detected, committing and pushing..."
+            COMMIT_MSG="Automated S2T translation & upstream sync ($(date +'%Y-%m-%d %H:%M:%S UTC'))"
+            git commit -m "$COMMIT_MSG"
+            
+            # Retry push operation up to 3 times with a delay
+            for i in 1 2 3; do
+              if git push; then
+                echo "Push successful on attempt $i."
+                break
+              fi
+              if [ $i -lt 3 ]; then
+                echo "Push attempt $i failed, retrying in 15s..."
+                sleep 15
+              else
+                echo "Push failed after $i attempts."
+                exit 1 # Exit with error if push fails after all retries
+              fi
+            done
+            echo "changes_committed=true" >> $GITHUB_OUTPUT
           fi
+
+      - name: Install zip utility
+        if: steps.commit_push.outputs.changes_committed == 'true'
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y zip
+
+      - name: Archive the folder for release
+        id: archive_folder # Give an ID to this step
+        if: steps.commit_push.outputs.changes_committed == 'true'
+        run: |
+          FOLDER_TO_ARCHIVE="LimbusCompany_Data/Lang/LLC_zh-CN"
+          # This is the name of the ZIP file that will be created and uploaded
+          DESIRED_ZIP_NAME="LimbusCompany_Data.zip" 
+          
+          if [ -d "$FOLDER_TO_ARCHIVE" ]; then
+            # The command below will create a zip file named LimbusCompany_Data.zip.
+            # Inside this zip file, there will be a folder named LLC_zh-CN containing all its original content.
+            zip -r "$DESIRED_ZIP_NAME" "$FOLDER_TO_ARCHIVE"
+            echo "Successfully created $DESIRED_ZIP_NAME from $FOLDER_TO_ARCHIVE"
+            echo "archive_path=$DESIRED_ZIP_NAME" >> $GITHUB_OUTPUT # Set output for the path of the archive
+            echo "archive_created=true" >> $GITHUB_OUTPUT          # Set output to indicate archive creation
+          else
+            echo "Warning: Folder $FOLDER_TO_ARCHIVE not found. No archive will be created for it."
+            echo "archive_created=false" >> $GITHUB_OUTPUT
+            # If LLC_zh-CN is mandatory for a release, you might want to fail the job here:
+            # exit 1 
+          fi
+
+      - name: Create Release and Upload Asset
+        # This step only runs if changes were committed AND the specific archive was successfully created.
+        if: steps.commit_push.outputs.changes_committed == 'true' && steps.archive_folder.outputs.archive_created == 'true'
+        uses: softprops/action-gh-release@v2 # Using v2 of the action
+        with:
+          # Creates a unique tag for each run to ensure a new release is made.
+          # Example: translation-run-1234567
+          tag_name: translation-run-${{ github.run_id }}
+          name: "Automated Translation Release (Run ${{ github.run_id }})"
+          body: |
+            Automated Simplified to Traditional Chinese translation update.
+            This release includes the latest translations and synced changes from the upstream repository.
+            
+            The folder 'LLC_zh-CN' from the repository has been packaged into the asset below, named '${{ steps.archive_folder.outputs.archive_path }}'.
+          files: ${{ steps.archive_folder.outputs.archive_path }} # Path to the LimbusCompany_Data.zip
+          # draft: false # Default - publishes the release immediately
+          # prerelease: false # Default - marks as a full production release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is automatically provided by GitHub
+
