@@ -107,25 +107,49 @@ jobs:
 
       - name: Archive the folder for release
         id: archive_folder # Give an ID to this step
-        if: steps.commit_push.outputs.changes_committed == 'true'
+        # This step only runs if changes were committed.
+        if: steps.commit_push.outputs.changes_committed == 'true' 
         run: |
-          FOLDER_TO_ARCHIVE="LimbusCompany_Data/Lang/LLC_zh-CN"
+          ORIGINAL_FOLDER_NAME="LLC_zh-CN"
+          # Define the new parent structure
+          NEW_PARENT_FOLDER="LimbusCompany_Data"
+          NEW_SUB_FOLDER="Lang"
           # This is the name of the ZIP file that will be created and uploaded
-          DESIRED_ZIP_NAME="LimbusCompany_Data.zip" 
+          DESIRED_ZIP_NAME="LimbusCompany_Data.zip"
           
-          if [ -d "$FOLDER_TO_ARCHIVE" ]; then
-            # The command below will create a zip file named LimbusCompany_Data.zip.
-            # Inside this zip file, there will be a folder named LLC_zh-CN containing all its original content.
-            zip -r "$DESIRED_ZIP_NAME" "$FOLDER_TO_ARCHIVE"
-            echo "Successfully created $DESIRED_ZIP_NAME from $FOLDER_TO_ARCHIVE"
-            echo "archive_path=$DESIRED_ZIP_NAME" >> $GITHUB_OUTPUT # Set output for the path of the archive
+          # Check if the original folder exists in the workspace root
+          if [ -d "$GITHUB_WORKSPACE/$ORIGINAL_FOLDER_NAME" ]; then
+            echo "Original folder '$ORIGINAL_FOLDER_NAME' found."
+
+            # Create the target directory structure
+            # GITHUB_WORKSPACE is the root of your checkout
+            mkdir -p "$GITHUB_WORKSPACE/$NEW_PARENT_FOLDER/$NEW_SUB_FOLDER"
+            echo "Created directory structure: $GITHUB_WORKSPACE/$NEW_PARENT_FOLDER/$NEW_SUB_FOLDER"
+
+            # Move the original folder into the new structure
+            # The folder will retain its name 'LLC_zh-CN' inside 'Lang'
+            mv "$GITHUB_WORKSPACE/$ORIGINAL_FOLDER_NAME" "$GITHUB_WORKSPACE/$NEW_PARENT_FOLDER/$NEW_SUB_FOLDER/$ORIGINAL_FOLDER_NAME"
+            echo "Moved '$ORIGINAL_FOLDER_NAME' to '$NEW_PARENT_FOLDER/$NEW_SUB_FOLDER/$ORIGINAL_FOLDER_NAME'"
+
+            # Now, zip the NEW_PARENT_FOLDER ('LimbusCompany_Data')
+            # We need to cd into the GITHUB_WORKSPACE to get the desired structure in the zip
+            # or use -C option of zip if available and preferred.
+            # Using pushd/popd to manage directory changes safely.
+            pushd "$GITHUB_WORKSPACE"
+            zip -r "$DESIRED_ZIP_NAME" "$NEW_PARENT_FOLDER"
+            popd
+            
+            # The DESIRED_ZIP_NAME will be in GITHUB_WORKSPACE after pushd/popd
+            echo "Successfully created $DESIRED_ZIP_NAME with the structure $NEW_PARENT_FOLDER/$NEW_SUB_FOLDER/$ORIGINAL_FOLDER_NAME"
+            echo "archive_path=$GITHUB_WORKSPACE/$DESIRED_ZIP_NAME" >> $GITHUB_OUTPUT # Set output for the path of the archive
             echo "archive_created=true" >> $GITHUB_OUTPUT          # Set output to indicate archive creation
           else
-            echo "Warning: Folder $FOLDER_TO_ARCHIVE not found. No archive will be created for it."
+            echo "Warning: Original folder '$ORIGINAL_FOLDER_NAME' not found in $GITHUB_WORKSPACE. No archive will be created for it."
             echo "archive_created=false" >> $GITHUB_OUTPUT
             # If LLC_zh-CN is mandatory for a release, you might want to fail the job here:
             # exit 1 
           fi
+
 
       - name: Create Release and Upload Asset
         # This step only runs if changes were committed AND the specific archive was successfully created.
