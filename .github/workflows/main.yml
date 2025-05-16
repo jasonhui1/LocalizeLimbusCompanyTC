@@ -65,9 +65,9 @@ jobs:
         # but that's generally not recommended without careful conflict handling.
 
       - name: Run Translation Script
-        # Assumes your script is named 'translate_json.py' and is in the root.
+        # Assumes your script is named 'translate_limbus_github.py' and is in the root.
         # The '.' tells the script to process the current directory (the repo root).
-        run: python translate_json.py .
+        run: python translate_limbus_github.py .
 
       - name: Commit and push changes
         run: |
