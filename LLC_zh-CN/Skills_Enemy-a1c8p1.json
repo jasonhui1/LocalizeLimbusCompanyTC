@@ -50,8 +50,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "擊潰轎子",
           "desc": "[WhenUse] 若目標的[Laceration]強度不低於3級，則使本技能的拼點威力+1\n[WhenUse] 若目標的[Vibration]強度不低於4級，則使本技能的硬幣威力+1",
+=======
+          "name": "摧毁轿子",
+          "desc": "[WhenUse] 若目标的[Laceration]强度不低于3级，则使本技能的拼点威力+1\n[WhenUse] 若目标的[Vibration]强度不低于4级，则使本技能的硬币威力+1",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -936,8 +941,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "破像處決",
           "desc": "[WhenUse] 目標每帶有5級[Laceration]強度，使本技能的硬幣威力+1(最多+2)",
+=======
+          "name": "碎像处决",
+          "desc": "[WhenUse] 目标每带有5级[Laceration]强度，使本技能的硬币威力+1(最多+2)",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -1398,8 +1408,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "醉靠",
           "desc": "[WhenUse] 自身每帶有1層[SipOfAlcohol]，使自身獲得5點護盾(最多25點)\n[WhenUse] 每有1名敵方單位指定自身爲目標，使自身獲得1層[SipOfAlcohol](最多5層)",
+=======
+          "name": "醉倚",
+          "desc": "[WhenUse] 自身每带有1层[SipOfAlcohol]，使自身获得5点护盾(最多25点)\n[WhenUse] 每有1名敌方单位指定自身为目标，使自身获得1层[SipOfAlcohol](最多5层)",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [

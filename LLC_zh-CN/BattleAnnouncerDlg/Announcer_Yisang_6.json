@@ -26,7 +26,11 @@
     },
     {
       "id": "announcer_killenemy_6_1",
+<<<<<<< HEAD
       "dlg": "剛剛的戰鬥非常精彩。"
+=======
+      "dlg": "方才的战斗非常精彩。"
+>>>>>>> upstream/main
     },
     {
       "id": "announcer_ally_dead_6_1",

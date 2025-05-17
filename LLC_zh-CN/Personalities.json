@@ -541,10 +541,17 @@
     },
     {
       "id": 10507,
+<<<<<<< HEAD
       "title": "中指\n幼妹",
       "name": "默爾索",
       "nameWithTitle": "默爾索",
       "desc": "默爾索的第7人格"
+=======
+      "title": "中指\n幼弟",
+      "name": "默尔索",
+      "nameWithTitle": "默尔索",
+      "desc": "默尔索的第7人格"
+>>>>>>> upstream/main
     },
     {
       "id": 10707,

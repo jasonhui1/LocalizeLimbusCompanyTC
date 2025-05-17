@@ -331,8 +331,13 @@
         },
         {
           "level": 2,
+<<<<<<< HEAD
           "name": "格擋回擊",
           "desc": "[WinDuel] 下回合對目標施加3層 麻痹",
+=======
+          "name": "格挡回击",
+          "desc": "[WinDuel] 下回合对目标施加3层麻痹 ",
+>>>>>>> upstream/main
           "keywords": [
             "Paralysis"
           ],
@@ -6666,7 +6671,11 @@
             {
               "coindescs": [
                 {
+<<<<<<< HEAD
                   "desc": "[OnSucceedAttack] 使自身恢復本硬幣傷害量50%的體力\n 目標每帶有1層尖釘 ，使自身體力恢復量+3%"
+=======
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力\n目标每带有1层尖钉 ，使自身体力恢复量+3%"
+>>>>>>> upstream/main
                 }
               ]
             }

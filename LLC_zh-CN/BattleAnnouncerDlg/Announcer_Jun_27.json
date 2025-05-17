@@ -54,7 +54,11 @@
     },
     {
       "id": "announcer_advatk_physical_27_1",
+<<<<<<< HEAD
       "dlg": "這傢伙就如同魔芋那樣柔弱。只是輕輕接觸就被斬開了。"
+=======
+      "dlg": "这家伙就如同魔芋那样柔弱。只消是轻轻接触就被斩开了。"
+>>>>>>> upstream/main
     },
     {
       "id": "announcer_disadvatk_physical_27_1",
