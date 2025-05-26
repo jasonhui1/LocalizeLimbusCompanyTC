@@ -1532,7 +1532,11 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "突襲",
+=======
+          "name": "突击",
+>>>>>>> upstream/main
           "desc": "",
           "coinlist": [
             {
@@ -4025,7 +4029,11 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "防禦護符",
+=======
+          "name": "防御符咒",
+>>>>>>> upstream/main
           "desc": "",
           "coinlist": [
             {
@@ -4228,7 +4236,11 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "防禦護符",
+=======
+          "name": "防御符咒",
+>>>>>>> upstream/main
           "desc": "",
           "coinlist": [
             {
@@ -4369,8 +4381,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "增殖護符",
           "desc": "優先指定破裂 強度最高的單位",
+=======
+          "name": "增殖的符咒",
+          "desc": "优先指定破裂 强度最高的单位",
+>>>>>>> upstream/main
           "coinlist": [
             {},
             {

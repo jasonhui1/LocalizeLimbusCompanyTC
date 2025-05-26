@@ -134,7 +134,11 @@
     },
     {
       "id": "event_for_new_user_from_date",
+<<<<<<< HEAD
       "content": "對象：<color=#990000>{0}月{1}日</color>11:00(CST)後新創建的賬戶"
+=======
+      "content": "对象：<color=#990000>{2}年{0}月{1}日</color>11:00(CST)后新创建的账户"
+>>>>>>> upstream/main
     },
     {
       "id": "mission_progress_rate",
@@ -170,7 +174,11 @@
     },
     {
       "id": "warning_about_change_season_item",
+<<<<<<< HEAD
       "content": "道具第4賽季同步和異想解析專用碎片僅有一半會在新賽季開始時繼承。\n您仍要領取嗎？"
+=======
+      "content": "道具第4赛季同步和异想解析专用碎片仅有一半会在新赛季开始时继承。\n仍要领取吗？"
+>>>>>>> upstream/main
     }
   ]
 }

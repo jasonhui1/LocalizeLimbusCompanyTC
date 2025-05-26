@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 40000201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "刺入破綻",
+          "desc": "[WhenUse] 若目標帶有的負面狀態不少於3種，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得1層呼吸法 \n[OnDirectAttack] 對目標施加1層[Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "雙刃刺衝",
+          "desc": "[StartBattle] 使自身獲得1層[Protection]\n[WhenUse] 若目標帶有的負面狀態不少於3種，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加3級[Breath]強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "戮力同心",
+          "desc": "[WhenUse] 若目標帶有的負面狀態不少於3種，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得3層[Breath]\n[WhenUse] 使自身增加6級[Breath]強度",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加2級[Burst]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬幣暴擊時造成的傷害+100%"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 使目標增加5級破裂 強度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "防護",
+          "desc": "[CanDuelGuard]\n[StartBattle] 隨機解除自身帶有的1種可解除的負面狀態\n[StartBattle] 使自身恢復10點理智值\n[WhenUse] 使自身獲得2層[ProtectStance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

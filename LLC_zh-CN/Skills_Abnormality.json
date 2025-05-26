@@ -2306,8 +2306,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "揮臂橫掃",
           "desc": "[WhenUse] 下回合使自身獲得1層強壯 ",
+=======
+          "name": "横扫",
+          "desc": "[WhenUse] 下回合使自身获得1层强壮 ",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [

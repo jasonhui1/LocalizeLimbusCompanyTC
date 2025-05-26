@@ -86,7 +86,11 @@
     },
     {
       "id": "dungeon_unlocked_line_notice",
+<<<<<<< HEAD
       "content": "新路線開放。"
+=======
+      "content": "新的道路开放了。"
+>>>>>>> upstream/main
     },
     {
       "id": "dungeon_encounter_guide_stairs",

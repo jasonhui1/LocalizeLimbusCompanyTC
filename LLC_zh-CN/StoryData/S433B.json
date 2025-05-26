@@ -21,9 +21,15 @@
     {
       "id": 3,
       "model": "기술해방연합1",
+<<<<<<< HEAD
       "teller": "聯盟成員",
       "title": "技術解放聯盟",
       "content": "說的沒錯。"
+=======
+      "teller": "联盟成员",
+      "title": "技术解放联盟",
+      "content": "说得没错。"
+>>>>>>> upstream/main
     },
     {
       "id": 4,

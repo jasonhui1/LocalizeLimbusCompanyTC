@@ -72,8 +72,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "覆蓋棉花",
           "desc": "指定流血 強度最高的單位\n[WhenUse] 若主要目標爲流血 強度最高的目標，則使本技能的基礎威力+5，施加的狀態變爲2倍",
+=======
+          "name": "覆盖棉花",
+          "desc": "指定[Laceration]强度最高的单位\n[WhenUse] 若主要目标为[Laceration]强度最高的目标，则使本技能的基础威力+5，施加的状态变为2倍",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +104,11 @@
         {
           "level": 1,
           "name": "散落的棉花",
+<<<<<<< HEAD
           "desc": "指定帶有棉花 且體力最低的單位\n[WhenUse] 若主要目標爲流血 強度最高的單位，則使本技能的基礎威力+5\n[EndBattle] 下回合解除[MRcAfBb]狀態",
+=======
+          "desc": "指定带有[MRcAfBa]且体力最低的单位\n[WhenUse] 若主要目标为[Laceration]强度最高的单位，则使本技能的基础威力+5\n[EndBattle] 下回合解除[MRcAfBb]状态",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -163,8 +172,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "散落的紅染棉花",
           "desc": "優先指定流血 強度最高的單位\n[WhenUse] 若主要目標爲流血 強度最高的單位，則使本技能的基礎威力+10\n若目標的流血 強度不低於10級，則使本技能造成的傷害+50%",
+=======
+          "name": "散落的红染棉花",
+          "desc": "优先指定[Laceration]强度最高的单位\n[WhenUse] 若主要目标为[Laceration]强度最高的单位，则使本技能的基础威力+10\n若目标的[Laceration]强度不低于10级，则使本技能造成的伤害+50%",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -233,8 +247,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "點燃",
           "desc": "[WinDuel] 根據目標帶有的燒傷 強度，使其增加相應的燒傷 強度\n[WhenUse] 對目標施加2層燒傷 ",
+=======
+          "name": "点燃",
+          "desc": "[WinDuel] 根据目标带有的[Combustion]强度，使其增加相应的[Combustion]强度\n[WhenUse] 对目标施加2层[Combustion]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -294,8 +313,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "紅豔煞",
           "desc": "使本技能的拼點威力+(紅焰蛾本回合使用的暴怒技能數×2)\n[WhenUse] 使全體敵方單位增加(紅焰蛾本回合使用的暴怒技能數×2)級燒傷 強度",
+=======
+          "name": "红艳煞",
+          "desc": "使本技能的拼点威力+(红焰蛾本回合使用的暴怒技能数×2)\n[WhenUse] 使全体敌方单位增加(红焰蛾本回合使用的暴怒技能数×2)级[Combustion]强度",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -336,8 +360,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "閃避",
           "desc": "[WhenUseEvade] 使目標增加4級燒傷 強度\n[OnSucceedEvade] 下回合使自身獲得1層[MRcAiBa]",
+=======
+          "name": "闪避",
+          "desc": "[WhenUseEvade] 使目标增加4级[Combustion]强度\n[OnSucceedEvade] 下回合使自身获得1层[MRcAiBa]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [

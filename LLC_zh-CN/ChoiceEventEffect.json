@@ -106,7 +106,11 @@
     },
     {
       "id": "UnlockHiddenRoute",
+<<<<<<< HEAD
       "content": "<color=#ebcaa2>地圖中追加了新的路線！</color>"
+=======
+      "content": "<color=#ebcaa2>地图中追加了新的道路！</color>"
+>>>>>>> upstream/main
     },
     {
       "id": "ReduceEnemyWave",

@@ -72,8 +72,13 @@
     },
     {
       "id": "battle_endcommand_11210_1",
+<<<<<<< HEAD
       "desc": "進行攻擊",
       "dlg": "你們也是罪人嗎？"
+=======
+      "desc": "进行攻击",
+      "dlg": "你们也是罪犯吗？"
+>>>>>>> upstream/main
     },
     {
       "id": "battle_enemy_break_11210_1",

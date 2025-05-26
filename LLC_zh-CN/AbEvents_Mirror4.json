@@ -40,7 +40,11 @@
     },
     {
       "id": 97101301,
+<<<<<<< HEAD
       "title": "鏽蝕的刀柄 選項 - 劍法乃斬擊",
+=======
+      "title": "锈蚀的刀柄 判定 - 剑术乃斩击",
+>>>>>>> upstream/main
       "eventDesc": "",
       "prevDesc": "",
       "behaveDesc": "誰來說出自己的見解？",

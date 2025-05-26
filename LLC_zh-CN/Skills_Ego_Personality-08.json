@@ -651,6 +651,166 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2080911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蝍蛆殺",
+          "abName": "百足使徒",
+          "desc": "[EndSkill] 對目標施加層數相當於自身與主要目標的負面狀態數之和的[CentipedePoison](最多5層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Sinking]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若暴食或憂鬱共鳴數不低於4，則對目標施加層數相當於該共鳴數的[CentipedePoison](最多4層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "蝍蛆殺",
+          "abName": "百足使徒",
+          "desc": "[EndSkill] 對目標施加層數相當於自身與主要目標的負面狀態數之和的[CentipedePoison](最多<style=\"highlight\">8</style>層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Sinking]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若暴食或憂鬱共鳴數不低於4，則對目標施加層數相當於該共鳴數的[CentipedePoison](最多4層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "蝍蛆殺",
+          "abName": "百足使徒",
+          "desc": "[EndSkill] 對目標施加層數相當於自身與主要目標的負面狀態數之和的[CentipedePoison](最多<style=\"highlight\">10</style>層)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級[Sinking]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級[Burst]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若暴食或憂鬱共鳴數不低於4，則對目標施加層數相當於該共鳴數的[CentipedePoison](最多<style=\"highlight\">5</style>層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "蝍蛆殺",
+          "abName": "百足使徒",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 對目標施加層數相當於自身與主要目標的負面狀態數之和的[CentipedePoison](最多8層) ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Sinking]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若暴食或憂鬱共鳴數不低於4，則對目標施加層數相當於該共鳴數的[CentipedePoison](最多4層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "蝍蛆殺",
+          "abName": "百足使徒",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 對目標施加層數相當於自身與主要目標的負面狀態數之和的[CentipedePoison](最多<style=\"highlight\">10</style>層) ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Sinking]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若暴食或憂鬱共鳴數不低於4，則對目標施加層數相當於該共鳴數的[CentipedePoison](最多4層)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "蝍蛆殺",
+          "abName": "百足使徒",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 對目標施加層數相當於自身與主要目標的負面狀態數之和的[CentipedePoison](最多10<style=\"highlight\"></style>層) ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Sinking]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若暴食或憂鬱共鳴數不低於4，則對目標施加層數相當於該共鳴數的[CentipedePoison](最多<style=\"highlight\">5</style>層)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

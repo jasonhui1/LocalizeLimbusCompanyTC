@@ -59,7 +59,11 @@
         },
         {
           "message": "前往告解室。",
+<<<<<<< HEAD
           "messageDesc": "進行傲慢判定。判定成功後，獲得E.G.O飾品",
+=======
+          "messageDesc": "进行傲慢判定。判定成功时，获得E.G.O饰品",
+>>>>>>> upstream/main
           "result": [
             ""
           ]

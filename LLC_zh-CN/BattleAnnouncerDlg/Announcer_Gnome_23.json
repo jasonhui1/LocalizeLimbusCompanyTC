@@ -70,7 +70,11 @@
     },
     {
       "id": "announcer_enemy_specialbuff_23_1",
+<<<<<<< HEAD
       "dlg": "用那種拼命叫喚的傢伙才能做出好禮物諾姆！\n說的沒錯諾姆！"
+=======
+      "dlg": "用那种拼命叫唤的家伙才能做出好礼物诺姆！\n说得没错诺姆！"
+>>>>>>> upstream/main
     },
     {
       "id": "announcer_enemy_specialdebuff_23_1",

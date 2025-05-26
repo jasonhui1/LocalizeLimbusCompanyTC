@@ -10,7 +10,11 @@
     },
     {
       "id": "UnitKeyword_FAMILY_GA_CANDIDATE",
+<<<<<<< HEAD
       "content": "家主候選"
+=======
+      "content": "家主候选人"
+>>>>>>> upstream/main
     }
   ]
 }

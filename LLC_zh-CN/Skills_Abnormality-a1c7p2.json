@@ -49,7 +49,11 @@
             {
               "coindescs": [
                 {
+<<<<<<< HEAD
                   "desc": "[OnSucceedAttack] 目標每帶有6級流血 強度，使自身獲得1層攻擊等級提升 與1層防禦等級提升 (每個目標最多3次)"
+=======
+                  "desc": "[OnSucceedAttack] 目标每带有6级[Laceration]强度，使自身获得1层[AttackUp]与1层[DefenseUp](分别最多3层)"
+>>>>>>> upstream/main
                 }
               ]
             },

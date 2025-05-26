@@ -982,10 +982,24 @@
     },
     {
       "id": 10912,
+<<<<<<< HEAD
       "title": "黑獸-巳",
       "name": "羅佳",
       "nameWithTitle": "羅佳",
       "desc": "羅佳的第12人格"
+=======
+      "title": "黑兽-巳",
+      "name": "罗佳",
+      "nameWithTitle": "罗佳",
+      "desc": "罗佳的第12人格"
+    },
+    {
+      "id": 10212,
+      "title": "黑兽-卯 魁首",
+      "name": "浮士德",
+      "nameWithTitle": "浮士德",
+      "desc": "浮士德的第12人格"
+>>>>>>> upstream/main
     }
   ]
 }
