@@ -363,7 +363,11 @@
             {
               "coindescs": [
                 {
+<<<<<<< HEAD
                   "desc": "[OnSucceedAttackHead] 若目標現存體力不高於30%，則直接擊殺目標並使自身恢復30點體力\n下回合使自身獲得2層強壯 "
+=======
+                  "desc": "[OnSucceedAttackHead] 若目标现存体力不高于30%，直接击杀目标并使自身恢复30点体力\n下回合使自身获得2层强壮 "
+>>>>>>> upstream/main
                 }
               ]
             }

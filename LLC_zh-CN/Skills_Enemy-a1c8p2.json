@@ -316,7 +316,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "碰撞",
+          "name": "衝撞",
           "desc": "",
           "coinlist": [
             {
@@ -417,7 +417,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "碰撞",
+          "name": "衝撞",
           "desc": "",
           "coinlist": [
             {},
@@ -512,7 +512,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "碰撞",
+          "name": "衝撞",
           "desc": "",
           "coinlist": [
             {

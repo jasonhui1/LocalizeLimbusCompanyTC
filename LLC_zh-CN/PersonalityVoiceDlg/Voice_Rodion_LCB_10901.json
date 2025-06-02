@@ -77,8 +77,13 @@
     },
     {
       "id": "battle_break_10901_1",
+<<<<<<< HEAD
       "desc": "自身混亂",
       "dlg": "呃……"
+=======
+      "desc": "自身混乱",
+      "dlg": "呃……！"
+>>>>>>> upstream/main
     },
     {
       "id": "battle_kill_10901_1",

@@ -59,14 +59,22 @@
     {
       "id": "StarvingDolcineaOne",
       "name": "衰老",
+<<<<<<< HEAD
       "desc": "- 很久未曾飲用血液了。\n- 攻擊等級-35\n- 防禦等級-35",
+=======
+      "desc": "- 很久未曾饮用血液了。\n- 基础攻击等级-35\n- 基础防御等级-35",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingDolcineaServant",
       "name": "衰老",
+<<<<<<< HEAD
       "desc": "- 很久未曾飲用血液了。\n- 攻擊等級-15\n- 防禦等級-15",
+=======
+      "desc": "- 很久未曾饮用血液了。\n- 基础攻击等级-15\n- 基础防御等级-15",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
@@ -79,9 +87,15 @@
     },
     {
       "id": "ThornyFall_Panic",
+<<<<<<< HEAD
       "name": "荊棘",
       "desc": "拼點勝利時，使自身獲得1層傷害強化 \n回合結束時，下回合使自身獲得2層拼點威力提升 。",
       "summary": "拼點勝利時，使自身獲得1層傷害強化 ",
+=======
+      "name": "荆棘",
+      "desc": "拼点胜利时，使自身获得1层伤害强化 \n回合结束时，下回合使自身获得2层拼点威力提升 ",
+      "summary": "拼点胜利时，使自身获得1层伤害强化 ",
+>>>>>>> upstream/main
       "undefined": "-"
     },
     {
@@ -101,14 +115,23 @@
     {
       "id": "StarvingPriestOne",
       "name": "衰老",
+<<<<<<< HEAD
       "desc": "- 很久未曾飲用血液了。\n- 攻擊等級-15\n- 防禦等級-15",
+=======
+      "desc": "- 很久未曾饮用血液了。\n- 基础攻击等级-15\n- 基础防御等级-15",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBloodPriestServant_LowMorale",
+<<<<<<< HEAD
       "name": "飢餓",
       "desc": "- 士氣低落\n- 回合開始時，使自身獲得1層拼點威力提升 並對自身施加3層防禦等級降低 \n- 回合結束時，受到5點理智傷害",
+=======
+      "name": "饥饿",
+      "desc": "- 士气低落\n- 回合开始时，使自身获得1层拼点威力提升 并对自身施加3层防御等级降低 \n- 回合结束时，失去5点理智值",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },

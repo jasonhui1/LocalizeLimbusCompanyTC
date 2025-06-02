@@ -30,15 +30,25 @@
     },
     {
       "id": "RepressedMurderousIntend",
+<<<<<<< HEAD
       "name": "壓抑的殺氣",
       "desc": "攻擊等級-10，防禦等級-10",
+=======
+      "name": "压抑的杀气",
+      "desc": "基础攻击等级-10，基础防御等级-10",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WeighedMurderousIntend",
+<<<<<<< HEAD
       "name": "深深壓抑的殺氣",
       "desc": "攻擊等級-25，防禦等級-25",
+=======
+      "name": "深深压抑的杀气",
+      "desc": "基础攻击等级-25，基础防御等级-25",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },

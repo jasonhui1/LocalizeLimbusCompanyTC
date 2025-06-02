@@ -47,8 +47,13 @@
     },
     {
       "id": 9020802,
+<<<<<<< HEAD
       "name": "轉移不詳",
       "desc": "陣亡時，隨機對未帶有[OminousTalisman]的1名敵方單位施加10層[OminousTalisman]\n- 若全體敵方單位均帶有[OminousTalisman]，則改爲使全體敵方單位的[OminousTalisman]層數減少1層"
+=======
+      "name": "转移不祥",
+      "desc": "阵亡时，随机对未带有[OminousTalisman]的1名敌方单位施加10层[OminousTalisman]\n- 若全体敌方单位均带有[OminousTalisman]，则改为使全体敌方单位的[OminousTalisman]层数减少1层"
+>>>>>>> upstream/main
     },
     {
       "id": 9020803,

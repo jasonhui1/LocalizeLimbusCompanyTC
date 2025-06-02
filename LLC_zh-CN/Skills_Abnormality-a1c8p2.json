@@ -610,8 +610,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "禁制部分解放:<天究星刃>",
           "desc": "自身的速度值與目標每相差2點，使本技能造成的傷害+20%(最多+60%)\n[WhenUse] 目標每帶有5級[Burst]強度，使本技能的硬幣威力+1(最多+3)\n[WhenUse] 目標每帶有2層[Burst]，使本技能的拼點威力+1(最多+3)",
+=======
+          "name": "禁制部分解放:<天究星刀>",
+          "desc": "自身的速度值与目标每相差2点，使本技能造成的伤害+20%(最多+60%)\n[WhenUse] 目标每带有5级[Burst]强度，使本技能的硬币威力+1(最多+3)\n[WhenUse] 目标每带有2层[Burst]，使本技能的拼点威力+1(最多+3)",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -652,8 +657,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "再次提問",
           "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加2層[Burst]",
+=======
+          "name": "再问你一次",
+          "desc": "[WhenUse] 若目标的破裂 强度不低于5级，则使本技能的拼点威力+1\n[WinDuel] 对目标施加2层[Burst]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -880,8 +890,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "回答我，賈寶玉",
           "desc": "[CantChangeTarget]\n優先指定鴻璐\n[WinDuel] 對目標施加4層[Burst]\n[DefeatDuel] 使目標獲得1層[Teaching]",
+=======
+          "name": "回答我，贾宝玉",
+          "desc": "[CantChangeTarget]\n优先指定鸿璐\n[WinDuel] 对目标施加4层[Burst]\n[DefeatDuel] 若目标为鸿璐，则使其获得1层[Teaching]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -1410,8 +1425,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "跪拜叩首！",
           "desc": "[CantIdentify]\n[WhenUse] 消耗自身體力上限5%的體力(不會因該傷害而陣亡)",
+=======
+          "name": "叩首！",
+          "desc": "[CantIdentify]\n[WhenUse] 消耗自身体力上限5%的体力(不会因该伤害而阵亡)",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [

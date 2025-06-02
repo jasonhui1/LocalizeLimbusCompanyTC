@@ -3,7 +3,11 @@
     {
       "id": "Bloodthirst",
       "name": "血之渴望",
+<<<<<<< HEAD
       "desc": "- 攻擊等級-35\n- 防禦等級-35",
+=======
+      "desc": "- 基础攻击等级-35\n- 基础防御等级-35",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },

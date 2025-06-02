@@ -1385,7 +1385,11 @@
             {
               "coindescs": [
                 {
+<<<<<<< HEAD
                   "desc": "[OnSucceedAttack] 使目標混亂閾值前移本硬幣傷害量的50%"
+=======
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的50%"
+>>>>>>> upstream/main
                 },
                 {
                   "desc": "[OnSucceedAttack] 自身每帶有1層累積的往昔 ，使本技能造成的傷害+1%(最多50%)"
@@ -1407,7 +1411,11 @@
             {
               "coindescs": [
                 {
+<<<<<<< HEAD
                   "desc": "[OnSucceedAttack] 使目標混亂閾值前移等同於自身呼吸法 強度的數值"
+=======
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移相当于自身[Breath]强度的数值"
+>>>>>>> upstream/main
                 }
               ]
             },
@@ -1436,7 +1444,11 @@
             {
               "coindescs": [
                 {
+<<<<<<< HEAD
                   "desc": "[OnSucceedAttack] 若自身的呼吸法 強度不低於5級，則使目標混亂閾值前移本硬幣傷害量的50%"
+=======
+                  "desc": "[OnSucceedAttack] 若自身的[Breath]强度不低于5级，则使目标的混乱阈值前移本硬币伤害量的50%"
+>>>>>>> upstream/main
                 },
                 {
                   "desc": "[OnSucceedAttack] 使所有部位獲得4層呼吸法 並增加8級呼吸法 強度"
@@ -2035,8 +2047,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "嫉妒堆砌",
           "desc": "[WhenUse] 使自身獲得3層充能  \n[DefeatDuel] 自身失去3層充能 ",
+=======
+          "name": "积蓄嫉妒",
+          "desc": "[WhenUse] 使自身获得3层充能  \n[DefeatDuel] 自身失去3层充能 ",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [

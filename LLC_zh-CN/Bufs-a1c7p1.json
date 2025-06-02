@@ -30,8 +30,13 @@
     },
     {
       "id": "BloodDinner_Accumulation",
+<<<<<<< HEAD
       "name": "消耗血宴總數",
       "desc": "- 最大值：999\n- 本場戰鬥中累積消耗的血宴 層數：{0}",
+=======
+      "name": "消耗血宴总数",
+      "desc": "- 最大值：999\n- 本场战斗中累计消耗的血宴 层数：{0}",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
@@ -101,14 +106,22 @@
     {
       "id": "StarvingBarberOne",
       "name": "衰老",
+<<<<<<< HEAD
       "desc": "- 很久未曾飲用血液了。\n- 攻擊等級-15\n- 防禦等級-15",
+=======
+      "desc": "- 很久未曾饮用血液了。\n- 基础攻击等级-15\n- 基础防御等级-15",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingBarberTwo",
       "name": "衰老",
+<<<<<<< HEAD
       "desc": "- 很久未曾飲用血液了。\n- 攻擊等級-25\n- 防禦等級-25",
+=======
+      "desc": "- 很久未曾饮用血液了。\n- 基础攻击等级-25\n- 基础防御等级-25",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },

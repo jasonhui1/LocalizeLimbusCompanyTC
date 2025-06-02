@@ -24,7 +24,11 @@
     {
       "id": "StarvingPriestTwo",
       "name": "衰老",
+<<<<<<< HEAD
       "desc": "- 很久未曾飲用血液了。\n- 攻擊等級-25\n- 防禦等級-25",
+=======
+      "desc": "- 很久未曾饮用血液了。\n- 基础攻击等级-25\n- 基础防御等级-25",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
@@ -121,15 +125,25 @@
     },
     {
       "id": "Dreamy",
+<<<<<<< HEAD
       "name": "如在夢中的猶豫",
       "desc": "- 攻擊等級-35\n- 防禦等級-35",
+=======
+      "name": "如在梦中的犹豫",
+      "desc": "- 基础攻击等级-35\n- 基础防御等级-35",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner_Common_Accumulation",
+<<<<<<< HEAD
       "name": "共用消耗血宴總數",
       "desc": "本場戰鬥中累積消耗的血宴 層數",
+=======
+      "name": "共用消耗血宴总数",
+      "desc": "本场战斗中累计消耗的血宴 层数",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
@@ -156,8 +170,13 @@
     },
     {
       "id": "StarvingDonqui",
+<<<<<<< HEAD
       "name": "飢餓與衰老",
       "desc": "- 攻擊等級-10\n- 防禦等級-10",
+=======
+      "name": "饥饿与衰老",
+      "desc": "- 基础攻击等级-10\n- 基础防御等级-10",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     },
@@ -254,8 +273,13 @@
     },
     {
       "id": "ConfinementOfGoldenBranch",
+<<<<<<< HEAD
       "name": "金枝的強制調律",
       "desc": "- 攻擊等級-30\n- 防禦等級-30",
+=======
+      "name": "金枝的强制调律",
+      "desc": "- 基础攻击等级-30\n- 基础防御等级-30",
+>>>>>>> upstream/main
       "summary": "",
       "undefined": "-"
     }

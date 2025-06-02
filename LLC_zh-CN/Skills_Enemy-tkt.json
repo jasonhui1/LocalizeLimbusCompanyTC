@@ -70,8 +70,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "骯髒的錶鏈子！",
           "desc": "自身每帶有5層震顫 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 爲震顫-分配 ",
+=======
+          "name": "肮脏的表链子！",
+          "desc": "自身每带有5层[Vibration]，使本技能的拼点威力+1(最多+2)\n[WhenUse] 使自身的[Vibration][Switch_Vibration]为[VibrationDistribution]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -140,8 +145,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "可別小瞧我",
           "desc": "[WhenUse] 對自身施加2層震顫 ",
+=======
+          "name": "可别小瞧我了？",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -180,8 +190,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "下賤的錶鏈子！",
           "desc": "自身每帶有5層震顫 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 爲震顫-分配 ",
+=======
+          "name": "下贱的表链子！",
+          "desc": "自身每带有5层[Vibration]，使本技能的拼点威力+1(最多+2)\n[WhenUse] 使自身的[Vibration][Switch_Vibration]为[VibrationDistribution]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -339,8 +354,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "準備好了？",
           "desc": "優先指定帶有震顫-崩壞 的目標\n[WhenUse] 根據自身帶有的震顫 層數，對除自身以外的全體友方單位施加相應層數的震顫 \n[WhenUse] 使包括自身在內的全體友方單位的震顫 振幅轉換 爲震顫-分配 ",
+=======
+          "name": "准备好了？",
+          "desc": "优先指定带有[VibrationCollapse]的目标\n[WhenUse] 根据自身带有的[Vibration]层数，对除自身以外的全体友方单位施加相应层数的[Vibration]\n[WhenUse] 使包括自身在内的全体友方单位的[Vibration][Switch_Vibration]为[VibrationDistribution]",
+>>>>>>> upstream/main
           "coinlist": [
             {},
             {},
@@ -386,8 +406,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "爲了我們的事業",
           "desc": "[CantDuel]\n[StartBattle] 對自身施加層數相當於除自身以外全體友方單位震顫 層數之和的震顫 ，解除全體友方單位的震顫 \n[StartBattle] 自身每帶有3層震顫 ，使自身獲得1層攻擊等級提升 \n[WhenUse] 對自身施加9層震顫 ",
+=======
+          "name": "为了我们的事业",
+          "desc": "[CantDuel]\n[StartBattle] 对自身施加层数相当于除自身以外全体友方单位[Vibration]层数之和的[Vibration]，解除全体友方单位的[Vibration]\n[StartBattle] 自身每带有3层[Vibration]，使自身获得1层[AttackUp]\n[WhenUse] 对自身施加9层[Vibration]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -460,8 +485,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "請您止步。",
           "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於4層，則使本技能的拼點威力+1",
+=======
+          "name": "请您止步。",
+          "desc": "[WhenUse] 对自身施加2层[Vibration]\n[WhenUse] 若自身的[Vibration]层数不低于4层，则使本技能的拼点威力+1",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -495,8 +525,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "強制徵收執行。",
           "desc": "[WhenUse] 自身每帶有5層震顫 ，則使本技能的拼點威力+1(最多+2)\n[WhenUse] 若自身的震顫 層數不低於5層，則自身每帶有1層震顫 ，使本技能造成的傷害+10%(最多+100%)\n[EndSkill] 消耗自身所有震顫 層數",
+=======
+          "name": "强制征收执行。",
+          "desc": "[WhenUse] 自身每带有5层[Vibration]，则使本技能的拼点威力+1(最多+2)\n[WhenUse] 若自身的[Vibration]层数不低于5层，则自身每带有1层[Vibration]，使本技能造成的伤害+10%(最多+100%)\n[EndSkill] 消耗自身所有[Vibration]层数",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -622,8 +657,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "請出示鐘錶。",
           "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
+=======
+          "name": "请出示钟表。",
+          "desc": "[WhenUse] 若自身的[Vibration]层数不低于5层，则使本技能的拼点威力+1\n[WhenUse] 对自身施加2层[Vibration]\n[WinDuel] 消耗自身的3层[Vibration]并使自身获得1层[TimeRentalTwo]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -651,8 +691,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "強制徵收執行。",
           "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 自身每帶有4層震顫 ，使本技能的基礎威力+1(最多+3)\n[WinDuel] 消耗自身的5層震顫 並使自身獲得3層[TimeRentalTwo]",
+=======
+          "name": "强制征收执行。",
+          "desc": "[WhenUse] 对自身施加3层[Vibration]\n[WhenUse] 自身每带有4层[Vibration]，使本技能的基础威力+1(最多+3)\n[WinDuel] 消耗自身的5层[Vibration]并使自身获得3层[TimeRentalTwo]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [

@@ -94,7 +94,11 @@
       "id": 17,
       "model": "로쟈",
       "title": "LCCB",
+<<<<<<< HEAD
       "content": "大家準備好了嗎？我們上吧~！"
+=======
+      "content": "大家准备好了吗？我们上吧~？"
+>>>>>>> upstream/main
     },
     {
       "id": 18,

@@ -84,8 +84,13 @@
     },
     {
       "id": 2069,
+<<<<<<< HEAD
       "name": "充滿瘋狂的古代文書",
       "desc": "關卡的首個回合開始時，參戰的全體友方單位失去5點理智值並在本場戰鬥中獲得1層[ShamrockResultUp]與1層[ShamrockDamageUp]。\n拼點失敗時，使其失去5點理智值並使該技能的最後一枚硬幣轉化爲[SuperCoin](不包括E.G.O技能，每回合每名友方單位最多1次)",
+=======
+      "name": "寄宿疯狂的古代文书",
+      "desc": "关卡的首个回合开始时，参战的全体友方单位失去5点理智值并在本场战斗中获得1层[ShamrockResultUp]与1层[ShamrockDamageUp]。\n拼点失败时，使其失去5点理智值并使该技能的最后一枚硬币转化为[SuperCoin](不包括E.G.O技能，每回合每名友方单位最多1次)",
+>>>>>>> upstream/main
       "simpleDesc": [
         {
           "abilityID": 2069,
