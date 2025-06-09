@@ -431,9 +431,15 @@
     {
       "id": 84,
       "model": "크로머",
+<<<<<<< HEAD
       "teller": "克羅默",
       "title": "釘與錘",
       "content": "但執握之人可是我啊。"
+=======
+      "teller": "克罗默",
+      "title": "钉与锤",
+      "content": "可我才是执握之人啊。"
+>>>>>>> upstream/main
     }
   ]
 }

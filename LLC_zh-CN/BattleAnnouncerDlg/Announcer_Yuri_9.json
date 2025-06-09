@@ -54,7 +54,11 @@
     },
     {
       "id": "announcer_advatk_physical_9_1",
+<<<<<<< HEAD
       "dlg": "傷口十分利落……那一定就是它們的弱點吧？"
+=======
+      "dlg": "伤口十分利落……那一定就是其弱点吧？"
+>>>>>>> upstream/main
     },
     {
       "id": "announcer_disadvatk_physical_9_1",
@@ -66,7 +70,11 @@
     },
     {
       "id": "announcer_disadvatk_attr_9_1",
+<<<<<<< HEAD
       "dlg": "我認爲對那個實體使用其他方式會更好……"
+=======
+      "dlg": "我认为对那个实体使用其他方法会更好……"
+>>>>>>> upstream/main
     },
     {
       "id": "announcer_enemy_specialbuff_9_1",

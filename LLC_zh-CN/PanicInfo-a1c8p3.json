@@ -9,8 +9,13 @@
     {
       "id": 1046,
       "panicName": "肉勺",
+<<<<<<< HEAD
       "lowMoraleDescription": "回合開始時，使自身增加5級[Laceration]強度並使自身獲得1層[Enhancement]。",
       "panicDescription": "回合開始時，使自身增加10層[Laceration]強度並使自身獲得2層[Enhancement]。"
+=======
+      "lowMoraleDescription": "回合开始时，使自身增加5级[Laceration]强度并使自身获得1层[Enhancement]。",
+      "panicDescription": "回合开始时，使自身增加10级[Laceration]强度并使自身获得2层[Enhancement]。"
+>>>>>>> upstream/main
     },
     {
       "id": 1050,

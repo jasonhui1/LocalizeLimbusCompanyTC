@@ -5,7 +5,11 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "擊潰傷口",
+=======
+          "name": "撕裂伤口",
+>>>>>>> upstream/main
           "desc": "",
           "coinlist": [
             {

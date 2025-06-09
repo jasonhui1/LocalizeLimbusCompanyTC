@@ -514,6 +514,13 @@
     {
       "id": "MirrorWorld_Story_Title_P10212",
       "content": "黑兽 - 卯 魁首：浮士德的故事"
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10812",
+      "content": "家主候选人：以实玛利的故事"
 >>>>>>> upstream/main
     }
   ]

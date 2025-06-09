@@ -6,7 +6,11 @@
     },
     {
       "id": "announcer_cheer_6_2",
+<<<<<<< HEAD
       "dlg": "不必擔憂。只要還剩下最後一個血細胞，生命便得以以某種方式保存。"
+=======
+      "dlg": "不必担忧。只要还剩下最后一个血细胞，生命便得以藉某种方式保存。"
+>>>>>>> upstream/main
     },
     {
       "id": "announcer_specialcheer_6_1",

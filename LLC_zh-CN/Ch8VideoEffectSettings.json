@@ -304,7 +304,11 @@
         {
           "texts": [
             {
+<<<<<<< HEAD
               "text": "難過",
+=======
+              "text": "忧伤",
+>>>>>>> upstream/main
               "additionPosX": 0,
               "additionPoxY": 0,
               "additionPosZ": 0,

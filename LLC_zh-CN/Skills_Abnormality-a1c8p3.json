@@ -568,8 +568,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "螺旋型扭曲場",
           "desc": "[DuelGuard] \n[StartBattle] 使賈環與仇甫獲得30點護盾\n[WinDuel] 使賈環與仇甫獲得30點護盾",
+=======
+          "name": "螺旋型扭曲场",
+          "desc": "[CanDuelGuard] \n[StartBattle] 使贾环与仇甫获得30点护盾\n[WinDuel] 使贾环与仇甫获得30点护盾",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -985,8 +990,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "全黑仙丸-酉-守備",
           "desc": "[WhenUse] 若目標的[Laceration]與[Burst]強度之和不低於5級，則使本技能的硬幣威力+2\n[WhenUse] 使自身恢復8點理智值\n[WhenUse] 使自身增加3級[Breath]強度並使自身獲得2層[Breath]",
+=======
+          "name": "全黑仙丸-酉-守备",
+          "desc": "[CanDuelGuard] \n[WhenUse] 若目标的[Laceration]与[Burst]强度之和不低于5级，则使本技能的硬币威力+2\n[WhenUse] 使自身恢复8点理智值\n[WhenUse] 使自身增加3级[Breath]强度并使自身获得2层[Breath]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -1155,10 +1165,21 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "徒勞無益的掙扎...！",
           "desc": "[WhenUse] 目標的[Laceration]與[Burst]強度之和每有5級，使本技能的硬幣威力+1(最多+3)\n[WinDuel] 對目標施加1層[Burst]與2層[DefenseDown]",
+=======
+          "name": "徒劳无益的挣扎…！",
+          "desc": "[CanDuelGuard] \n[WinDuel] 使贾母恢复15点理智值。若贾母的理智值不高于0点，则改为恢复30点理智值。",
+>>>>>>> upstream/main
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
           ]
         }
       ]
@@ -1205,7 +1226,11 @@
             {
               "coindescs": [
                 {
+<<<<<<< HEAD
                   "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加1層累積的順從 "
+=======
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层积累的顺从 "
+>>>>>>> upstream/main
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加3層[Laceration]"
@@ -1265,8 +1290,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "仙皇蟲大人，請待在這小姑娘身邊",
           "desc": "[StartBattle] 使本體與軀幹部位獲得其體力上限10%的護盾\n[WhenUse] 下回合使軀幹部位獲得1層[Enhancement]，1層[Endurance]與2層[AttackDmgUp]\n[WhenUse] 使自身恢復15點理智值",
+=======
+          "name": "仙皇虫大人，请待在吾身边",
+          "desc": "[StartBattle] 使本体与躯干部位获得其体力上限10%的护盾\n[WhenUse] 下回合使躯干部位获得1层[Enhancement]，1层[Endurance]与2层[AttackDmgUp]\n[WhenUse] 使自身恢复15点理智值",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -1338,8 +1368,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "極仙榨滴供養",
           "desc": "[CantIdentify]\n本技能不會對友方單位造成傷害\n[WhenUse] 每有1名友方單位帶有[SupremeEternalLife]，使本技能的硬幣威力+2，造成的傷害+20%\n[WhenUse] 若沒有友方單位帶有[SupremeEternalLife]，則使全體目標獲得200點護盾\n[EndSkill] 結束本回合",
+=======
+          "name": "极仙榨滴供养",
+          "desc": "[CantIdentify]\n本技能不会对友方单位造成伤害\n可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱\n[WhenUse] 每有1名友方单位带有[SupremeEternalLife]，使本技能的硬币威力+2，造成的伤害+20%\n[WhenUse] 若没有友方单位带有[SupremeEternalLife]，则使全体目标获得200点护盾\n[EndSkill] 结束本回合",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -1388,8 +1423,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "吾會安分守己",
           "desc": "[CanDuelGuard] \n[WinDuel] 使賈母恢復15點理智值。若賈母的理智值不高於0點，則改爲恢復30點理智值。",
+=======
+          "name": "我会安分守己",
+          "desc": "[CanDuelGuard] \n[WinDuel] 使贾母恢复15点理智值。若贾母的理智值不高于0点，则改为恢复30点理智值。",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -1483,8 +1523,13 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "仙人的睿智忠告",
           "desc": "[WhenUse] 下回合使賈母獲得1層[Enhancement]與1層[AttackDmgUp]",
+=======
+          "name": "仙人的睿智劝诫",
+          "desc": "[WhenUse] 下回合使贾母获得1层[Enhancement]与1层[AttackDmgUp]",
+>>>>>>> upstream/main
           "coinlist": [
             {
               "coindescs": [
@@ -1528,7 +1573,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "吾需要更多生命...",
+          "name": "吾需要更多生命…",
           "desc": "",
           "coinlist": [
             {
@@ -1547,10 +1592,17 @@
       "levelList": [
         {
           "level": 1,
+<<<<<<< HEAD
           "name": "徒勞無益的掙扎...！",
           "desc": "[WhenUse] 目標的[Laceration]與[Burst]強度之和每有5級，使本技能的硬幣威力+1(最多+3)\n[WinDuel] 對目標施加1層[Burst]與2層[DefenseDown]",
+=======
+          "name": "徒劳无益的挣扎…！",
+          "desc": "[CanDuelGuard]\n[WhenUse] 目标的[Laceration]与[Burst]强度之和每有5级，使本技能的硬币威力+1(最多+3)\n[WinDuel] 对目标施加1层[Burst]与2层[DefenseDown]",
+>>>>>>> upstream/main
           "coinlist": [
-            {}
+            {
+              "desc": "[SuperCoin]"
+            }
           ]
         }
       ]

@@ -1257,7 +1257,11 @@
             {
               "texts": [
                 {
+<<<<<<< HEAD
                   "text": "寶玉，奶奶和媽媽都說，",
+=======
+                  "text": "宝玉，老太太和妈妈都说，",
+>>>>>>> upstream/main
                   "additionPosX": 0,
                   "additionPoxY": 0,
                   "additionPosZ": 0,

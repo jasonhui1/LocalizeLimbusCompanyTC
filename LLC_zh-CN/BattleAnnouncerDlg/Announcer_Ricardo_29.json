@@ -74,7 +74,11 @@
     },
     {
       "id": "announcer_enemy_specialbuff_29_1",
+<<<<<<< HEAD
       "dlg": "第72條第3項D行第4列。使用未確認的強化手段威脅中指成員，應處以毆打至死之刑。"
+=======
+      "dlg": "第72条第3项D行第4列。使用未确认的强化手术威胁中指成员，应处以殴打至死之刑。"
+>>>>>>> upstream/main
     },
     {
       "id": "announcer_enemy_specialdebuff_29_1",
